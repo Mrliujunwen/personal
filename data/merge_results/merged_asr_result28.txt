@@ -1,0 +1,648 @@
+
+=== 文件: 28.4K.H265.AAC-YYDS ===
+
+speaker: Speaker_0
+datas: 14960-22835ms
+sentence: 这江山起起伏福的曲线风，
+
+speaker: Speaker_2
+datas: 23400-27860ms
+sentence: 把爱的终原爱过后，
+
+speaker: Speaker_0
+datas: 28280-36155ms
+sentence: 江南都去匆风情歌。
+
+speaker: Speaker_0
+datas: 39070-54055ms
+sentence: 这是在红色的的、 金色的昨日， 何局艰险， 豪情， 不与你又一年。
+
+speaker: Speaker_2
+datas: 55090-62315ms
+sentence: 做人有苦有善恶， 分开， 两边都为梦中的不疼。
+
+speaker: Speaker_1
+datas: 65330-65995ms
+sentence: 一种种，
+
+speaker: Speaker_1
+datas: 69570-76150ms
+sentence: 我说风中当空房间紧握住，
+
+speaker: Speaker_2
+datas: 77590-91200ms
+sentence: 只有旋转不家的，
+
+speaker: Speaker_1
+datas: 91200-92995ms
+sentence: 我五百年，
+
+speaker: Speaker_1
+datas: 105200-110295ms
+sentence: 我的是这个。
+
+speaker: Speaker_0
+datas: 111140-112660ms
+sentence: 做人何惧艰险，
+
+speaker: Speaker_3
+datas: 113040-114440ms
+sentence: 豪情不变，
+
+speaker: Speaker_0
+datas: 114560-115765ms
+sentence: 年复一年。
+
+speaker: Speaker_2
+datas: 117170-130290ms
+sentence: 做人有苦有甜， 善恶分在两边， 为梦中等， 明天冲好的，
+
+speaker: Speaker_1
+datas: 131680-140815ms
+sentence: 我说我双肩紧握住路相转，
+
+speaker: Speaker_3
+datas: 142420-155175ms
+sentence: 我说不在， 我五百年，
+
+speaker: Speaker_3
+datas: 161260-164115ms
+sentence: 在五百年。
+
+speaker: Speaker_5
+datas: 180400-205840ms
+sentence: 当前形势逼人呐， 为缓和大陆的迁界， 近海， 本王已制书清廷， 请康熙派众臣前来和谈。 延平王圣剑太平岁月很难看出中间来的当今台湾时局艰难， 这才能看出人心叵测呀。
+
+speaker: Speaker_7
+datas: 205840-209960ms
+sentence: 末将宁愿战死， 不愿谈判。 臣与康熙势不两立， 对势不两立，
+
+speaker: Speaker_5
+datas: 210140-228330ms
+sentence: 谈判还是要谈的， 我们可以借谈判， 示弱于倾庭， 方能以柔克刚。 合局一开对外呢， 我们可以交敌对内马， 我们可以中间立宪。 延边陪王了，
+
+speaker: Speaker_7
+datas: 228330-280025ms
+sentence: 师见臣随未拆阅台湾书信， 但臣预料， 此筒内八成是正式的几何书信。 如臣偶然料中则臣建议朝廷冷淡政事三个月， 然后再派员招府。 臣以为谈判是要谈的， 但谈判所得的东西远不如打仗， 打下来的东西可靠，
+
+speaker: Speaker_8
+datas: 281870-284045ms
+sentence: 正经企合的折子， 你们都看了吧，
+
+speaker: Speaker_7
+datas: 285080-288965ms
+sentence: 看过了， 臣看了足足三遍， 每次感受都不一样。
+
+speaker: Speaker_8
+datas: 289670-293200ms
+sentence: 说说看呃，
+
+speaker: Speaker_7
+datas: 293620-319695ms
+sentence: 这第一遍陈玺郑经已经知道朝廷厉害， 开始向皇上献位。 第二遍。 陈攸郑经在唱梅花三弄， 使缓兵之计第三遍， 臣又醒， 此乃收台之良机。 一旦成功， 则三年近海费用全都省下。 朝廷不战而胜，
+
+speaker: Speaker_8
+datas: 320400-325965ms
+sentence: 姚继胜也是喜忧参半， 他怀疑郑经的诚意让朕冷， 他三个月，
+
+speaker: Speaker_7
+datas: 326970-338790ms
+sentence: 皇上千万冷不得呀。 臣建议要趁热打铁， 将百炼钢化作绕指揉皇上一旦冷下来， 郑经见求和不成， 便要顽抗到底呀。
+
+speaker: Speaker_9
+datas: 339330-351445ms
+sentence: 那姚启胜之所以停止谈判， 多少有点哑寇自重的意思。 皇上， 您想啊， 台湾顺利收归那姚启胜， 岂不无用武之地了？
+
+speaker: Speaker_8
+datas: 352920-366765ms
+sentence: 哎， 你们总是把姚启生想的这么阴暗， 他都多大了？ 六十四了半决入土的人， 只不过想在这有生之年做点事儿， 补补这辈子的缺憾， 这一点朕不会看错的，
+
+speaker: Speaker_9
+datas: 367490-374690ms
+sentence: 臣多虑了。 臣的意思是， 虽然弹劾， 但仍当立足于战。
+
+speaker: Speaker_8
+datas: 375490-395730ms
+sentence: 这话说的是正经契合， 诚意不足。 不过他向朕献媚眼儿， 朕就笑脸相迎。 他要向朕呲牙， 朕就以铁拳相待。 总之， 且不论郑经有没有诚意， 朕是有诚意的明珠啊。
+
+speaker: Speaker_7
+datas: 396330-397725ms
+sentence: 臣候旨，
+
+speaker: Speaker_8
+datas: 398550-413370ms
+sentence: 这次轮到你建功立业的时候了， 你要深思熟虑一下， 草拟一下和郑经谈判的条件， 朕只有三个原则， 一剃发、 二称臣、 三登案。 除此之外， 任何条件都好商量，
+
+speaker: Speaker_7
+datas: 413790-416430ms
+sentence: 皇上由谁赴台谈判呢？
+
+speaker: Speaker_8
+datas: 416710-449130ms
+sentence: 当然是你啊万花筒啊， 满腹经纶， 蛇战群雄去为大清扬威。 这有一件事， 你们要记着大清和台湾既非两国也不是什么两朝， 而是朝廷与下属府道台的关系。 所以你这次去不是什么蒋和使节， 而是朝廷的特命钦差奉旨招府啊， 你要恩威并用啊不要有辱盛望，
+
+speaker: Speaker_7
+datas: 449550-458870ms
+sentence: 皇上放心。 姚启胜以为朝廷立下大功了， 奴才绝不会输给这个汉臣的搜徒臣在关于整军备战的事儿，
+
+speaker: Speaker_8
+datas: 458870-478080ms
+sentence: 你要全力以赴的去做枕件啊， 还有兵部、 吏部、 户部， 你们全当没有谈判这回事， 一门心思武力收台这明珠。 三天以后， 朕为你置酒送行，
+
+speaker: Speaker_7
+datas: 478620-510015ms
+sentence: 谢皇上隆恩， 但有一事请皇上。 明示说， 福建姚启胜总揽台务臣。 此行为， 钦差大臣与姚启胜可谓是一山二虎， 各奉其耻， 奴才斗胆， 叩问， 皇上福建。 距此四千余里鲁遇紧急情况是姚启胜节制奴才呀， 还是奴才节着摇起声呢？ 哼，
+
+speaker: Speaker_8
+datas: 512030-519605ms
+sentence: 你这话问得很呢， 你还没出京呢， 就和朕谈判了， 你是怕他和你争功吧。
+
+speaker: Speaker_7
+datas: 521890-536760ms
+sentence: 皇上姚启圣之台初见成效， 功在皇上， 若不是皇上授予他重权， 他何以成事啊？ 但是姚启胜的傲气， 奴才四千里以外， 他问得道，
+
+speaker: Speaker_9
+datas: 537400-543860ms
+sentence: 皇上遣解近海， 首推姚启胜招抚， 台湾却要靠冥想啊。
+
+speaker: Speaker_7
+datas: 544140-548575ms
+sentence: 臣斗胆祈求皇上授予招府专权， 以防姚启胜撤肘。
+
+speaker: Speaker_8
+datas: 554550-563145ms
+sentence: 那好， 朕赐你一道密旨， 碰到紧急情况， 你可以且止要起胜啊，
+
+speaker: Speaker_7
+datas: 564110-621495ms
+sentence: 臣领旨招服钦差大臣明珠到啊福建总督姚启胜参见明相。 哎， 姚大人快快请起， 快快请起。 哎呀， 姚大人， 明珠简直不敢认你了， 怎么啊？ 三个月不见你是光彩照人， 气色灿烂， 越活越年轻喽。 明相说的是养马那会儿马肥了人老了， 如今做总督这会儿大权在握， 天天都是青春期呀。 好， 姚大人好福气呀。 哎明相您请我请你喝茶极品铁观音呐。 啊， 姚大人请明相请哎， 姚大人请名相请好好。 哎，
+
+speaker: Speaker_7
+datas: 634450-645735ms
+sentence: 请啊一回味无穷啊，
+
+speaker: Speaker_7
+datas: 647750-679855ms
+sentence: 一你嗯苦怎么跟喝药似的？ 嘿功夫茶本来就是良药包以百病哦哦呃名相当然没病， 没病也可以健身嘛。 姚大人打今日起， 你我就要风雨同舟， 荣辱与共了， 就等着名相这句话今日起， 下官为名， 相马首是战好。 姚大人不愧是养过马的。
+
+speaker: Speaker_7
+datas: 705040-705510ms
+sentence: 嗯嗯，
+
+speaker: Speaker_7
+datas: 710560-1025915ms
+sentence: 名相真是名动天下。 刚刚到任查还没过三旬， 哎， 海峡对岸就知道了啊， 本钦差呈天威南下， 所过之处无人不晓啊。 且慢， 咱们猜一猜郑经， 说什么我又不是他肚里虫子， 怎么猜得到啊？ 两军对阵， 应该料敌于先吗？ 下官十猜九中哦， 哼这我倒要验证一下， 请姚大人私教正经此辙。 一定是给朝廷的构和条件， 他必定是要皇上封他为王永驻台湾。 嗯， 有道理是是姚大人啊， 你最大的毛病就是太自信， 下官错了， 你错的没边儿了， 我念给你听听。 首先， 此信并非出自正经之手， 而是信南侯正太的秘信听着郑经， 绝无归属朝廷之心政经， 意在借谈判来争取时间， 使朝廷徒耗时日， 让禁海令虎头蛇尾， 不了了之。 郑经最终将割岛称王， 另立朝廷臣正太， 早已不堪政经所辱。 决议归降大清皇上姚大人， 我看正太这笔字儿嘛， 倒是小有成就， 八成是学过王羲之， 姚大人看看是否有点书胜的味道啊。 呃呃呃呃， 台湾就要起内乱了， 真乃皇上之喜， 本钦差之福啊。 此事朝廷可以大家利用收事半功倍之效， 正太不可信任， 明相应当坚定不移。 以郑经为谈判对手， 为什么医者郑经是台彭金夏之王部军水师， 官吏财政均在郑京之手。 正太虽是正经， 伯父， 却是属下， 只是奉命驻守金夏冥想， 你是朝廷。 招抚钦差， 岂有舍郑经而救正太之理？ 再者， 我对于卖主求荣之徒， 从来不敢信任。 嗯嗯， 我看姚大人除了刚才的大毛病之外， 还有个小毛病， 请教迂腐啊。 如果正太卖主求荣， 我看这是好事嘛， 果然能借正太之刀杀掉郑经， 何乐而不为呢？ 名相不愧是万花筒， 果然有十八个心眼儿， 眼奄相通， 瞬息万变呀。 姚启胜药气熏天， 皇上赏你个差使， 你却携台湾自重。 言关早有弹劾， 说窑毒之祸， 不亚于台湾之祸。 要不是皇上护着你， 要不是我明珠善言维持， 早就把你的官了。 嘿， 三里河马场不是还在三里河吗？ 将真到了那一天， 洋码头没门找马阁国师吧。 明相说的那一天总得等台湾收复以后再说常规式写了， 墨才好杀驴呀。 那行了行了行了， 不争了， 不争了。 老这么跟你斗嘴， 我明珠都被你勾引坏了。 是啊， 咱们还是谈谈风雨同舟荣辱与共吧。 姚继生令你明日将台棚金夏全部敌情整理报我后日被官船。 两艘侍卫十八名随我赴金门岛金门岛， 首复金门， 收服正太， 再由金门岛转赴。 台湾本督总理台务明相此举本督不同意。 嗯嗯， 我明白了， 你是嫉妒本相担心收台大功落到我明珠手上是吗？ 有那么一点儿， 但更主要的是我是担心别把我姚启胜辛辛苦苦构筑的平台方略搞砸了， 台湾收不回来， 反走得更远。 放肆。 平台方略是你的吗？ 那是皇上的呃， 下官誓言姚启胜啊。 姚启圣， 我本不想为难你的是你他。 姚启圣接旨， 臣皆旨，
+
+speaker: Speaker_7
+datas: 1029180-1062135ms
+sentence: 嗯， 朕授予明珠， 临机专断职权。 凡与府台事务相关的各级文武均由钦差大臣、 明珠一体节制。 亲此臣灵旨大人大人呃呃啊老红啊，
+
+speaker: Speaker_10
+datas: 1063260-1066665ms
+sentence: 在下已将名相送至驿馆前来奉命。
+
+speaker: Speaker_7
+datas: 1067590-1082240ms
+sentence: 一路上他没说过什么啰啰嗦嗦的都是盛赞大人的话， 人家是春风得意哟。 名相夸谁谁就得心惊肉跳。 大人皇上。
+
+speaker: Speaker_10
+datas: 1082240-1085270ms
+sentence: 此举每到关键时刻，
+
+speaker: Speaker_7
+datas: 1085910-1096510ms
+sentence: 皇上最为倚重的还是满族皇亲周培公推荐我出山， 恐怕我也要做第二个周沛公了。
+
+speaker: Speaker_10
+datas: 1096630-1100055ms
+sentence: 大人您比周沛公更高明一层啊。
+
+speaker: Speaker_7
+datas: 1103830-1111135ms
+sentence: 此次明珠府台成了功， 在于明珠败了， 我也难逃其过呀。
+
+speaker: Speaker_7
+datas: 1113550-1119675ms
+sentence: 哎这赴台的事我就能行， 皇上何必知他跟我添乱。
+
+speaker: Speaker_7
+datas: 1140770-1177525ms
+sentence: 本钦差此行无异于只身赴虎， 血情恶浓。 但是， 本钦差早将生死置之度外。 行前， 本钦差留遗言在此。 如果本钦差一去不回， 待皇上大军攻下台湾后， 有劳列位在日月谈判来一炷清香， 让本钦差亡灵有之啊， 三柱清香老大人就回府喝茶去吧。 哎明霞万万慎重慎重啊。
+
+speaker: Speaker_7
+datas: 1179750-1181445ms
+sentence: 好了， 回去吧，
+
+speaker: Speaker_7
+datas: 1192220-1203110ms
+sentence: 太子太保领吏部尚书特命招抚钦差纳兰明珠驾到啊， 在下今夏统治新南侯正太，
+
+speaker: Speaker_6
+datas: 1203550-1206210ms
+sentence: 在下左先锋靖海侯施琅啊，
+
+speaker: Speaker_7
+datas: 1206410-1228580ms
+sentence: 两位义士久仰了皇上托明珠给两位带好来了， 皇上还经常念叨你们呢啊， 您想请啊请哎呀， 这么多壮士啊， 搁这小岛上可惜了， 应当弃暗投明， 为大清效力才是啊，
+
+speaker: Speaker_6
+datas: 1228980-1231960ms
+sentence: 这些壮士任今夏共存亡哦，
+
+speaker: Speaker_7
+datas: 1232180-1256145ms
+sentence: 好啊， 这样更好啊， 应当同台彭今夏一起共同来为大清效力啊啊， 宁星先赴驿站歇歇啊， 不累不累， 一点儿都不累啊。 明珠头一回登海岛， 想看看异域的风光， 有劳二位领着明珠随意走走可好啊，
+
+speaker: Speaker_6
+datas: 1256930-1261175ms
+sentence: 就请信南侯陪着名相走走吧， 在下告辞了。
+
+speaker: Speaker_7
+datas: 1266020-1266390ms
+sentence: 嗯嗯，
+
+speaker: Speaker_7
+datas: 1268720-1320345ms
+sentence: 果然是个海霹雳呀， 名不虚传呐啊他就这性子， 要不然姚启胜当年怎么会将他逐出师门呢？ 啊， 陛相在下陪你走走啊。 好好好， 请啊此举台湾需多少时辰啊？ 风向顺畅的话， 快船四天半啊啊有一圈儿济南侯距台湾四五天距大陆却只有三个神辰。 如此看来， 信南侯还犹豫什么呢？ 在下不懂名相的意。 嗯嗯， 嗯本钦差抵达总督府的当夜就得到一则密信。 署名是陈正太。
+
+speaker: Speaker_7
+datas: 1322910-1332875ms
+sentence: 敢问信中说些什么啊？ 信中说， 正太不堪政经所辱， 决议归降大清皇帝。
+
+speaker: Speaker_7
+datas: 1334990-1341995ms
+sentence: 你想岛上天气多变， 我们还是进陵再说吧。 好啊行，
+
+speaker: Speaker_7
+datas: 1347730-1365405ms
+sentence: 哎， 这是什么树啊啊， 无畏风暴便于海滩相思树相思树。 您想请看相思树下尽相思啊啊， 您想请看，
+
+speaker: Speaker_7
+datas: 1369760-1388625ms
+sentence: 这都是数十年来的首岛将士， 大多数人死于荷兰人的刀下呀。 啊， 为何墓碑全部朝北呀？ 啊， 死者祖籍都在内陆， 他们虽埋入黄土， 仍然备忘神州啊，
+
+speaker: Speaker_7
+datas: 1393980-1425095ms
+sentence: 那蓝明珠身为感配呀， 请风萧萧兮易水寒， 壮士一去兮不复还。 哎， 西南侯就不必吟风弄月了， 死者是不会泄密的。 现在你我都担着血海般的干系。 我请你以诚相见， 进土真言吧，
+
+speaker: Speaker_7
+datas: 1432650-1434735ms
+sentence: 这是你哥哥正安之墓。
+
+speaker: Speaker_7
+datas: 1437010-1447145ms
+sentence: 十二年前， 郑成功去世， 引发王储之争， 是郑经社稷杀害了你哥哥。 郑安继承了延平王之位， 对吗？
+
+speaker: Speaker_7
+datas: 1450900-1456225ms
+sentence: 可真安， 不是郑经杀的， 而是我杀的。
+
+speaker: Speaker_7
+datas: 1458450-1461285ms
+sentence: 什么？ 你杀了你哥哥，
+
+speaker: Speaker_7
+datas: 1465270-1497375ms
+sentence: 明香啊。 十二年前， 先王郑成功去世， 格格与我欲另立， 王子不信计划败露， 眼看着将灭九族啊， 我哥哥正安流着眼泪与我效力， 要我以奉旨平判为名将， 他自己斩首， 并且陛， 且要我提着他的首级向正经报功。 哥哥说，
+
+speaker: Speaker_7
+datas: 1499420-1502725ms
+sentence: 只有这样， 我才能获得郑钧的信任，
+
+speaker: Speaker_7
+datas: 1507120-1515955ms
+sentence: 天下竟这等不如己。 零下这坟里买的是我哥哥无手之身呐。
+
+speaker: Speaker_7
+datas: 1519130-1537824ms
+sentence: 仇赐恨， 我岂能不报兄弟二人以死求活。 这我能理解， 我不能理解的是， 为何不是你哥哥杀了你， 而是你杀了你哥哥。 因为我有儿子， 而我哥哥当过民工太监， 终身无后啊，
+
+speaker: Speaker_7
+datas: 1541820-1600155ms
+sentence: 正太并祝多有得罪陛下， 你听着我已在台湾， 不知妥。 大， 你到达延平王府后， 郑经将赦宴款待。 宴席上听我一声令下， 自有卧底。 刺杀。 郑惊事成后， 我将率领台蓬今夏三十六道， 军民去发称臣。 登岸好有什么条件？ 条件是朝廷必须封我匪延平王世袭罔替准， 你做得了， 这个主吗？ 嗯， 我是朝廷招府， 钦差皇上受我临机专断之权， 而且还送我一道密旨， 怎么你想看看吗？
+
+speaker: Speaker_7
+datas: 1610690-1627870ms
+sentence: 臣正太叩见钦差大人啊啊啊施郎将军， 我陪明相赴台觐见延平王。 在此期间， 今夏各部均由你一体节制， 令命关怀大意警方清军借谈判之机。 偷袭金夏来吧，
+
+speaker: Speaker_6
+datas: 1628230-1636195ms
+sentence: 这位施琅， 叫他们血染沙滩。 那边儿还有延平王会让名相碎尸万段，
+
+speaker: Speaker_7
+datas: 1638050-1643955ms
+sentence: 艾霹雳多虑了明珠， 只求功德圆满， 全身而退。
+
+speaker: Speaker_7
+datas: 1654180-1677665ms
+sentence: 新南侯施琅是否与你同谋啊啊， 他一无所知啊， 冥相放心。 施琅深知台湾中非大陆之敌， 政经也绝非康熙的对手， 郑经早就暗中提防他了。 政经一旦丧命， 侍琅肯定随我归属朝廷。
+
+speaker: Speaker_8
+datas: 1684450-1692175ms
+sentence: 宝宝姚启胜又奏了明珠， 一本要不要自己练练，
+
+speaker: Speaker_6
+datas: 1696430-1708330ms
+sentence: 正太篡位， 弑君不会成功， 而且一旦攻变失败， 郑经定会与朝廷结下， 不共戴天之仇， 必将视死为敌。 那时候平台越发不易了，
+
+speaker: Speaker_8
+datas: 1708790-1711445ms
+sentence: 你们说说这个明珠是不是太轻率了？
+
+speaker: Speaker_9
+datas: 1712310-1718225ms
+sentence: 嘿， 冥想着老毛病又犯了， 探公心切， 一日三遍呢，
+
+speaker: Speaker_8
+datas: 1719370-1733575ms
+sentence: 根源在朕的朕不应该给明珠临机专断权， 让他节着尧起胜。 现在说什么都来不及了， 说不定明珠已经被害了。
+
+speaker: Speaker_6
+datas: 1734220-1743325ms
+sentence: 皇上招抚钦差， 如无专权， 如何招抚臣以为皇上授明珠之权并没有错。
+
+speaker: Speaker_8
+datas: 1744050-1754640ms
+sentence: 哎， 真把这个干老头子也得罪了， 说什么臣不怕刨土坟， 就怕圣心难测， 称病辞职呢。
+
+speaker: Speaker_6
+datas: 1755340-1768600ms
+sentence: 臣以为该重泽的恰恰是姚启胜。 此人六十多岁了， 饱经沧桑， 还这般矫情， 动不动就冠污纱帽。 封疆大吏岂能受不得半点委屈呀？
+
+speaker: Speaker_8
+datas: 1769080-1801035ms
+sentence: 一针见血， 这就是所有汉臣的短处了。 他们总觉得朕是满人， 必然重满轻汉， 所有的汉臣都有这个心病， 这就是把他们摆的一样高。 他们也还会觉得比满臣矮了半头， 除非朕让汉臣比满臣高出一头， 他们才觉得是一边儿搞了哼，
+
+speaker: Speaker_8
+datas: 1803910-1806375ms
+sentence: 尤其是腰体上。
+
+speaker: Speaker_8
+datas: 1808860-1826410ms
+sentence: 嗯， 这回啊朕不赏， 他也不讲他， 反而骂他。 哎， 你们信不信？ 朕是越骂他他是越舒服， 朕越骂他他和朕是越贴心。 陈宁静，
+
+speaker: Speaker_7
+datas: 1826950-1878980ms
+sentence: 你旨这个哦， 好好好， 好好骂的， 好骂的痛快， 真乃千古之骂， 拿酒来痛醉一场， 我叫花子以痛罪配痛骂， 其乐无穷， 是威上脚老花， 立刻把这份蜡纸装裱起来， 挂在我的书房。 我要一日， 一见传知后事， 罪臣姚启胜带嘴， 叩保皇上。 皇上此千古之骂， 臣独之如饮百年佳酿， 醍醐灌顶， 身心俱醉。 此刻， 臣如梦初醒， 已是心冥相，
+
+speaker: Speaker_5
+datas: 1879120-1886560ms
+sentence: 不远千里而来。 璧王十分欣喜， 希望名相来得欢喜， 走得愉快， 不虚此行啊。
+
+speaker: Speaker_7
+datas: 1886560-1960365ms
+sentence: 来来来干干干干干干哎嗯哎哎哎哎哎嗯嗯嗯嗯呃， 各位， 我大清皇上， 怀柔四海， 君临八方， 普天之下莫非王土， 率土之滨莫非王臣， 台棚诸岛与我大陆一体相连， 台棚的军民也与大陆血脉相通啊啊， 有见于此， 皇上急待列位王侯， 臣将能够归顺大清， 普天同庆啊啊陛相。 清廷虽然占据大陆， 但追根寻源， 仍是北湖。 女真后裔。 延平王虽然偏居台蓬金马， 却是大明一脉中华正宗。 哈哈哈冯大人此言小家子气喽， 何为正宗啊？ 皇统便是正宗王道便是正宗。 当今蓄皇统行， 王道者是我大清康熙皇帝、
+
+speaker: Speaker_5
+datas: 1961130-1964820ms
+sentence: 康熙招， 我等规划有何条件呢？
+
+speaker: Speaker_7
+datas: 1965540-1974415ms
+sentence: 奉皇旨、 延平、 王郑经率部批罚称臣等案， 其余的都好商量。
+
+speaker: Speaker_7
+datas: 1977880-2025090ms
+sentence: 台本， 金马军民应放朝鲜礼， 只称臣不去发， 只纳贡不登案去法， 称臣， 乃大清之国律舍此， 何以见其规划？ 至于登岸嘛， 列位大概希望永守台岛。 这可以在登岸觐见后， 皇上赐恩旨封赏， 列位列位， 代奉皇命， 可以永驻台岛。 嘿嘿， 冥香是一只好算盘呐， 就这几句空话便招得台。 彭金马三十六道， 俯手就擒， 哼妄想臣正太愿意替发称臣登岸哦， 伯父啊，
+
+speaker: Speaker_5
+datas: 2025750-2032310ms
+sentence: 我一直当你是台湾的信南侯， 怎么一眨眼的功夫成了康熙的忠臣了啊，
+
+speaker: Speaker_7
+datas: 2032970-2040295ms
+sentence: 延平王， 你大概忘了吧， 我这个信南侯可是正安的骨肉兄弟啊。
+
+speaker: Speaker_7
+datas: 2042340-2049405ms
+sentence: 来人在对， 在奉康熙皇帝， 密旨将乱城政经拿下。 对，
+
+speaker: Speaker_7
+datas: 2054810-2060380ms
+sentence: 叛逆小人本将， 岂能听你？ 作乱拿下是走明相啊。
+
+speaker: Speaker_5
+datas: 2060660-2065080ms
+sentence: 实在对不起， 我这伯父不争气， 让您见笑了。 雁平，
+
+speaker: Speaker_7
+datas: 2065080-2092500ms
+sentence: 王， 您别误会， 你听我说将明珠拿下。 哎， 好， 哎， 燕明王燕明王你我是钦差大臣， 你们怎么能这样对我让放开我放开我， 我是钦差大臣啊， 大哥放开我千百年来，
+
+speaker: Speaker_5
+datas: 2092940-2108595ms
+sentence: 我们以海为生。 这鲨鱼呢是我们的衣食父母啊， 我们取之于海， 自然也要归之于海冥想啊。 这崖下的鲨鱼等候多时了，
+
+speaker: Speaker_7
+datas: 2117950-2132305ms
+sentence: 快驶入东奥水道， 直抵黑脚牙铁匹王李炎平王施琅率井下水师向台湾进发。 现在居然施礼， 他怎么来了？ 我没有召他赴台呀。
+
+speaker: Speaker_7
+datas: 2136970-2143345ms
+sentence: 郑经施琅是奉旨前来剿贼的， 你们赶紧束手就擒吧。 胡说，
+
+speaker: Speaker_7
+datas: 2146480-2156345ms
+sentence: 哈哈哈哈哈。 任皮毛。 你以为刘国贤背叛了我， 你就成功了吗？ 螳螂捕蝉黄雀在后呼状。
+
+speaker: Speaker_5
+datas: 2157600-2162220ms
+sentence: 我早就知道施琅图谋不轨把他的家眷全部压上，
+
+speaker: Speaker_7
+datas: 2162220-2178775ms
+sentence: 黑脚丫炮台备战遵兵。 哎， 走走走走大哥走。 好， 这站住。 咋回事？ 来了？
+
+speaker: Speaker_7
+datas: 2183400-2203640ms
+sentence: 延平王臣刚刚得知正太叛乱， 率师来救援延平王施琅忠心耿耿啊， 开炮哦。
+
+speaker: Speaker_7
+datas: 2213270-2223195ms
+sentence: 张静， 你不得好死好， 现在就走走你看点慢走。
+
+speaker: Speaker_5
+datas: 2228730-2242065ms
+sentence: 我今天亲自为这两人送行明珠啊， 这个卖主求荣之贼， 当年为了活命， 连自己的亲哥哥都杀害了， 你怎么能信这种人呢？
+
+speaker: Speaker_7
+datas: 2242880-2243255ms
+sentence: 啊，
+
+speaker: Speaker_7
+datas: 2247400-2251030ms
+sentence: 你明珠，
+
+speaker: Speaker_5
+datas: 2251230-2259350ms
+sentence: 你若投降， 我可免， 你一死恶贼，
+
+speaker: Speaker_7
+datas: 2259350-2279550ms
+sentence: 你休想我明珠身为大清之臣， 死为大清之鬼。 你你砍吧嗯嗯怎么带信给康熙告诉他，
+
+speaker: Speaker_5
+datas: 2279730-2286995ms
+sentence: 我正经愿意称臣， 但绝不去犯， 我愿意归属朝廷， 但绝不登岸，
+
+speaker: Speaker_7
+datas: 2325460-2341215ms
+sentence: 真的是真的是下去还霹雳归顺朝廷， 台湾海峡从此一马平川， 可喜可贺呀。
+
+speaker: Speaker_7
+datas: 2344080-2354360ms
+sentence: 施将军窑子会。 哎， 我们是在姚启圣还是在下？
+
+speaker: Speaker_6
+datas: 2355000-2356680ms
+sentence: 你害得我家破人亡，
+
+speaker: Speaker_7
+datas: 2356840-2359195ms
+sentence: 断子绝孙了哦，
+
+speaker: Speaker_7
+datas: 2361920-2388595ms
+sentence: 快扶起来啊， 抬到棚里去， 快快点儿， 快快是将军，
+
+speaker: Speaker_7
+datas: 2394530-2395305ms
+sentence: 是将军。
+
+speaker: Speaker_7
+datas: 2412880-2413195ms
+sentence: 哎，
+
+speaker: Speaker_7
+datas: 2415630-2435075ms
+sentence: 施琅啊， 哎福建这天儿还是这么热啊。 来是啊哎唉， 请更衣上轿吧。
+
+speaker: Speaker_7
+datas: 2442110-2445930ms
+sentence: 啊啊哎哎哎呦呵， 这小子还行去，
+
+speaker: Speaker_7
+datas: 2448840-2463850ms
+sentence: 哎， 是将军， 是是将军大人， 怎么让他跑了？ 没事儿， 皇上会把他交给我正太，
+
+speaker: Speaker_8
+datas: 2463850-2486275ms
+sentence: 利用你取正经而代之自己称王， 你怎么这么糊涂， 你连真假都不分啊。 这下好了， 郑经铁了心了吗？ 而且让他骗的台湾民众是众志成城。 你知道这要朕花多少心血， 花多少银子， 耗多少时辰吗？
+
+speaker: Speaker_7
+datas: 2486940-2492405ms
+sentence: 奴才罪该万死， 不要跟朕说什么， 罪该万死， 朕跟你说多少遍了，
+
+speaker: Speaker_8
+datas: 2493780-2494820ms
+sentence: 你脖子再硬，
+
+speaker: Speaker_7
+datas: 2495200-2505200ms
+sentence: 你死一次还不够吗？ 还要还要死一万次啊。 奴才罪该我一一死一死，
+
+speaker: Speaker_8
+datas: 2505440-2516830ms
+sentence: 怎么姚启胜算你也算呢？ 姚启胜是怕你破坏了朕的平台方略， 而你呢是怕他夺了你的不世之功，
+
+speaker: Speaker_7
+datas: 2517550-2526930ms
+sentence: 你们俩像刺猬， 他扎你， 你扎他怎么就撂不到一个笼子里去呢？ 皇上这回是姚启圣战礼奴才探功了。
+
+speaker: Speaker_8
+datas: 2527030-2532005ms
+sentence: 哎， 不容易， 这么说， 你还是国家的栋梁之才。
+
+speaker: Speaker_7
+datas: 2533650-2548480ms
+sentence: 皇上奴才叩， 请皇上， 对奴才严惩不贷， 奴才也叩， 请皇上容奴才戴罪效力， 奴才不收回台湾， 此不瞑目来啊。
+
+speaker: Speaker_8
+datas: 2548800-2555195ms
+sentence: 奴才在明珠降两级罚一年， 俸禄剥夺双眼花翎。
+
+speaker: Speaker_7
+datas: 2555980-2564515ms
+sentence: 这谢皇上隆恩明珠啊，
+
+speaker: Speaker_8
+datas: 2565410-2587955ms
+sentence: 你虽有过， 但也有功。 比如上回在黑椒崖， 你就临危不惧怒斥群贼， 没有给朕丢脸。 再有你能够灵机应变， 促使郑京炮击施琅， 使施琅能够弃暗投明。 你真是个万花筒啊，
+
+speaker: Speaker_7
+datas: 2589560-2593815ms
+sentence: 皇上奴才一直牢记着皇上早先说过的话，
+
+speaker: Speaker_8
+datas: 2594960-2595535ms
+sentence: 什么话？
+
+speaker: Speaker_7
+datas: 2596340-2611485ms
+sentence: 皇上说过， 即使还霹雳， 不为朕所用， 只要不为政经所用， 也是朝廷的福气。 奴才当时想就是奴才死了， 也得拉上施琅垫背， 使得朝廷日后平台少一个大麻烦。
+
+speaker: Speaker_8
+datas: 2612360-2613845ms
+sentence: 来啊， 奴才太传旨，
+
+speaker: Speaker_8
+datas: 2615980-2620000ms
+sentence: 明珠功不可没， 酌升两级， 赏三眼花翎。
+
+speaker: Speaker_7
+datas: 2620060-2660875ms
+sentence: 这皇上皇上将功伐过， 恩威分明， 奴才当竭尽绵薄以报皇恩下去吧。 谢皇上是你有一种大，
+
+speaker: Speaker_1
+datas: 2663170-2668470ms
+sentence: 只有心中奋波啊，
+
+speaker: Speaker_4
+datas: 2668470-2708925ms
+sentence: 乾坤留在我心里就已经注定我不干净。 心有一份生命世界经过风雨飘落啊， 江山在我尽头一刻就已经决定。 而本着不熬过， 再辛苦，
+
+speaker: Speaker_1
+datas: 2709920-2712250ms
+sentence: 你说我放下自己，
+
+speaker: Speaker_4
+datas: 2712670-2724645ms
+sentence: 把忧伤不好， 心中依然执着情长都藏在心窝，
+
+speaker: Speaker_3
+datas: 2726760-2735495ms
+sentence: 嫌他一路跟好爱情苦灭，
+
+speaker: Speaker_4
+datas: 2736090-2738455ms
+sentence: 这是我放下自己。
+
+speaker: Speaker_1
+datas: 2739280-2739915ms
+sentence: 忧伤不，
+
+speaker: Speaker_4
+datas: 2744630-2750825ms
+sentence: 我心中依然执着与情长都藏在心窝，
+
+speaker: Speaker_3
+datas: 2752920-2754705ms
+sentence: 嫌他一路看，
+
+speaker: Speaker_1
+datas: 2757270-2757510ms
+sentence: 嗯，
+
+speaker: Speaker_11
+datas: 2773000-2782630ms
+sentence: 李光帝斗胆上城万言书， 恳求朝廷弃武修文， 怀柔四海以孔圣之道照台湾规划谁呀？
+
+speaker: Speaker_7
+datas: 2783270-2786935ms
+sentence: 是我是应氏， 我可以进来吗？ 啊， 不，
+
+speaker: Speaker_7
+datas: 2789470-2792920ms
+sentence: 大哥， 您的心， 我知，
+
+--------------------------------------------------------------------------------

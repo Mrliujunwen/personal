@@ -1,0 +1,916 @@
+
+=== 文件: 14.4K.H265.AAC-YYDS ===
+
+speaker: Speaker_0
+datas: 15070-93105ms
+sentence: 这江山起起伏不去， 现在的风， 我爱的中原爱一点啊， 江南的世界风情歌梦着一次。 我今昨日何惧艰险， 豪情不变， 能又一年， 做人有苦有散。 恶魂在两边都会梦中的明天挣扎不说， 斗着当空房间紧握住， 只愿想转不见中的我五百年，
+
+speaker: Speaker_0
+datas: 105210-140845ms
+sentence: 我的就这个做人何去艰神豪情不变， 复一遍。 做人有苦有情， 善恶开。 两边为梦中的你的春好紧握住路相撞，
+
+speaker: Speaker_0
+datas: 152710-155205ms
+sentence: 不在我五百年，
+
+speaker: Speaker_0
+datas: 161230-180580ms
+sentence: 你在五百年怎么着？
+
+speaker: Speaker_1
+datas: 181480-182360ms
+sentence: 你想抗旨吗？
+
+speaker: Speaker_2
+datas: 182840-183165ms
+sentence: 啊，
+
+speaker: Speaker_1
+datas: 185250-187345ms
+sentence: 驸马别敲了，
+
+speaker: Speaker_3
+datas: 199890-200515ms
+sentence: 丫头，
+
+speaker: Speaker_3
+datas: 202740-203320ms
+sentence: 丫头，
+
+speaker: Speaker_3
+datas: 205520-207545ms
+sentence: 你听得见是我的声音吗？
+
+speaker: Speaker_3
+datas: 233950-234665ms
+sentence: 好啊，
+
+speaker: Speaker_3
+datas: 238970-239545ms
+sentence: 八年，
+
+speaker: Speaker_3
+datas: 242240-248265ms
+sentence: 你们个个儿都想消发为僧，
+
+speaker: Speaker_1
+datas: 249160-258215ms
+sentence: 你也要遁入空门。 为什么为什么你们都鬼迷心窍， 为什么你们都要弃债而去？
+
+speaker: Speaker_4
+datas: 259730-281105ms
+sentence: 为什么老祖宗从丫头进宫那天起， 你就立过言职， 只准丫头把皇上当主子当弟弟， 不准有任何非分之相。 多少年来丫头牢记在心里不错，
+
+speaker: Speaker_3
+datas: 282340-300025ms
+sentence: 这个懿旨是我定的正。 因为你遵守了这个懿旨， 所以我要改变这个意志。 我要你死心塌地的爱皇上， 爱他一辈子。
+
+speaker: Speaker_4
+datas: 304530-325295ms
+sentence: 老祖宗能换旨意， 可丫头换不了， 姓成丫头， 再贱也是个人， 哪不能说爱就爱， 说不爱就不爱丫头， 只记住一条， 永远把皇上当主子， 永远不存。 非分之想，
+
+speaker: Speaker_3
+datas: 327600-334775ms
+sentence: 我给你恩典， 你不要， 莫非你要舍生取义不成？
+
+speaker: Speaker_3
+datas: 338510-348635ms
+sentence: 你真不识抬举呀， 你我岂能因为你我破坏了宫中的规矩？
+
+speaker: Speaker_3
+datas: 351000-355375ms
+sentence: 皇上， 他是你的人， 你看怎么办？
+
+speaker: Speaker_1
+datas: 357940-361610ms
+sentence: 犯上抗旨， 按律当斩。
+
+speaker: Speaker_3
+datas: 361810-370705ms
+sentence: 这话说得明白， 来人在太皇太后，
+
+speaker: Speaker_1
+datas: 371700-378515ms
+sentence: 皇上孩子皇祖母这种虽然不是那个意思，
+
+speaker: Speaker_3
+datas: 400250-412675ms
+sentence: 传旨在这个宫里头建造一座天心庵， 赏得送麻辣姑永久居住。
+
+speaker: Speaker_0
+datas: 417380-418075ms
+sentence: 你好的慌，
+
+speaker: Speaker_3
+datas: 419590-421830ms
+sentence: 你是不给我孝庄面子啊。
+
+speaker: Speaker_3
+datas: 424860-425105ms
+sentence: 嗯，
+
+speaker: Speaker_5
+datas: 429810-430390ms
+sentence: 好啊，
+
+speaker: Speaker_3
+datas: 437190-441170ms
+sentence: 丫头啊啊啊，
+
+speaker: Speaker_3
+datas: 444080-451255ms
+sentence: 我是白疼一场了啊啊， 我的心都碎了，
+
+speaker: Speaker_3
+datas: 454020-456065ms
+sentence: 你好端端的好啊，
+
+speaker: Speaker_0
+datas: 458040-466455ms
+sentence: 被绞掉你干什么？ 呵呵妈，
+
+speaker: Speaker_3
+datas: 469810-475985ms
+sentence: 我这八年纪我瞧见人家落放， 我就伤心。
+
+speaker: Speaker_3
+datas: 482460-491560ms
+sentence: 这样吧， 看在咱们多年的情分上， 你就待发休行来了。
+
+speaker: Speaker_4
+datas: 495390-496275ms
+sentence: 老祖宗，
+
+speaker: Speaker_0
+datas: 500300-502065ms
+sentence: 呵呵呃，
+
+speaker: Speaker_1
+datas: 550890-554435ms
+sentence: 皇上驾到重臣早朝，
+
+speaker: Speaker_6
+datas: 565340-577080ms
+sentence: 吾皇万岁万岁万万岁平生吧。 谢皇上列位陈功，
+
+speaker: Speaker_2
+datas: 577680-591960ms
+sentence: 有道是齐文供欣赏， 朕这里有道折子想念给列位陈功一块听听， 省得有人闻风嗜雨， 胡乱猜疑。 廷主啊， 臣在你嗓子脆就念给大伙听听吧。
+
+speaker: Speaker_8
+datas: 592440-652380ms
+sentence: 这臣潮州知府朱国志即时参奏平西王吴三桂。 该王奉旨镇守云南， 十余载， 不思剿除匪患， 暗中养寇自重， 私铸银钱， 广木兵马， 盘剥生民欺瞒朝廷， 并与平南王尚可喜镇南王耿精忠遥相呼应， 亦有裂土封疆之势。 三藩不臣之心， 昭然若揭， 臣瞻望， 日后忧心如焚为大清， 国泰民安。 计臣恭请圣上及下言旨查处吴三桂， 并尽速裁撤三番平西王吴三桂。
+
+speaker: Speaker_2
+datas: 652520-675835ms
+sentence: 自顺治初年顺清之后， 与乾明余孽， 血战中原立刻五十八成， 并活捉了永力王朱由郎， 其丰功伟绩可算是不下于满清八旗， 先帝爷未将其忠封他为异姓王公， 杀马盟誓， 永不相复。
+
+speaker: Speaker_2
+datas: 677850-690845ms
+sentence: 后来朕熟读国史之后， 好生钦佩。 我应雄臣在你父王的功绩。 朕说的大致不错吧，
+
+speaker: Speaker_10
+datas: 691540-694080ms
+sentence: 皇上所言， 句句点石成金，
+
+speaker: Speaker_2
+datas: 694460-740635ms
+sentence: 可是今儿有一个五品知府， 参合起咱们朝廷的封疆大吏， 大清的恩人吴三桂这个朱国志， 朕倒是第一次听说他的名字， 也不知道他知道不知道啊。 如果他参不到吴三桂， 自个儿就得担着诬陷的罪名。 倒不说， 吴三桂就是朕也不会置若罔闻。 更何况吴三桂自己也有话说， 索额图臣在你再念念这道折子，
+
+speaker: Speaker_11
+datas: 741200-801910ms
+sentence: 这臣亲命平息。 大将军。 吴三桂据实参奏， 潮州知府朱国志查朱国志在任期间屡屡抗命渎职， 自年初以来， 竟然以减税为名纵容满匪为患， 致使两处关隘被毁。 此外， 该园无视朝廷严命， 败坏国法， 民风倒行逆施， 虐待蜀源， 草菅人命臣屡借各地官署及地方绅世控撞， 经查实无误， 一律将其诉补臣特此上奏， 将乱贼朱国志就地神处公开义展。 以上称皇位公政逆法下安民心啊，
+
+speaker: Speaker_9
+datas: 801970-808970ms
+sentence: 这正是欧根正命在手术开事， 阿美兰一坐安地和张来了。 哎， 大姐啊啊，
+
+speaker: Speaker_2
+datas: 809150-815615ms
+sentence: 不必窃窃私语， 说出来让朕和众臣都听听皇上。
+
+speaker: Speaker_8
+datas: 816870-841660ms
+sentence: 臣以为这两份奏折彼此弹劾， 可谓是针尖对麦芒朱国志。 虽然人微言轻， 但是所涉势大平西王， 虽然战功卓著， 但不免白臂微瑕。 皇上臣建议将朱国志押解京城审明事实真相在暗律惩处启奏。
+
+speaker: Speaker_11
+datas: 841660-873245ms
+sentence: 皇上平西王功高盖世独振一方。 如果只因朱国志片言妄语， 就怀疑他有裂土封疆之心的话， 乃会引起满朝的震动， 使福建、 广东等藩镇也不免其人人自危。 臣建议降职给吴三桂， 令， 他将朱国志就地审明察实， 一律惩处列位成功。
+
+speaker: Speaker_2
+datas: 874620-875725ms
+sentence: 还有其他意见吗？
+
+speaker: Speaker_1
+datas: 876590-883970ms
+sentence: 皇上所图， 所言即是臣父议就是臣父议臣父议臣父议皇上。
+
+speaker: Speaker_8
+datas: 884610-899245ms
+sentence: 如果此案交吴三桂审理， 朱国志必死啊， 其实朱国志有无罪当死， 也应逮捕入京交刑部审处才是如此， 也可免平西王邪仇报复之嫌。
+
+speaker: Speaker_2
+datas: 901180-916290ms
+sentence: 说的是好吧， 这件事就让刑部去办吧。 吴应雄臣在朕听说平西王的旧病又犯了， 要紧吗？
+
+speaker: Speaker_10
+datas: 917090-923935ms
+sentence: 谢皇上关爱太医院， 以遵旨赐药， 臣父之病暂不要紧啊。
+
+speaker: Speaker_2
+datas: 926350-935535ms
+sentence: 顾英雄， 你在京中试驾已经八年了， 何不返云南省亲圆了父子之情啊。
+
+speaker: Speaker_10
+datas: 936730-943030ms
+sentence: 臣无时无刻不挂念父亲， 可臣在朝中侍奉， 皇上不甘以私废公。
+
+speaker: Speaker_2
+datas: 943450-971160ms
+sentence: 朕知道， 其实你有你的难言之隐。 你父王平西王只有你这么一个儿子， 他把你留在朝中试驾。 其实想把你作为人质亦是忠诚。 但是朕从来没有把你当做人质吧， 而且让你贵为一品参知政事， 太皇太后还特赐遗旨待你入皇亲国戚呀。
+
+speaker: Speaker_10
+datas: 971700-975670ms
+sentence: 是臣与臣父俱深为感恩，
+
+speaker: Speaker_2
+datas: 976050-980455ms
+sentence: 朕， 想让你们父子尽快团圆共叙亲情。
+
+speaker: Speaker_10
+datas: 981700-987570ms
+sentence: 怎么皇上恩准臣返云南省？ 亲， 哎，
+
+speaker: Speaker_2
+datas: 988370-1013935ms
+sentence: 用不着你跑那么远， 朕准备召平西王平南王镇南王进苏入京， 共商边患。 吴应雄啊， 哎不光是你想他们朕也想他们三个朕自从继位之后， 还没见过他们呢啊， 别着急， 你们父子马上就可以团聚了。
+
+speaker: Speaker_15
+datas: 1015730-1026195ms
+sentence: 谢皇上厚恩皇上臣以为此次朱国志弹劾吴三桂， 朝廷正可用作撤翻的契机呀。
+
+speaker: Speaker_2
+datas: 1027010-1042865ms
+sentence: 是啊， 朕也想抓着这事做文章， 但是你看见了今日， 朕稍作试探， 那些大臣都表现的非常持重， 怕得罪吴三桂， 生怕激划出乱子。
+
+speaker: Speaker_15
+datas: 1044760-1048790ms
+sentence: 可是一旦朱国志获罪的话， 那吴三桂就更碰不得了。
+
+speaker: Speaker_2
+datas: 1049250-1061955ms
+sentence: 是啊是碰不得他。 但是吴三桂跟朱国志相比， 毕竟是九牛一毛， 朕到不得已的时候也只能牺牲诸国志， 安抚无参桂呀，
+
+speaker: Speaker_16
+datas: 1068950-1071090ms
+sentence: 公子闭门谢鹤啊。
+
+speaker: Speaker_10
+datas: 1071130-1080440ms
+sentence: 交代下人们从今日起凡踏出此门， 都要低着脑袋走路夹着尾巴做人， 这快关门，
+
+speaker: Speaker_12
+datas: 1080600-1081475ms
+sentence: 快把门儿关上。
+
+speaker: Speaker_0
+datas: 1083010-1083730ms
+sentence: 嗯嗯，
+
+speaker: Speaker_16
+datas: 1088240-1091075ms
+sentence: 啊公子出什么事了？
+
+speaker: Speaker_10
+datas: 1094010-1109965ms
+sentence: 皇上当朝抛出了多志试探大臣们的反应， 看来皇上是暗存猜掣三番之心呐。 我这个人质日子越来越不好过了，
+
+speaker: Speaker_10
+datas: 1117790-1174200ms
+sentence: 而详查朝廷用心。 圣上表面溢处出过痣， 内心却提防着父王。 当今之际， 父王万万不可施展诸国志， 以免引起朝廷非议， 促使圣上生仪。 而建议将此人借入京城交刑部论处， 以示光明磊落。 此外， 圣上已下旨， 诏三藩进京共商国事而以为平南王。 尚可喜镇南王耿精忠， 尽可奉旨进京， 而父王却应称病， 拖延不来为家。 因为三王之中， 父王兵马过半， 所谓三藩守在富王， 只要父往不到京上， 耿二王必能安然无恙， 而在京城也安然救我。
+
+speaker: Speaker_12
+datas: 1174200-1187925ms
+sentence: 救奉平西王命把罪犯朱国志押送刑场走。
+
+speaker: Speaker_14
+datas: 1189010-1192730ms
+sentence: 本官是亲民五品知府， 不是罪犯主志，
+
+speaker: Speaker_12
+datas: 1193270-1198090ms
+sentence: 这是平西王府， 不是北京城。 王爷， 说你是罪犯， 你就是罪犯。
+
+speaker: Speaker_14
+datas: 1198630-1203410ms
+sentence: 他吴三桂私斩朝廷命官， 我就是下地狱也要参理他。
+
+speaker: Speaker_12
+datas: 1203830-1239440ms
+sentence: 杨总杨总走嗯去家嗯，
+
+speaker: Speaker_0
+datas: 1242560-1250760ms
+sentence: 请坐嗯嗯，
+
+speaker: Speaker_17
+datas: 1250760-1256615ms
+sentence: 嗯恭喜了， 刑部发来借文要听你到京城会审呢。
+
+speaker: Speaker_14
+datas: 1257810-1268884ms
+sentence: 嗯平西王是不敢让下官附近的哦。 下官一旦进京， 朝廷必有公断。
+
+speaker: Speaker_17
+datas: 1270350-1277880ms
+sentence: 本王爷在犹豫是送你进京呢， 还是将你的人头送进京呢？
+
+speaker: Speaker_12
+datas: 1278120-1280315ms
+sentence: 在下立主送阁下的人头进京，
+
+speaker: Speaker_17
+datas: 1281270-1291795ms
+sentence: 评记上， 说本王如在云南将你定罪问诊， 犹如本王清明， 你毕竟是朝廷命官嘛。
+
+speaker: Speaker_14
+datas: 1294130-1303645ms
+sentence: 下官谈和平西王拥兵自重， 图谋不轨， 平西王立刻施斩下官， 这岂不是做贼心虚、 杀人灭口吗？
+
+speaker: Speaker_17
+datas: 1304430-1319555ms
+sentence: 杀人并不能灭口， 何况你污蔑本王的奏折， 已经在朝廷里引起了风波。 本王知道一旦杀了你， 眼官们定然会非翼似起啊，
+
+speaker: Speaker_14
+datas: 1320290-1322620ms
+sentence: 哼哼哼。 平西王聪明。
+
+speaker: Speaker_12
+datas: 1323280-1333185ms
+sentence: 杀你虽然不能灭口， 但可以示威。 平西王镇守云贵， 素有临机专断之权， 杀五品以下文武官员无需停止。 嗯，
+
+speaker: Speaker_17
+datas: 1334840-1391675ms
+sentence: 老夫今天请你来世家， 用你的人头做一个赌注赌注请嗯你的死活不在朝廷旨意， 在你自己的运气， 这儿有两根鱼竿， 老夫愿与你钓鱼相赌， 堵住就是你的人头什么意思啊？ 如果你先钓上鱼来， 马瑜替你死， 你可以直赴京城。 如果老夫先钓上鱼来， 那你就替鱼去死。 老夫要把那条鱼放回湖中。 嗯，
+
+speaker: Speaker_14
+datas: 1392400-1394075ms
+sentence: 士可杀不可辱，
+
+speaker: Speaker_17
+datas: 1394980-1403155ms
+sentence: 老夫平生杀人无数， 却从不侮辱人， 你的生死只看自己的运气，
+
+speaker: Speaker_14
+datas: 1404070-1411750ms
+sentence: 那下官要先钓上鱼来， 你真的放下光走瞧啊，
+
+speaker: Speaker_17
+datas: 1412070-1416525ms
+sentence: 只要有一线生机， 阁下还是求生心切，
+
+speaker: Speaker_14
+datas: 1419260-1438145ms
+sentence: 要杀便杀平熙王， 何必戏入下官请平西王，
+
+speaker: Speaker_14
+datas: 1440190-1443470ms
+sentence: 你究竟想干什么钓鱼？
+
+speaker: Speaker_17
+datas: 1443530-1447475ms
+sentence: 你如果害怕， 那就躺到断头台上吧。
+
+speaker: Speaker_14
+datas: 1449380-1452605ms
+sentence: 下官， 如果真的先钓上来，
+
+speaker: Speaker_17
+datas: 1453220-1458005ms
+sentence: 那你就下山。 刑部的官差正在山门外等着呢，
+
+speaker: Speaker_14
+datas: 1461850-1462755ms
+sentence: 你真的要赌，
+
+speaker: Speaker_17
+datas: 1464760-1467395ms
+sentence: 难道你的命比一条鱼还要珍贵吗？
+
+speaker: Speaker_0
+datas: 1469330-1473120ms
+sentence: 嗯， 我嗯喂啦啦啦卡啦，
+
+speaker: Speaker_17
+datas: 1476040-1479485ms
+sentence: 阁下如果老是这么紧张， 那鱼它会上钩吗？
+
+speaker: Speaker_0
+datas: 1480370-1481130ms
+sentence: 对对对，
+
+speaker: Speaker_17
+datas: 1482790-1498060ms
+sentence: 朱国志， 你是前朝崇祯， 皇上的旧臣是崇祯皇上朱由检姓朱， 你也姓朱， 请问你是明朝皇族后裔吧？
+
+speaker: Speaker_14
+datas: 1498540-1503850ms
+sentence: 下官并非龙凤血白乾明，
+
+speaker: Speaker_17
+datas: 1503850-1505265ms
+sentence: 皇上待你如何啊？
+
+speaker: Speaker_14
+datas: 1515570-1519080ms
+sentence: 我朱家是在受明朝厚恩，
+
+speaker: Speaker_17
+datas: 1519500-1523755ms
+sentence: 而女如今为何不改姓爱新觉罗呢？
+
+speaker: Speaker_14
+datas: 1524470-1534045ms
+sentence: 我们我仍然姓朱， 但是我却要做大清朝的忠臣。 大清星大冥王， 此乃天道。
+
+speaker: Speaker_17
+datas: 1536250-1544040ms
+sentence: 你可记得前明永厉王朱由郎还当然记得崇祯皇上死后，
+
+speaker: Speaker_14
+datas: 1544700-1551645ms
+sentence: 他在南宁称皇帝， 试图王复大明， 兵败以后逃至境外。
+
+speaker: Speaker_17
+datas: 1552380-1597545ms
+sentence: 哈哈哈哈哈哈， 老夫攻入缅甸， 申擒了这个伪皇帝朱由郎居禁在此湖畔。 我记得有一天， 老夫接到朝廷延迟， 要将他借赴京城。 钦差已经到达山门了， 老夫正与猪由郎在此垂钓。 老夫告诉他， 皇上啊， 这是你最后一次钓鱼了。 猪游郎们， 吴将军， 你以后还会再此钓鱼吗？ 老夫说贵， 朱由郎站起身， 说，
+
+speaker: Speaker_17
+datas: 1599930-1606745ms
+sentence: 这湖中的每条鱼都是朕的冤魂呢。 说罢， 朱由郎投湖自尽，
+
+speaker: Speaker_17
+datas: 1608770-1618945ms
+sentence: 老夫一边钓鱼， 一边看着他在湖中挣扎， 直至溺水而亡， 并没有救他上岸。
+
+speaker: Speaker_17
+datas: 1622000-1636975ms
+sentence: 十几年来， 老夫从来不吃这湖中的鱼啊， 前朝皇上的冤魂在咬你的鱼钩了，
+
+speaker: Speaker_14
+datas: 1641460-1643855ms
+sentence: 平西王下官可先钓上鱼来了。
+
+speaker: Speaker_17
+datas: 1645220-1645900ms
+sentence: 恭喜呀，
+
+speaker: Speaker_14
+datas: 1646260-1648265ms
+sentence: 你刚才说过来呀，
+
+speaker: Speaker_17
+datas: 1649110-1650310ms
+sentence: 送朱国志下山，
+
+speaker: Speaker_16
+datas: 1650850-1652250ms
+sentence: 王爷送他下山，
+
+speaker: Speaker_17
+datas: 1652650-1654185ms
+sentence: 这走吧。
+
+speaker: Speaker_17
+datas: 1666590-1670845ms
+sentence: 王爷行故差役何时离京的？
+
+speaker: Speaker_12
+datas: 1671920-1676155ms
+sentence: 嗯， 本月初十距今有二十多天了啊，
+
+speaker: Speaker_17
+datas: 1677450-1692760ms
+sentence: 这二十多天里京城还不知道发生了多少新的是非呢。 是啊， 听着待朱国志到了京城又得二十多天， 这期间又会发生多少心事？
+
+speaker: Speaker_12
+datas: 1692760-1702270ms
+sentence: 非啊王爷在下是否告知世子， 吴应雄朱国志已经放生， 请他密切注意朝廷对他的态度素质。
+
+speaker: Speaker_17
+datas: 1702270-1714465ms
+sentence: 秘旨从今日起授予世子吴应雄联机专断职权。 有关云南方面的所有事情， 他在京城可代表我全权处置。
+
+speaker: Speaker_16
+datas: 1715060-1717665ms
+sentence: 这告诉英雄，
+
+speaker: Speaker_17
+datas: 1719220-1739375ms
+sentence: 真正主掌乾坤的并不是康熙皇上， 而是太皇太后孝庄。 因此， 他在京城的一切运作都应当围绕孝庄来进行。 只要孝庄不同意撤翻， 那皇上就不敢轻易猜测。
+
+speaker: Speaker_12
+datas: 1740610-1745370ms
+sentence: 正是康熙少不更事， 只有孝庄深明王爷，
+
+speaker: Speaker_17
+datas: 1745370-1751435ms
+sentence: 是南天一助给北京各大臣的年镜预备妥当了吗？ 妥当了，
+
+speaker: Speaker_12
+datas: 1752330-1756805ms
+sentence: 共有银票四百万两再加一倍吧。
+
+speaker: Speaker_17
+datas: 1757990-1767240ms
+sentence: 八百万两银票随密信一道地， 宋武应雄， 现在到了该花银子的时候了，
+
+speaker: Speaker_12
+datas: 1767600-1771100ms
+sentence: 哥在下立即办理传命文物官员。
+
+speaker: Speaker_17
+datas: 1771720-1773845ms
+sentence: 银安殿听令， 快去，
+
+speaker: Speaker_16
+datas: 1774570-1778220ms
+sentence: 这平息。
+
+speaker: Speaker_18
+datas: 1778340-1779655ms
+sentence: 大将军驾到，
+
+speaker: Speaker_17
+datas: 1781470-1786480ms
+sentence: 我做头大理州蛮夷造反， 你搅的如何了？
+
+speaker: Speaker_1
+datas: 1786700-1792745ms
+sentence: 禀大将军末将， 你把四面包围， 保证在五日之内全部剿灭，
+
+speaker: Speaker_17
+datas: 1793400-1797080ms
+sentence: 听着撤回全部兵俑， 放他们一条生路，
+
+speaker: Speaker_1
+datas: 1797640-1800100ms
+sentence: 那末将不就前功尽弃了吗？
+
+speaker: Speaker_17
+datas: 1800400-1816195ms
+sentence: 不但要放条生路， 而且撤军时还要留一些稻米给他们做口粮。 这哎柳范思下官在前些日子疯传的三郎相会情况究竟如何呀？
+
+speaker: Speaker_16
+datas: 1817130-1817795ms
+sentence: 禀王爷。
+
+speaker: Speaker_12
+datas: 1818630-1834190ms
+sentence: 据下官调查， 三郎相会的首领是一个自称杨启隆的堂主， 此人在中原西南各省已建成， 势力拥有分会上百， 信徒几十万。 据称， 他是前明崇祯皇上的朱三太子， 意图反清复明。
+
+speaker: Speaker_17
+datas: 1834750-1847160ms
+sentence: 不管他是真是假， 你的人都得仔细盯嘱， 既不要与他联手， 也不要打草惊蛇， 让他再长大点吧。
+
+speaker: Speaker_1
+datas: 1847660-1848155ms
+sentence: 哥，
+
+speaker: Speaker_17
+datas: 1849080-1917200ms
+sentence: 今后啊大凡有匪患， 有乱贼， 我们只叫其一留其二， 要是全部搅干净了， 还要我这个平西王干什么呢？ 各位兄弟吃什么呢？ 所以说匪患是我们的稻米、 钱粮， 而乱贼是我们的衣食父母， 尤其是现在最近朝廷中有人污蔑我平西王等三个藩王为大清隐患。 想把我们通通裁撤两位兄弟那种兔死狗烹， 鸟尽公藏的悲剧， 绝不能在我们身上重演。 收开炸败小， 不要急， 天来被人咱们给朝廷一个深思熟虑的机会嘛。 听着从今天起， 本王家称病不出那位兄弟， 你们要抓紧时机， 厉兵秣马， 扩充三军。 我们越是强大， 就越安全，
+
+speaker: Speaker_0
+datas: 1917900-1918515ms
+sentence: 遵命。
+
+speaker: Speaker_14
+datas: 1927120-1936080ms
+sentence: 刘培公啊， 进了京城， 你我就得各奔前程， 就借着管仲一杯水酒， 我们尽欢而别。 哎， 好，
+
+speaker: Speaker_1
+datas: 1936600-1958400ms
+sentence: 大人， 请啊啊大人来来在下沦落荒野蒙大人相救， 并邀请车船同行携至京城小弟， 借大人一杯酒， 真诚相谢啊， 那里那里大家出门在外，
+
+speaker: Speaker_14
+datas: 1958640-1975030ms
+sentence: 应当彼此相助。 我瞧你也是个读书人， 正好结伴同行一路上聊些诗书曲赋， 也解了我不少寂寞呀。 来来来来， 我敬你一杯， 祝你此次恩科， 金榜题名谢大人在下，
+
+speaker: Speaker_1
+datas: 1975030-1977490ms
+sentence: 如有出头之日， 必登门报恩。 哈哈。
+
+speaker: Speaker_14
+datas: 1981140-1993245ms
+sentence: 你虽然落拓， 但从你的谈吐主一听就听出来。 你所学深厚， 才其纵横， 其前程远在我诸某之上， 何愁不能出人头地呢？
+
+speaker: Speaker_1
+datas: 1995110-2001765ms
+sentence: 在下从朱大人口中也听出来了。 大人并非寻常人物， 一定是朝廷命官。 哪哦，
+
+speaker: Speaker_14
+datas: 2005360-2015585ms
+sentence: 不错不错。 朱某是为朝廷命官， 此次进京只怕既无官也无命喽。
+
+speaker: Speaker_12
+datas: 2018570-2021795ms
+sentence: 大人时辰不早了， 是否入城啊？
+
+speaker: Speaker_14
+datas: 2022960-2027785ms
+sentence: 好， 从现在开始列为公事公办吧。 小二结账。
+
+speaker: Speaker_1
+datas: 2031270-2031525ms
+sentence: 嗯，
+
+speaker: Speaker_1
+datas: 2033920-2035840ms
+sentence: 大人， 这是为何啊？
+
+speaker: Speaker_14
+datas: 2036160-2052405ms
+sentence: 这几位侍从实际上是行无不败， 我朱国志也是戴罪之身， 此行父京就是来领死的。 由于周某为官清廉略有薄名， 他们几位始终以礼相待， 但是进了京城就得姓王法喽。
+
+speaker: Speaker_1
+datas: 2054950-2060275ms
+sentence: 大人得罪了请几位公差。 稍后容在下同大人告别，
+
+speaker: Speaker_14
+datas: 2061790-2062730ms
+sentence: 外面候着去吧，
+
+speaker: Speaker_1
+datas: 2062850-2067585ms
+sentence: 这敢问大人为何获罪呀？
+
+speaker: Speaker_14
+datas: 2068470-2071990ms
+sentence: 此次凶险， 你不知道， 也罢， 不必较进来，
+
+speaker: Speaker_1
+datas: 2072130-2078005ms
+sentence: 大人在下落， 难时大人慷慨相救。 如今大人落难， 竟不允许在下问一问吗？
+
+speaker: Speaker_14
+datas: 2078760-2085715ms
+sentence: 哼， 其实我们同车聊天的时候， 你已经多次评判过此人的功过是非了。
+
+speaker: Speaker_1
+datas: 2087840-2092640ms
+sentence: 你是说平西王吴三桂， 正是三个月前，
+
+speaker: Speaker_14
+datas: 2093100-2118825ms
+sentence: 中国冒似上奏朝廷， 建议裁车三番。 此艘刚到京， 就引起轩然大波， 周末因此得罪了平西王吴三桂被他诬陷谋反。 被捕后， 斩吴三桂， 原本要在云南杀我朝廷， 为免除他邪仇报复之嫌。 前特将之交， 刑部一展， 我这才被押解附近。
+
+speaker: Speaker_1
+datas: 2121950-2126050ms
+sentence: 哎， 大人此行也许有惊无险呢。
+
+speaker: Speaker_14
+datas: 2126410-2130275ms
+sentence: 嗯这话怎么说呀？
+
+speaker: Speaker_1
+datas: 2130950-2138535ms
+sentence: 三藩已成伟大不掉之事， 朝廷早有涉翻诚意， 大人不过说出了皇上想做的事罢了。
+
+speaker: Speaker_14
+datas: 2142680-2147490ms
+sentence: 果真如此， 我朱某就是死了也值。
+
+speaker: Speaker_1
+datas: 2147910-2159140ms
+sentence: 我最近听说三藩将奉旨赴京共商国事， 在下大胆揣测圣意。 皇上此举可能是为了把他们招致京城一股脑的夺绝萧权。 嗯，
+
+speaker: Speaker_14
+datas: 2159660-2172525ms
+sentence: 有道理有道理。 当年圣尚虽然年轻， 但是从面鳌拜一时可以看出来， 皇上做事往往是出奇制胜， 独步古今哪。
+
+speaker: Speaker_1
+datas: 2175180-2194435ms
+sentence: 但是也有另外一种可能哦， 三藩之中势力最大也最为老谋深算的当属吴三桂了。 如果他托故不肯入京， 皇上为了避免动乱， 也不会对其他二王动手吧， 甚至甚至会用你的人头安抚三番。
+
+speaker: Speaker_1
+datas: 2204860-2211080ms
+sentence: 你来又是哪位？ 王公进城了，
+
+speaker: Speaker_12
+datas: 2212880-2218215ms
+sentence: 大人小的听说平西王吴三桂平南王尚可喜震南王耿精忠已经奉旨进京了。
+
+speaker: Speaker_14
+datas: 2218880-2226505ms
+sentence: 不是冤家不聚头啊， 沛公你我今天是遇上好日子了，
+
+speaker: Speaker_12
+datas: 2239840-2240755ms
+sentence: 这是我了。
+
+speaker: Speaker_1
+datas: 2241740-2243085ms
+sentence: 没错， 你让抬起来，
+
+speaker: Speaker_16
+datas: 2244160-2245880ms
+sentence: 大人喂，
+
+speaker: Speaker_1
+datas: 2245880-2246840ms
+sentence: 他俩谁手机了，
+
+speaker: Speaker_14
+datas: 2247160-2257675ms
+sentence: 两个都不行。 老的是平南王尚可喜， 少的是镇南王耿金忠。 至于吴三桂吗？ 皇上请不动他了，
+
+speaker: Speaker_4
+datas: 2260330-2261210ms
+sentence: 皇上回来了。
+
+speaker: Speaker_2
+datas: 2261390-2271815ms
+sentence: 好， 送马， 你说的对， 这没有门槛儿， 就像没有门牙， 一点不威风， 立刻着人打造一堵门槛儿， 重新安上。
+
+speaker: Speaker_4
+datas: 2272730-2274565ms
+sentence: 皇上， 您改主意了，
+
+speaker: Speaker_2
+datas: 2275500-2281340ms
+sentence: 耿精忠尚可喜就要进宫了， 你们记住要给朕摆足了，
+
+speaker: Speaker_4
+datas: 2281340-2287115ms
+sentence: 气派吴三桂怎么没来呀？
+
+speaker: Speaker_1
+datas: 2287890-2291165ms
+sentence: 成病皇上为这事儿啊， 正烦着呢。
+
+speaker: Speaker_5
+datas: 2292740-2305625ms
+sentence: 皇上留旨传镇南王耿精忠平南王尚可喜入宫觐见并传平西王之子吴应雄代父入宫，
+
+speaker: Speaker_6
+datas: 2317730-2324300ms
+sentence: 吾皇万岁万岁万万岁平身谢皇上，
+
+speaker: Speaker_2
+datas: 2324900-2325724ms
+sentence: 你们都坐吧。
+
+speaker: Speaker_2
+datas: 2330540-2344120ms
+sentence: 三位藩王， 你们对大清都有不适之功。 先帝爷和太皇太后都曾经表示过， 没有， 你们几位大清一统江山， 恐怕要推迟二十多年。
+
+speaker: Speaker_13
+datas: 2344120-2347980ms
+sentence: 哪皇上厚闻老臣， 莫耻不忘臣，
+
+speaker: Speaker_1
+datas: 2347980-2352220ms
+sentence: 愿为大清誓守边关好了。
+
+speaker: Speaker_2
+datas: 2352220-2391665ms
+sentence: 好啦， 其实你们也有所耳闻吧。 朝廷有些人议论说， 朕下撤翻， 这纯粹是胡说八道。 你们所镇守的。 云南、 广东、 福建这三个省是民心不稳、 匪患横行的地方， 由你们镇守， 朕心里才安稳， 朕和太皇太后才能够睡得稳， 吃得香啊。 现在我向你们郑重表态， 朕绝不撤翻西南边陲就交给你们了。
+
+speaker: Speaker_13
+datas: 2392570-2393555ms
+sentence: 谢皇上，
+
+speaker: Speaker_1
+datas: 2398460-2412440ms
+sentence: 哎， 哎魏大人你不信啊， 好禀皇上。 俄罗斯使臣格尔尼拜见皇上， 现正在宫外候旨没瞧见，
+
+speaker: Speaker_2
+datas: 2412440-2413455ms
+sentence: 朕正忙着呢吗？
+
+speaker: Speaker_1
+datas: 2415340-2420655ms
+sentence: 戈尔尼说， 他即将归国， 临行前求皇上赏恩一件，
+
+speaker: Speaker_2
+datas: 2422090-2425225ms
+sentence: 这些洋人真是一点规矩都不懂。
+
+speaker: Speaker_1
+datas: 2426310-2427885ms
+sentence: 呃呃， 陈， 哎， 不不不不，
+
+speaker: Speaker_2
+datas: 2428570-2438585ms
+sentence: 你们在西南哪， 还真见不着这种西洋景叫这请啊。
+
+speaker: Speaker_18
+datas: 2445440-2446905ms
+sentence: 大清皇帝陛下。
+
+speaker: Speaker_18
+datas: 2450340-2479430ms
+sentence: 俄罗斯是世界上最伟大的国家， 在俄罗斯周围， 许多国军都以率臣民归顺了沙皇。 陛下希望大清国君主主动小儿沙皇陛下修好称臣开放边境， 并将黑龙江流域至索伦或者齐格尔等土地归还。 我们俄罗斯回去告诉你们那个彼得，
+
+speaker: Speaker_2
+datas: 2479590-2498940ms
+sentence: 他是个皇上， 朕也是个皇上。 大清国不想占沙俄一草一木， 但是沙俄也休想占我大清的半寸土地。 黑龙江上下， 凡是河西沙石， 我们都不放弃。 如果你们胆敢侵吞的话， 那么我们大清国有百万雄兵， 严阵以待。
+
+speaker: Speaker_18
+datas: 2499400-2517280ms
+sentence: 陛下据我们所知， 大清国只是表面上强大， 实际上有许多的敌人。 首先汉人不服蛮人的同志， 你们西南蜀敌已经有三位将军已经举兵叛乱了。
+
+speaker: Speaker_2
+datas: 2518540-2528145ms
+sentence: 不巧的很呐， 在你面前的这三个藩王， 就是你所谓说的举兵叛乱的人， 朕与他们情同手足， 不信你问问，
+
+speaker: Speaker_13
+datas: 2529870-2534765ms
+sentence: 你听着今儿个皇上给你面子， 否则老夫非把你碎尸万段。
+
+speaker: Speaker_1
+datas: 2535710-2552170ms
+sentence: 老毛子， 你听好了， 本将耿精忠己所不关兵。 生是大清的人， 死是大清的魂。 只要皇上一声令下， 本将立刻提兵， 北上灭了你。 俄罗斯老家大清国君臣，
+
+speaker: Speaker_10
+datas: 2552190-2569375ms
+sentence: 一心康熙帝， 四海为尊尔等蛮矣。 既不读书， 又不识字， 竟敢在我皇面前狂犬废日。 殊不知， 我大清天威难犯， 无论何处蛮夷， 只要脚下踏错一步， 朕叫你有来无回罢了。
+
+speaker: Speaker_2
+datas: 2571220-2577370ms
+sentence: 洞庭臣在雅戈尔尼回役馆马上驱逐出境得走吧，
+
+speaker: Speaker_16
+datas: 2577590-2578195ms
+sentence: 再见。
+
+speaker: Speaker_2
+datas: 2584210-2595115ms
+sentence: 三位爱卿， 你们今日是长了大清的威风啊啊耿精忠尚可喜， 你们俩人加封为一等猴， 赏三眼花翎。
+
+speaker: Speaker_13
+datas: 2598220-2602650ms
+sentence: 谢谢皇上吴英雄你加封，
+
+speaker: Speaker_2
+datas: 2602650-2624170ms
+sentence: 太子太保入朝理政谢皇上， 还有太皇太后挂念平西王， 特地准备了两株千年的老参。 一会儿， 卓人给你父王， 带去陈大夫。
+
+speaker: Speaker_10
+datas: 2624330-2626175ms
+sentence: 谢太皇太后恩典。
+
+speaker: Speaker_10
+datas: 2629110-2638225ms
+sentence: 父亲曾多次说， 当年从容入关时， 就是太皇太后力保父亲为王， 太皇太后是吴家世世代代的恩人。
+
+speaker: Speaker_2
+datas: 2640950-2649355ms
+sentence: 刚才你有一句话说得好， 只要咱们大清君臣一心， 你们能够稳定住心思。
+
+speaker: Speaker_2
+datas: 2651370-2653755ms
+sentence: 咱们大清无敌天下，
+
+speaker: Speaker_0
+datas: 2659210-2685550ms
+sentence: 是因为当只有曾经奋波啊， 乾坤留在我心里， 就已经注定赶紧心有一份生命世界。
+
+speaker: Speaker_0
+datas: 2687760-2704605ms
+sentence: 见我风里雨飘落啊， 江山扛在我肩头就已经决定， 而本则不可以。
+
+speaker: Speaker_0
+datas: 2708690-2751945ms
+sentence: 我太辛苦说吧， 放下自己， 没把忧伤不好， 心中一人中国情长痛都藏在心窝献他一你幸苦也工作。 放下自己， 出生在心中， 依然执与情长， 都藏在心窝。
+
+speaker: Speaker_14
+datas: 2754020-2755495ms
+sentence: 先他一路，
+
+speaker: Speaker_0
+datas: 2758400-2758820ms
+sentence: 嗯嗯，
+
+speaker: Speaker_3
+datas: 2758820-2776770ms
+sentence: 嗯哎他叫什么名字来着？
+
+speaker: Speaker_4
+datas: 2776850-2778790ms
+sentence: 那碗豆腐脑还不值半文钱呢。
+
+speaker: Speaker_1
+datas: 2779130-2784365ms
+sentence: 但是在我求叔叔心里啊， 这碗豆腐脑儿可比这封万金书暖人心呐。
+
+speaker: Speaker_2
+datas: 2785030-2789155ms
+sentence: 朕现在用你的头埋朝廷两年的太平，
+
+speaker: Speaker_10
+datas: 2792630-2796995ms
+sentence: 这是家父的年近二十万两， 请师兄务必笑。
+
+--------------------------------------------------------------------------------

@@ -1,0 +1,832 @@
+
+=== 文件: 13.4K.H265.AAC-YYDS ===
+
+speaker: Speaker_0
+datas: 15010-36165ms
+sentence: 这江山起起伏， 父去， 现在的说我爱的终原爱过后， 江南又去匆匆情歌。
+
+speaker: Speaker_0
+datas: 38920-40900ms
+sentence: 这个如此，
+
+speaker: Speaker_0
+datas: 42980-65990ms
+sentence: 我今昨日何惧艰险豪情， 不不一定做人有苦散。 恶魂在两边都会梦中等， 心疼挣扎。
+
+speaker: Speaker_0
+datas: 69750-93065ms
+sentence: 我说风中天空房间紧握住的想转， 不是不见中五百年。
+
+speaker: Speaker_0
+datas: 105270-105510ms
+sentence: 嗯，
+
+speaker: Speaker_0
+datas: 110990-126385ms
+sentence: 做人何惧艰险， 豪情不变， 不一定人有苦， 有天善恶开两边为梦中的啊，
+
+speaker: Speaker_0
+datas: 137310-154810ms
+sentence: 紧握住只想转五百年。
+
+speaker: Speaker_0
+datas: 161290-181945ms
+sentence: 在你不不瞒你旱冰团功了，
+
+speaker: Speaker_1
+datas: 182990-188095ms
+sentence: 嘿臣等誓死护卫国。 我靠，
+
+speaker: Speaker_1
+datas: 192120-195705ms
+sentence: 皇上， 我是颁布开门啊，
+
+speaker: Speaker_1
+datas: 199740-203925ms
+sentence: 回站住，
+
+speaker: Speaker_2
+datas: 205170-207675ms
+sentence: 没有皇上的旨意， 谁也不准开门，
+
+speaker: Speaker_1
+datas: 208560-217710ms
+sentence: 这合住嗯，
+
+speaker: Speaker_1
+datas: 219930-241895ms
+sentence: 杀林伯奴才太带人给我阻织住去给我杀。
+
+speaker: Speaker_0
+datas: 257880-258825ms
+sentence: 这就是这样，
+
+speaker: Speaker_2
+datas: 264060-297365ms
+sentence: 拜拜皇上九门提督吴六一前来护驾了，
+
+speaker: Speaker_2
+datas: 300850-304315ms
+sentence: 他们在外宫门， 正和内蒙他们恶战呢。 好，
+
+speaker: Speaker_2
+datas: 335590-337505ms
+sentence: 他们把叛逆快杀光了。
+
+speaker: Speaker_1
+datas: 338900-347185ms
+sentence: 站住吴六一和班布尔善究竟谁在？ 篡逆谁在护驾， 你拿得准吗？
+
+speaker: Speaker_1
+datas: 351190-378115ms
+sentence: 这嗯臣吴六一已将奸贼全部剿灭， 快禀报， 皇上打开宫门，
+
+speaker: Speaker_1
+datas: 392370-410765ms
+sentence: 臣吴六一叩， 请皇上圣安开门。
+
+speaker: Speaker_2
+datas: 411670-413710ms
+sentence: 这把两边门锁打开，
+
+speaker: Speaker_1
+datas: 413970-484185ms
+sentence: 停上朝上场，
+
+speaker: Speaker_2
+datas: 486870-515005ms
+sentence: 让他把那几个叛逆带上来走。
+
+speaker: Speaker_1
+datas: 519370-520435ms
+sentence: 哎， 跪下呃， 好，
+
+speaker: Speaker_1
+datas: 529120-553285ms
+sentence: 鄂比龙在吗？ 臣臣臣臣在鄂碧龙， 你不是想在朕和鳌拜之间保持中立吗？ 这次朕仍然让你保持中立， 朕令你一律审理鳌拜案， 勿要公正。 持忠遵遵遵旨挺静啊， 今天发生了这么大的事儿， 怎么没见你言语一声啊。
+
+speaker: Speaker_1
+datas: 556090-636140ms
+sentence: 启禀皇上， 皇上英明， 果断除掉祸根， 正是满朝文武期盼已久的事， 也是咱大清的鸿福臣， 还有什么话好说呢？ 唐熙快快杀了我， 老夫宁死不愿受辱。 哼。 康熙八年三月初七深夜， 你与班布尔善等六人密谋篡逆， 当时你们每人掌中写一册， 那五只巴掌上写的都是废字， 唯独你的掌心写了个引字， 就冲这一点， 朕不杀你， 压下去长。 康熙啊啊， 你杀了我快杀了我。 好， 哎， 快走快杀了我。 此次绞除断， 陈贼子魏东庭臣在我有一臣在将驴子臣在李朝阳臣在张老三臣在马武臣在你等护驾有功舍生忘死木子兮更是恶战不屈， 直到身亡。 着力部从政。 一讲谢皇上好， 老四吹呃， 奴才在斩了禀皇上。
+
+speaker: Speaker_2
+datas: 636600-643700ms
+sentence: 哈罗寺是臣的少年兄弟， 此次灭贼他也是赴汤蹈火， 臣愿以身家性命为他担保。
+
+speaker: Speaker_1
+datas: 644020-651210ms
+sentence: 东平啊， 朕知道他是你的兄弟， 但他早已投靠了班布尔善来呀。
+
+speaker: Speaker_1
+datas: 656180-693585ms
+sentence: 奴泰靠， 请圣安平身。 谢皇上说吧， 你告诉他们， 这奴才实为五品， 御前侍卫。 两年前， 奉皇上密令潜入魏东廷府上做看门人， 并暗中监视魏府。 一切行动魏大人忠心护国， 白璧无暇而郝老四。 自从入宫之后， 便被班布尔善重金收买成为奸贼的内应押下去， 斩了皇上冤枉啊， 皇上奴才冤枉， 皇上奴才冤，
+
+speaker: Speaker_2
+datas: 695790-705275ms
+sentence: 奴才有眼无珠， 竟然认贼为有罪， 不可赦。 请皇上治奴才、 渎职失察之罪。
+
+speaker: Speaker_1
+datas: 706280-724340ms
+sentence: 洞庭啊， 你不要怪朕不相信你那时候朕自己的性命尚且不保， 岂敢相信任何人。 但是今天确信你是位忠臣， 你不要怪朕呀，
+
+speaker: Speaker_2
+datas: 724760-779695ms
+sentence: 奴才岂敢奴才谢皇上就撤撤施主， 万夫， 贫僧行痴施主万物如此贫僧， 并非佛祖大师，
+
+speaker: Speaker_1
+datas: 783130-784715ms
+sentence: 万万想不到， 还能见到你。
+
+speaker: Speaker_2
+datas: 786220-800345ms
+sentence: 见与不见在心不在缘， 施主龙庭饱满， 气宇轩昂， 贫僧十分欣慰啊。 不知施主可想看看贫僧种的稻子，
+
+speaker: Speaker_1
+datas: 801040-812485ms
+sentence: 朕特为此而来哦。 这边请啊是大师自己在种地吗？
+
+speaker: Speaker_2
+datas: 813300-819870ms
+sentence: 所位种地其实是贫僧， 自己种自己， 贫僧便是一棵草， 一棵苗啊，
+
+speaker: Speaker_1
+datas: 820190-822585ms
+sentence: 大师北方也能种水稻吗？
+
+speaker: Speaker_2
+datas: 823230-837990ms
+sentence: 贫僧试众了， 五年都失败了。 今年是第六年， 贫僧改良了种子， 看来渴望成功， 请施主秋天再来。 那个时候， 贫僧便能请施主喝一碗稻米粥了。
+
+speaker: Speaker_1
+datas: 838410-845360ms
+sentence: 大师这么多年了， 您含辛茹苦造福未来， 朕既感愤又惭愧呀。
+
+speaker: Speaker_2
+datas: 845580-864895ms
+sentence: 施主诧异， 贫僧散伴群山， 日守星月， 心如止水， 何苦之有？ 贫僧只盼着世上人天天都过太平日子， 家家餐桌上都有喝不完的粥。 贫僧能做一点是一点， 待到圆寂时从容入土化入。 大千世界，
+
+speaker: Speaker_1
+datas: 865740-868065ms
+sentence: 大师对朕可有什么要交代的吗？
+
+speaker: Speaker_2
+datas: 868900-880655ms
+sentence: 施主贵为天子， 所谓天子在贫僧， 看来， 乃天道之子， 当是祸福如草芥， 绿水火如平地， 亲近万物， 奉行天意呀，
+
+speaker: Speaker_1
+datas: 881970-883700ms
+sentence: 是而天意，
+
+speaker: Speaker_2
+datas: 883920-889980ms
+sentence: 不在高处。 而在低处天意就藏在民心之中啊，
+
+speaker: Speaker_1
+datas: 890200-894165ms
+sentence: 谢大师教诲， 朕铭刻在心，
+
+speaker: Speaker_1
+datas: 905470-915695ms
+sentence: 就你哎驸马为何直到现在你才领朕来这儿呢？
+
+speaker: Speaker_4
+datas: 917170-921715ms
+sentence: 皇上行痴身患重疾， 命不久远了。
+
+speaker: Speaker_0
+datas: 933450-955390ms
+sentence: 这这嗯武先生啊，
+
+speaker: Speaker_1
+datas: 955910-956390ms
+sentence: 苏马，
+
+speaker: Speaker_4
+datas: 956710-960615ms
+sentence: 你这是啊武先生请随我来啊，
+
+speaker: Speaker_3
+datas: 972090-973970ms
+sentence: 龙儿啊。
+
+speaker: Speaker_4
+datas: 974330-979490ms
+sentence: 这是皇上在下无子友叩见，
+
+speaker: Speaker_1
+datas: 979510-983195ms
+sentence: 皇上小有龙儿给武先生行礼了。
+
+speaker: Speaker_3
+datas: 984100-988695ms
+sentence: 树生有眼无珠， 不使真龙天子， 亵渎天威望。 皇上恕罪，
+
+speaker: Speaker_1
+datas: 989480-1015190ms
+sentence: 快起来， 朕前一阵子忙得紧， 一直没去拜师， 受教忍。 武先生抱怨了吧， 跟你说实话， 朕一直盼着这一天呢， 把你堂堂正正的请进宫来与朕聊个痛快苏玛啊， 快去给先生上茶啊， 是吴先生武先生啊， 苏麻是朕的内宫侍女怎么样？ 光彩照人吧，
+
+speaker: Speaker_3
+datas: 1015910-1018770ms
+sentence: 皇宫中的一切都是光彩照人啊。
+
+speaker: Speaker_1
+datas: 1018770-1032820ms
+sentence: 来这边请啊。 吴先生明珠早已看出朕是皇上， 而你却始终不知朕之真容。 你呀能将天下大事看得清清楚楚， 为何就看不清身旁的学生呢？
+
+speaker: Speaker_3
+datas: 1033040-1033955ms
+sentence: 书生木讷，
+
+speaker: Speaker_1
+datas: 1035030-1041835ms
+sentence: 你不是木讷， 而是不善。 此道不善于察言观色， 朕最喜爱你这一点。
+
+speaker: Speaker_3
+datas: 1043020-1049880ms
+sentence: 皇上少年英主果敢聪慧， 一举歼灭鳌拜。 乱党弹指间， 鼎定， 天下独掌朝政，
+
+speaker: Speaker_1
+datas: 1050060-1075550ms
+sentence: 在下钦佩万分剿灭鳌拜也有你份功劳啊， 朕从跟你谈古论今之中学到了不少的东西啊， 朕下啊还好， 你不知道朕的身份来坐。 呃啊如果知道了朕是皇上， 会不会变得谨小慎微， 笑也不敢开怀的笑骂， 也不敢放胆的骂三思而后语伴君如伴虎呢？
+
+speaker: Speaker_3
+datas: 1075850-1079865ms
+sentence: 皇上说的对， 在下情愿， 永远不知道龙儿的真相。
+
+speaker: Speaker_1
+datas: 1083380-1097775ms
+sentence: 吴自友， 朕决定厚厚的赏你， 朕决定让你进宫出任吏部侍郎官军三品， 并赐你为太子少保上书房。 帝师， 今后咱们便可以朝夕相处了。
+
+speaker: Speaker_3
+datas: 1099650-1100965ms
+sentence: 谢皇上，
+
+speaker: Speaker_3
+datas: 1105060-1109885ms
+sentence: 皇上隆恩浩荡， 但我自有一介书生， 实在当不起，
+
+speaker: Speaker_1
+datas: 1110940-1111925ms
+sentence: 你不愿意进宫吗？
+
+speaker: Speaker_3
+datas: 1114910-1117555ms
+sentence: 皇上恕在下， 直言，
+
+speaker: Speaker_3
+datas: 1119600-1138315ms
+sentence: 当你是龙， 儿时， 我可以无拘无束， 肆意谈吐， 笑天下一切可笑事， 骂天下一切荒唐人。 你我虽然身居斗室， 却盘膝对坐以茶当久， 忘却世间从容不见官察恩怨， 只有彼此真性情。
+
+speaker: Speaker_3
+datas: 1140550-1145095ms
+sentence: 那时的龙儿真是一派天真， 可敬可爱呀，
+
+speaker: Speaker_1
+datas: 1147300-1149480ms
+sentence: 朕也怀念那些日子呀。
+
+speaker: Speaker_3
+datas: 1149820-1169675ms
+sentence: 可如今， 您忽然成为皇上了， 既然是皇上， 就不再是龙儿了。 无论皇上多么礼贤下士， 我仍然觉得天威当头仿佛忙死在身， 快事在头， 再也不能像从前那样快意人生了。
+
+speaker: Speaker_3
+datas: 1173180-1178275ms
+sentence: 龙儿一旦知道您是皇上， 你我的师生缘分已尽。
+
+speaker: Speaker_3
+datas: 1181530-1191335ms
+sentence: 我本是布衣， 山人， 不愿进皇宫， 高堂还请皇上放。 我重归江湖， 我愿在明天开学， 讲道为皇上教化人心，
+
+speaker: Speaker_4
+datas: 1193430-1197485ms
+sentence: 皇上让他走， 别理会他有什么用。
+
+speaker: Speaker_1
+datas: 1198450-1210255ms
+sentence: 驸马吴思友，
+
+speaker: Speaker_3
+datas: 1211850-1213370ms
+sentence: 在你的话，
+
+speaker: Speaker_1
+datas: 1213370-1217135ms
+sentence: 没错， 是朕看错你了。
+
+speaker: Speaker_3
+datas: 1219490-1221270ms
+sentence: 皇上在下不敢冒犯，
+
+speaker: Speaker_1
+datas: 1221610-1243735ms
+sentence: 你， 已经当面抗旨了， 还有什么不敢冒犯的？ 再说， 朕虽然比你岁数， 小却也不是玻璃人， 碰碰就碎了。 朕虽然生气， 哎， 但还是佩服你这副书生性情， 将来你倒霉了， 还是可以来掌。 朕的谢皇上体察之恩，
+
+speaker: Speaker_3
+datas: 1244490-1248525ms
+sentence: 在下即使远在天边， 心里仍然想着龙儿，
+
+speaker: Speaker_1
+datas: 1249730-1257495ms
+sentence: 这话听起来就顺耳多了。 吴思瑶， 你有什么要求？ 只管说出来， 朕都会答应你的。
+
+speaker: Speaker_1
+datas: 1269160-1274055ms
+sentence: 皇上无论你是要人还是要物， 你都可以说出来。
+
+speaker: Speaker_1
+datas: 1276270-1280165ms
+sentence: 有话现在就说晚了， 朕可能会后悔。
+
+speaker: Speaker_3
+datas: 1287080-1290125ms
+sentence: 谢皇上隆恩在下一无所求，
+
+speaker: Speaker_1
+datas: 1298670-1305185ms
+sentence: 吴先生你且去吧， 朕还有事， 别忘了给龙儿写书信啊。
+
+speaker: Speaker_3
+datas: 1307290-1309445ms
+sentence: 皇上多多保重，
+
+speaker: Speaker_1
+datas: 1311050-1311955ms
+sentence: 先生保重，
+
+speaker: Speaker_1
+datas: 1326710-1360395ms
+sentence: 哼朕准你送到宫门是吴先生宋马， 我，
+
+speaker: Speaker_4
+datas: 1363400-1364935ms
+sentence: 你为什么不向皇上要？ 我，
+
+speaker: Speaker_4
+datas: 1371130-1373755ms
+sentence: 你说呀， 为什么不要我？
+
+speaker: Speaker_3
+datas: 1377040-1387325ms
+sentence: 苏玛龙儿说， 我看不出他的天子真容， 他说错了。 我虽然没看出他是皇上，
+
+speaker: Speaker_3
+datas: 1389880-1391025ms
+sentence: 但我早就肯出。
+
+speaker: Speaker_3
+datas: 1394370-1402010ms
+sentence: 他喜欢你你胡说太皇太后早就下过。
+
+speaker: Speaker_4
+datas: 1402010-1409965ms
+sentence: 言旨之终， 我把皇上当主子当弟弟， 不准我有任何非分之想。
+
+speaker: Speaker_4
+datas: 1412270-1419760ms
+sentence: 宫里的女人多了， 皇上要谁有谁我啊， 我算什么？
+
+speaker: Speaker_3
+datas: 1420120-1437365ms
+sentence: 可他却是舍不得你苏妈， 如果他只是聋儿， 我敢和他争夺。 你可可他是皇上啊， 我就不敢争了。 皇上也是人， 也会恩仇必报，
+
+speaker: Speaker_3
+datas: 1439890-1443905ms
+sentence: 即使他现在放过我们， 将来还是不得安宁。
+
+speaker: Speaker_4
+datas: 1447800-1452785ms
+sentence: 你说啊？ 龙先生，
+
+speaker: Speaker_3
+datas: 1454440-1468595ms
+sentence: 苏妈天地无数， 有情事， 世间满眼无奈， 人我无自由。 如有来生， 你我再续相会吧。
+
+speaker: Speaker_0
+datas: 1484870-1485250ms
+sentence:  yeah，
+
+speaker: Speaker_1
+datas: 1494150-1501665ms
+sentence: 驸马姐姐宫里的绫罗绸缎， 你终生享用不尽， 为何夜夜如此？
+
+speaker: Speaker_1
+datas: 1508040-1513655ms
+sentence: 朕有时候真想成为你， 手中的丝线也被你织成千丝万缕。
+
+speaker: Speaker_1
+datas: 1535270-1537755ms
+sentence: 月明星稀，
+
+speaker: Speaker_1
+datas: 1539980-1542505ms
+sentence: 风高雾燥，
+
+speaker: Speaker_3
+datas: 1545370-1585375ms
+sentence: 龙儿小友， 这是为师， 最后一次， 称你龙儿也是最后一次， 同你笑谈天下从此以后， 你我尽欢而散， 天各一方。 龙儿小友， 你今年只有十六岁。 天资聪慧龙体， 强健皇权独长， 重臣一心为师， 斗胆。 展望大清未来认为， 康熙皇帝有望成为中华历史上最杰出的君王。 皇上得天时而行人政， 有时间与雄心， 为天下人创造一代康熙盛世。
+
+speaker: Speaker_3
+datas: 1611440-1702060ms
+sentence: 如今， 大清有三大隐患， 一、 三藩割据， 二河攻不治。 三漕运阻塞。 这三大隐患尤以三藩割据为首患皇上若能在二十年内根除。 这三大隐患则天下大定， 四海称雄司马拿笔墨明珠搬凳子是呃不就嗯啊三藩合公曹运素马，
+
+speaker: Speaker_1
+datas: 1702820-1739505ms
+sentence: 朕这六个字不准抹， 朕要天天看着他， 夜夜想着他二十年后看朕能不能做成。 这三件大事是明珠啊， 朕要是留下五四有疤， 他不开心。 现在他走了， 朕不开心。 此人虽是一介书生， 但目光远大雄势古今可算是一个布衣天子啊， 你要多动动脑子。 皇上奴才明白， 奴才这就去办， 要办， 要抓紧办。
+
+speaker: Speaker_2
+datas: 1740740-1745035ms
+sentence: 这皇上，
+
+speaker: Speaker_4
+datas: 1746880-1747900ms
+sentence: 你要杀五次友，
+
+speaker: Speaker_1
+datas: 1748420-1749505ms
+sentence: 谁要杀吴次友？
+
+speaker: Speaker_1
+datas: 1751920-1753205ms
+sentence: 明珠回来，
+
+speaker: Speaker_1
+datas: 1755250-1768520ms
+sentence: 皇上， 你为何要杀我自由？ 呃， 皇上这不是奴才的心思， 是皇上旨意啊， 朕什么时候说过要杀他呀？ 皇上您刚才说吾次有为不依天子，
+
+speaker: Speaker_3
+datas: 1768820-1774520ms
+sentence: 皇上自古以来天无二日事无二。 主， 您刚才让我快办， 让我抓紧办呢。
+
+speaker: Speaker_1
+datas: 1774660-1774900ms
+sentence: 啊，
+
+speaker: Speaker_1
+datas: 1776960-1805885ms
+sentence: 明珠啊， 你聪明过头了， 朕的意思是让你这个翰林学士多学学那位落榜的年兄， 多动动脑子， 替朕多出些主意， 办好这几项国策， 奴才糊涂， 罪该万死， 退下这回来， 皇上奴奴才没走呢。 以后啊， 你少说罪该万死之类的鬼话， 人只有一条命， 死一次就够了， 哪能死一万次这下去吧。
+
+speaker: Speaker_2
+datas: 1807500-1814090ms
+sentence: 皇上， 那奴才走了五次，
+
+speaker: Speaker_1
+datas: 1814090-1821385ms
+sentence: 有多了些刺儿明珠， 多了些油画， 他们两个人呀， 要是能融合一下就好了。
+
+speaker: Speaker_1
+datas: 1834820-1846055ms
+sentence: 你只管看吧， 这信上没有一个字提到你是他心里只有皇上， 朕心里却有你。
+
+speaker: Speaker_1
+datas: 1849390-1861485ms
+sentence: 吴自友有句话说得对， 他不会再回来了， 而朕必定成为一代圣君， 创造康熙盛世苏马， 你还等他干什么呢？
+
+speaker: Speaker_5
+datas: 1867730-1886355ms
+sentence: 丫头啊， 嗯你给我梳头， 又让我想起童娘娘来了， 从前哪他也给我梳头， 可惜呀， 当上太后， 没几天呢， 她就先逝了， 真是短命呢。
+
+speaker: Speaker_4
+datas: 1887190-1891115ms
+sentence: 佟太后贤惠仁慈丫头啊， 时常想念他，
+
+speaker: Speaker_5
+datas: 1892380-1901485ms
+sentence: 哎呦， 你心眼儿真好啊， 可是你不觉得你梳头啊， 比他是样儿， 有耐心。
+
+speaker: Speaker_4
+datas: 1903820-1907400ms
+sentence: 老祖宗夸奖哎呦，
+
+speaker: Speaker_5
+datas: 1907880-1913395ms
+sentence: 又多了那么多的白发老了。
+
+speaker: Speaker_5
+datas: 1916040-1924625ms
+sentence: 你说有人说呀， 咱们女人头发长见识短， 你说怎么能这么说呢？
+
+speaker: Speaker_5
+datas: 1926890-1958620ms
+sentence: 要我说呀， 咱们女人呢不仅头发长， 那见识也长。 哎呀， 这么多年哪你也历练出来了， 你说在宫中你也看得出， 不管是呢犄角旮旯还是在门后， 那都藏着多少心眼儿， 就连那苍蝇蚊子都会咬口舌丫头。
+
+speaker: Speaker_4
+datas: 1958620-1964015ms
+sentence: 不管人家说什么， 只要有老祖宗， 在丫头， 什么都不怕，
+
+speaker: Speaker_5
+datas: 1964750-2001095ms
+sentence: 你这么信我。 哎呦， 在这个宫中啊， 做人不容易呀， 做女人就更不容易。 你就说熬到了太后， 太皇太后又怎么样， 一样有苦恼， 你说呢？ 就说那些榆木脑袋吧， 说多了他又听不懂， 不说吧， 我这心里头又搁不下， 嗯， 千难万苦我就得啊， 硬撑着，
+
+speaker: Speaker_4
+datas: 2002030-2008535ms
+sentence: 要是老祖宗都硬着头皮撑着， 那我们做丫头的还不把头锁到肚子里去了。
+
+speaker: Speaker_5
+datas: 2009660-2035010ms
+sentence: 丫头啊， 你果然是历练出来了， 你看人看得透彻， 看来呀我还真得赏你点什么， 你们都下去吧， 是苏麻呀， 在你一直都叫我婆婆， 可是现在呢我改主意了， 从今往后， 你叫我太婆婆，
+
+speaker: Speaker_4
+datas: 2035570-2036370ms
+sentence: 太婆婆。
+
+speaker: Speaker_5
+datas: 2036650-2039245ms
+sentence: 嗯， 来丫头，
+
+speaker: Speaker_1
+datas: 2042190-2042765ms
+sentence: 哎呀，
+
+speaker: Speaker_5
+datas: 2044290-2081465ms
+sentence: 这些年哪你侍后皇上有情有义无微不至。 我呀左看右看， 相信我没看错。 你呀是皇上身边最可靠的人我呢已经下了一旨， 把你呀许配给皇上， 册封为德妃， 从今哪你就是我的孙媳妇了， 也就是宫中的主子了。 怎么丫头你不谢恩吗？
+
+speaker: Speaker_4
+datas: 2084360-2087165ms
+sentence: 哼谢老祖宗，
+
+speaker: Speaker_2
+datas: 2088230-2103445ms
+sentence: 皇上皇上皇上这儿呢啊皇上大喜呀，
+
+speaker: Speaker_1
+datas: 2104220-2105880ms
+sentence: 洞庭啊， 什么喜事儿啊。
+
+speaker: Speaker_2
+datas: 2106320-2114055ms
+sentence: 太皇太后刚刚下台， 懿旨把苏玛许配给皇上了， 册封为德妃， 真的千真万确。
+
+speaker: Speaker_1
+datas: 2115080-2118825ms
+sentence: 哎呀， 这老祖宗哎怎么一点不认为透给朕呢？
+
+speaker: Speaker_2
+datas: 2119980-2122155ms
+sentence: 但老祖宗最知道皇上的心思，
+
+speaker: Speaker_1
+datas: 2123230-2129050ms
+sentence: 哎， 我说这半天怎么没人给朕上茶呢？ 原来苏妈躲起来了，
+
+speaker: Speaker_2
+datas: 2129330-2138335ms
+sentence: 可不是吗？ 这么大福气啊， 做奴婢的一时半会的哪能消受得了啊， 还不找个地方猫着， 不好意思见皇上是吗？
+
+speaker: Speaker_1
+datas: 2139120-2140520ms
+sentence: 朕倒想早点见到他， 哎，
+
+speaker: Speaker_2
+datas: 2140540-2143280ms
+sentence: 主子奴才知道他猫在哪儿去看看。
+
+speaker: Speaker_1
+datas: 2143340-2143575ms
+sentence: 哎，
+
+speaker: Speaker_1
+datas: 2150540-2151785ms
+sentence: 人在里面嗯，
+
+speaker: Speaker_1
+datas: 2154320-2158005ms
+sentence: 苏麻把门打开呃， 朕瞧你来了，
+
+speaker: Speaker_1
+datas: 2161920-2178175ms
+sentence: 司马皇上苏马， 这是老祖宗的懿旨， 连我这当孙儿的也得遵循啊。 不过朕是真心的喜欢你， 朕愿意跟你白头偕老。
+
+speaker: Speaker_4
+datas: 2181290-2187905ms
+sentence: 皇上素麻只配做奴婢， 不愿当妃子。 嗯，
+
+speaker: Speaker_1
+datas: 2191820-2200365ms
+sentence: 你是不是还惦记着那个武四友啊， 你想等他一辈子苏麻是喜欢过吴先生，
+
+speaker: Speaker_4
+datas: 2201550-2233730ms
+sentence: 可是他走了， 奴婢的心也死了。 苏妈这辈子不嫁任何人， 更不想当什么贵妃娘娘。 素玛只想平平安安的做宫女， 老老实实的伺候皇上， 别的一概不想老祖宗。
+
+speaker: Speaker_1
+datas: 2233870-2237690ms
+sentence: 嗯， 苏阿拉姑册封德杯的事儿是不是缓几日啊，
+
+speaker: Speaker_5
+datas: 2238070-2239450ms
+sentence: 为什么呀？ 他病了，
+
+speaker: Speaker_1
+datas: 2239870-2246395ms
+sentence: 此时行聘假之礼， 虽然觉得不太吉祥是心病吧，
+
+speaker: Speaker_5
+datas: 2248050-2252050ms
+sentence: 莫非他心里头还惦记着那个书生啊？
+
+speaker: Speaker_1
+datas: 2252370-2261155ms
+sentence: 那倒也不是他做奴婢做惯了， 一下子成了娘娘做了主子， 只怕他受不了这个福气孙儿啊。
+
+speaker: Speaker_5
+datas: 2261900-2304065ms
+sentence: 我看你呀真是不了解女人呐， 她那是矫情， 当然了， 又欢喜又害怕。 其实他心里头啊巴不得呢是哎孙儿啊， 一个女孩子家必须对皇上又爱又怕， 那才会把皇上当成自己的命根子， 册封的日子不必改变。 你放心吧， 到时候啊我担保他打扮的金枝玉叶儿似的， 高高兴兴的出来， 受告密皆金策。
+
+speaker: Speaker_1
+datas: 2304740-2310720ms
+sentence: 嗯， 老祖宗真是圣明几句话， 就把僧人点化开了。 嗯，
+
+speaker: Speaker_2
+datas: 2310720-2333335ms
+sentence: 哼娘娘娘娘娘娘都听你来干什么？ 奴才来给娘娘请安了，
+
+speaker: Speaker_4
+datas: 2334100-2336745ms
+sentence: 你要是再叫我娘娘， 我就一头碰死在你面前。
+
+speaker: Speaker_2
+datas: 2337320-2339015ms
+sentence: 司妈， 你别动怒啊，
+
+speaker: Speaker_1
+datas: 2339980-2340415ms
+sentence: 我不敢，
+
+speaker: Speaker_4
+datas: 2342660-2344765ms
+sentence: 是不是皇上派你来看，
+
+speaker: Speaker_1
+datas: 2347860-2353205ms
+sentence: 是嗯动听在这皇宫，
+
+speaker: Speaker_4
+datas: 2354470-2365025ms
+sentence: 我用一个弟弟， 那是皇上。 我还有一个哥哥， 那就是你你们两人是我在宫里最亲的亲人，
+
+speaker: Speaker_2
+datas: 2365950-2370695ms
+sentence: 我只是个奴才， 怎么敢跟皇上相提并论呢？
+
+speaker: Speaker_4
+datas: 2371300-2390565ms
+sentence: 冬天我进宫的时候， 老祖宗就给了我严密， 是皇上， 是我主子， 又是弟弟。 这些年， 我对这主子一直当成第狱不敢越雷池一步， 都听你懂我的心思吗？
+
+speaker: Speaker_1
+datas: 2391780-2392260ms
+sentence: 懂了，
+
+speaker: Speaker_2
+datas: 2393850-2395125ms
+sentence: 我原以为是武先生的，
+
+speaker: Speaker_4
+datas: 2396150-2421005ms
+sentence: 我和吴先生已经没有恩怨了， 你不要再提， 我不愿意当妃子， 那是因为我瞧够了嫔妃的心酸。 这些当娘娘的表面上又尊贵又风光， 可是内地里呢你算计我， 我算计你， 为了保住自己的地位， 在梦里都在争宠。 你看额娘娘和佟皇后争了一辈子， 到头来都没活过三十岁，
+
+speaker: Speaker_2
+datas: 2422800-2423670ms
+sentence: 他们真够惨的，
+
+speaker: Speaker_4
+datas: 2425580-2447370ms
+sentence: 我实在是怕过这种日子， 我只想做宫。 再说。 皇上是天下人的， 皇上不是自家的男人， 妃子只是用来传宗接代的。 皇上要是喜欢你就来看看你， 不喜欢就撂在一边儿。 一旦圣卷衰落， 连太监都瞧不起，
+
+speaker: Speaker_1
+datas: 2447430-2448665ms
+sentence: 你可不是吗？
+
+speaker: Speaker_2
+datas: 2449650-2453190ms
+sentence: 洛家的凤凰不容嫉妒皇上待，
+
+speaker: Speaker_4
+datas: 2453190-2466465ms
+sentence: 咱们俩算是恩遇了。 可是他为了保住皇位， 什么事儿都做得出来， 脸坏的时候， 不是连你都监视上了吗？ 你可是和他从小一块长大， 苏玛，
+
+speaker: Speaker_2
+datas: 2468290-2468955ms
+sentence: 你别说了，
+
+speaker: Speaker_4
+datas: 2470790-2475765ms
+sentence: 连你都害怕， 干嘛， 还把我往火坑里推来，
+
+speaker: Speaker_2
+datas: 2476890-2488905ms
+sentence: 素玛册封你当妃子是老祖宗的恩典。 几十年来， 凡是违抗老祖宗的人， 没一个活命的， 你可要三思啊，
+
+speaker: Speaker_4
+datas: 2489730-2530995ms
+sentence: 我懂你的意思。 老祖宗给丫头一个天大的恩定， 可丫头却不识抬举。 老祖宗为了维护宫里的规矩， 不得不把这个丫头办掉， 已成后人走马。 我进宫的第一天就禀报过老祖宗， 我素妈族里的人都死绝了。 我苏麻就是全租， 那天无良府要用石灰把我烧死， 是老祖宗救了我。 如今老祖宗要杀就让他杀吧， 苏马拉古， 宁肯死也不认命。 哎，
+
+speaker: Speaker_2
+datas: 2538230-2544315ms
+sentence: 皇上奴才已经敲过两次门了， 苏妈就是不开门， 再去呃， 皇上去呃，
+
+speaker: Speaker_1
+datas: 2544960-2546585ms
+sentence: 就是绑要把他绑来。
+
+speaker: Speaker_2
+datas: 2547400-2561530ms
+sentence: 这皇上老祖宗来了啊，
+
+speaker: Speaker_1
+datas: 2561630-2563450ms
+sentence: 皇祖母孙儿啊，
+
+speaker: Speaker_5
+datas: 2563530-2564350ms
+sentence: 时间快到了，
+
+speaker: Speaker_1
+datas: 2564350-2567510ms
+sentence: 您怎么亲自来了？ 一会儿素麻就会给老祖宗磕头去的。
+
+speaker: Speaker_5
+datas: 2567510-2576330ms
+sentence: 我知道我这不是高兴吗？ 我来凑个热闹吧， 你知道我这一路上啊都想起什么来了，
+
+speaker: Speaker_1
+datas: 2576850-2579350ms
+sentence: 黄祖母想起当年自个儿出嫁的事儿了。 嗯，
+
+speaker: Speaker_5
+datas: 2579790-2606070ms
+sentence: 孙儿啊， 你是够聪明的， 但是你也没猜。 对， 我告诉你呀， 我想起啊我这辈子啊曾经给两代皇上办过十二次的册封礼， 要算上这次呢那应该是十三次了吧。 每一次啊都有新鲜事儿， 你知道吗？ 在我这个年纪啊， 办一次少一次了，
+
+speaker: Speaker_1
+datas: 2606730-2610970ms
+sentence: 老祖宗龙体、 康健改明， 还有曾孙伺候您呢。 哎呦，
+
+speaker: Speaker_5
+datas: 2611610-2623670ms
+sentence: 你看这东西置办的不错吗？ 还有这么多的新鲜的东西， 哎呦， 比我出嫁， 那时候啊真是强多了啊。
+
+speaker: Speaker_1
+datas: 2624630-2635810ms
+sentence: 丫头呢呃呃苏麻还在梳妆打扮呢， 冬亭啊在传话叫苏八大姑快一点， 就说老祖宗御驾亲临了。
+
+speaker: Speaker_2
+datas: 2636410-2639090ms
+sentence: 这我看哪，
+
+speaker: Speaker_5
+datas: 2639330-2646525ms
+sentence: 你也别瞒我了， 我什么没见过呀， 你呀给丫头点面子， 亲自去请她。
+
+speaker: Speaker_2
+datas: 2647270-2661165ms
+sentence: 这苏玛苏玛老祖宗亲自到了， 你快出来呀， 快点儿送马还没出来呀，
+
+speaker: Speaker_1
+datas: 2662000-2664145ms
+sentence: 苏马苏马，
+
+speaker: Speaker_1
+datas: 2666520-2671505ms
+sentence: 朕令你即刻出来怎么着， 你想抗旨吗？ 啊，
+
+speaker: Speaker_1
+datas: 2673700-2680215ms
+sentence: 什么是你的，
+
+speaker: Speaker_0
+datas: 2681120-2720555ms
+sentence: 有一种大我的寂寞岁月已经奋过， 把乾坤留在我， 心里就已经注定。 我不曾经有你心有一份真命世界， 一边风里一飘落啊， 江山扛在我肩头， 就已经决定儿奔着。
+
+speaker: Speaker_0
+datas: 2728780-2746085ms
+sentence: 不过再辛苦也你说吧， 放下自己， 把忧伤抚摸五号心中一人知得， 我与情长恨都藏在心窝，
+
+speaker: Speaker_3
+datas: 2748190-2755200ms
+sentence: 嫌他一路跟路好多。
+
+speaker: Speaker_0
+datas: 2755380-2772285ms
+sentence: 再辛苦也无说放下， 自把忧伤， 不心中依然执着与情长都藏在心窝，
+
+speaker: Speaker_3
+datas: 2774330-2795160ms
+sentence: 嫌他一路看零零零零大人此行，
+
+speaker: Speaker_2
+datas: 2795720-2797485ms
+sentence: 也许是有惊无险呢。 嗯，
+
+speaker: Speaker_3
+datas: 2800080-2800975ms
+sentence: 这话怎么说，
+
+speaker: Speaker_5
+datas: 2802240-2806765ms
+sentence: 皇上， 他是你的人， 你看怎么办？ 嗯，
+
+speaker: Speaker_4
+datas: 2809000-2809825ms
+sentence: 老祖宗。
+
+--------------------------------------------------------------------------------

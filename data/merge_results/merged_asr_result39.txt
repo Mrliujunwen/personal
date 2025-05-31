@@ -1,0 +1,932 @@
+
+=== 文件: 39.4K.H265.AAC-YYDS ===
+
+speaker: Speaker_0
+datas: 15070-36230ms
+sentence: 这江山起起伏， 福柔的却显得的放马， 爱得中原哀。 一天过后， 江南又去匆风情歌，
+
+speaker: Speaker_1
+datas: 38950-40920ms
+sentence: 梦着一次。
+
+speaker: Speaker_0
+datas: 43040-66030ms
+sentence: 那金色的昨日何惧艰险豪情， 不与梦又一年， 做人有苦有善恶分开， 两边都为梦中的你的挣扎。
+
+speaker: Speaker_0
+datas: 69790-93105ms
+sentence: 我说我这当空房间紧握住， 只有想找这等着中的我五百年，
+
+speaker: Speaker_1
+datas: 105210-110330ms
+sentence: 我不是就这个。
+
+speaker: Speaker_0
+datas: 111220-130215ms
+sentence: 做人何惧精神， 豪情不变复一遍。 做人有苦有甜， 善恶分在两边， 为梦中的， 明天冲他好，
+
+speaker: Speaker_0
+datas: 136690-155205ms
+sentence: 双肩紧握住路， 旋转不在我五百年。
+
+speaker: Speaker_2
+datas: 161180-180835ms
+sentence: 你在不不满你无论谁胜谁败，
+
+speaker: Speaker_3
+datas: 182060-183385ms
+sentence: 是我和康熙的命运。
+
+speaker: Speaker_2
+datas: 185950-187465ms
+sentence: 自从我继承汗位之后，
+
+speaker: Speaker_3
+datas: 188140-190165ms
+sentence: 与康熙的生死大战就不可避免。
+
+speaker: Speaker_3
+datas: 193320-195485ms
+sentence: 我盼望这一天盼了十几年了，
+
+speaker: Speaker_2
+datas: 198020-199160ms
+sentence: 我一定能打败康熙，
+
+speaker: Speaker_3
+datas: 199280-202185ms
+sentence: 攻入北京， 建立哥尔丹王朝。
+
+speaker: Speaker_4
+datas: 209420-215325ms
+sentence: 皇上皇上哦，
+
+speaker: Speaker_2
+datas: 220720-222900ms
+sentence: 报啊禀皇上，
+
+speaker: Speaker_4
+datas: 223260-229270ms
+sentence: 格尔丹大军分东西两路， 朝大营逼来赢赢迎战。
+
+speaker: Speaker_3
+datas: 229710-238425ms
+sentence: 这嗯呃来明珠啊，
+
+speaker: Speaker_5
+datas: 239600-245835ms
+sentence: 臣在在对是病情日益严重，
+
+speaker: Speaker_2
+datas: 247720-250665ms
+sentence: 回回不了京城要御理医址，
+
+speaker: Speaker_3
+datas: 251430-253870ms
+sentence: 皇上皇上万万不可啊，
+
+speaker: Speaker_2
+datas: 254770-258455ms
+sentence: 干必皇上婢莫伺候。
+
+speaker: Speaker_1
+datas: 264570-267370ms
+sentence: 哎嗯呃，
+
+speaker: Speaker_2
+datas: 267730-276260ms
+sentence: 皇太子应仍正将仁义聪毁贤能， 朕决意理应人为美爷，
+
+speaker: Speaker_3
+datas: 276660-322145ms
+sentence: 皇上为我们皇上老臣猫死禀报。 据京城可靠消息， 在皇上病危之时， 左头与太子竟有不臣之举呀。 他们剥散谣言， 说皇上龙誉归天了， 太子府甚至预先定制了继位所需的皇冠龙袍。 皇上他们他们甚至甚至盼着皇上归天， 哪是什么皇上真以为皇上定能转危为安。 皇上， 你万万不可欲立一致啊。
+
+speaker: Speaker_3
+datas: 327820-346015ms
+sentence: 皇上皇上皇上皇上， 我皇上皇上宁下你的话， 让皇上急怒攻心。 他的病更重了， 皇位传承乃国之命脉， 岂能不奏明皇上吗？
+
+speaker: Speaker_3
+datas: 386020-388950ms
+sentence: 蓉娘娘， 花妈得的是寒热重症，
+
+speaker: Speaker_6
+datas: 389390-390830ms
+sentence: 我给皇上带来药了，
+
+speaker: Speaker_3
+datas: 391230-399095ms
+sentence: 太好了啊。 蓉娘娘蓉娘娘，
+
+speaker: Speaker_6
+datas: 406950-412535ms
+sentence: 皇上皇上臣妾来了，
+
+speaker: Speaker_2
+datas: 415470-416775ms
+sentence: 用菲尔真死不了。
+
+speaker: Speaker_6
+datas: 417720-424690ms
+sentence: 臣妾来晚了， 臣妾带药来了，
+
+speaker: Speaker_2
+datas: 425030-431565ms
+sentence: 是太子准备的药啊， 真不吃他的药。
+
+speaker: Speaker_6
+datas: 441570-457285ms
+sentence: 臣妾在来的路上抓获了两个法兰西来的教会的使者。 他们说呀， 在他们的国家， 寒热病叫做疟疾， 他们有专门治此病的良药。
+
+speaker: Speaker_5
+datas: 458830-469335ms
+sentence: 皇上皇上臣建议召那两个洋使者问话，
+
+speaker: Speaker_5
+datas: 479250-481170ms
+sentence: 快将那两个洋人带来走。
+
+speaker: Speaker_5
+datas: 496070-503695ms
+sentence: 在下内阁大臣李光帝， 请问二位不远万里来到大清， 想做些什么呀？
+
+speaker: Speaker_7
+datas: 504740-511500ms
+sentence: 我们今见大清皇帝， 请他恩准， 我们传播圣教福音， 拯救灵魂， 治病救人。
+
+speaker: Speaker_5
+datas: 511920-521505ms
+sentence: 皇上在京城以后， 也许会让你们见到， 我问你们， 除了拯救灵魂， 你们还能做什么？
+
+speaker: Speaker_4
+datas: 522210-525875ms
+sentence: 天文酸血、 治病救人寒热病，
+
+speaker: Speaker_5
+datas: 526730-527410ms
+sentence: 你们能治吗？
+
+speaker: Speaker_7
+datas: 527770-537480ms
+sentence: 你说的寒热病名叫疟疾， 刚才我在帐篷外面都看见了， 这里有很多士兵都得了疟疾，
+
+speaker: Speaker_5
+datas: 537540-539195ms
+sentence: 请问你们能治吗？
+
+speaker: Speaker_7
+datas: 540550-549865ms
+sentence: 西洋刚刚研制出一种神药， 叫禁济纳霜。 我们这次来贵国恰好带来三骆驼请客，
+
+speaker: Speaker_5
+datas: 560100-563205ms
+sentence: 如果有假， 你们将被碎尸万段，
+
+speaker: Speaker_7
+datas: 563870-565015ms
+sentence: 你是要杀我们。
+
+speaker: Speaker_1
+datas: 565760-566115ms
+sentence: 嗯，
+
+speaker: Speaker_7
+datas: 567300-581745ms
+sentence: 请相信这药无毒无害， 正适合在床上躺着那位病人怎么服用啊？ 一次一勺用温水化开服用， 一日三次。
+
+speaker: Speaker_5
+datas: 584180-594640ms
+sentence: 好， 带他们下去吧。 这明香，
+
+speaker: Speaker_1
+datas: 594800-604465ms
+sentence: 你看啊娘娘给我皇上，
+
+speaker: Speaker_2
+datas: 607190-609025ms
+sentence: 洋人为何要害朕，
+
+speaker: Speaker_2
+datas: 611490-614790ms
+sentence: 只有自家人才会害朕啊。
+
+speaker: Speaker_3
+datas: 615010-619245ms
+sentence: 皇上准了用药， 哎， 快来水啊，
+
+speaker: Speaker_6
+datas: 621210-622610ms
+sentence: 让臣妾先试用一盅，
+
+speaker: Speaker_5
+datas: 623230-625720ms
+sentence: 娘娘起来让臣来试用吧。
+
+speaker: Speaker_3
+datas: 625720-628600ms
+sentence: 娘娘丈， 我有的是患病兵俑， 让他们先试吧，
+
+speaker: Speaker_8
+datas: 628620-629660ms
+sentence: 不来不及了。
+
+speaker: Speaker_5
+datas: 629820-634170ms
+sentence: 娘娘娘娘不娘娘娘娘嗯，
+
+speaker: Speaker_1
+datas: 634270-654105ms
+sentence: 这臣妾无事，
+
+speaker: Speaker_6
+datas: 654870-656150ms
+sentence: 臣妾再试有你，
+
+speaker: Speaker_3
+datas: 656150-656835ms
+sentence: 要让臣来，
+
+speaker: Speaker_1
+datas: 697670-740685ms
+sentence: 你下去勇士们， 我们准备进攻一三安琪尔回来进家，
+
+speaker: Speaker_1
+datas: 747090-767560ms
+sentence: 你这来起来， 你回来， 我要停这拦姐， 你疯了回去，
+
+speaker: Speaker_8
+datas: 775180-776345ms
+sentence: 大哥， 求您禀报，
+
+speaker: Speaker_3
+datas: 780210-792135ms
+sentence: 你别胡闹了， 回去传去你快回来， 不马上就要开战， 你别胡闹回去。
+
+speaker: Speaker_8
+datas: 797840-802095ms
+sentence: 如果你们这样， 打从我身上踏过去，
+
+speaker: Speaker_1
+datas: 804750-815755ms
+sentence: 停我世界回去篮球。
+
+speaker: Speaker_3
+datas: 819340-830985ms
+sentence: 皇上爸双方正在交战和硕公主， 突然冲入阵前， 祈求罢兵休战。
+
+speaker: Speaker_1
+datas: 832380-833095ms
+sentence: 安琪儿，
+
+speaker: Speaker_2
+datas: 835600-837855ms
+sentence: 他现在是戈尔丹的妃子，
+
+speaker: Speaker_2
+datas: 840060-842180ms
+sentence: 不必理他该怎么做怎么做。
+
+speaker: Speaker_3
+datas: 842460-864040ms
+sentence: 志哥知识说， 戈尔丹妃子跪在双方阵容之间， 宁死不退， 致使将士们心有顾忌， 难以放胆冲杀。 戈尔丹呢以末将看戈尔丹也是进退两难， 僵持着这两个夫妻，
+
+speaker: Speaker_2
+datas: 864380-867275ms
+sentence: 一个弄刀， 一个弄情都来和朕作对。
+
+speaker: Speaker_6
+datas: 869130-877470ms
+sentence: 皇上蓝琪儿是一片善心， 他只是一时糊涂， 想化干戈为玉帛， 求皇上，
+
+speaker: Speaker_8
+datas: 877830-879010ms
+sentence: 改日再战吧。
+
+speaker: Speaker_2
+datas: 879310-920775ms
+sentence: 胡说八道大战在即， 岂能为一个丫头乱了军心， 连个尔丹都会笑话李子全奴才在蓝琪儿喜欢你信任你， 去给他们传旨告诉他们。 顺者畅， 逆者亡， 不退即死。 皇上这老张末将在传令弓箭手三通鼓臂万箭齐发射死一切胆敢抗天者， 全军出击剿灭戈尔丹。
+
+speaker: Speaker_6
+datas: 921500-925985ms
+sentence: 这皇上求您别伤蓝妾儿，
+
+speaker: Speaker_2
+datas: 927330-930135ms
+sentence: 再来是令前去传旨，
+
+speaker: Speaker_2
+datas: 932450-934115ms
+sentence: 朕还是心太软了。
+
+speaker: Speaker_2
+datas: 936560-942830ms
+sentence: 从现在起， 你就在这儿待着， 一步， 也不准离开。
+
+speaker: Speaker_6
+datas: 943410-948445ms
+sentence: 皇上蓝琪儿是我们的女儿啊。
+
+speaker: Speaker_2
+datas: 951870-956945ms
+sentence: 大战在即， 谁挡在朕的前面， 谁就是朕的敌人，
+
+speaker: Speaker_3
+datas: 970860-1027575ms
+sentence: 你干什么去？ 陛下抗旨啊， 龙飞溶水蓝七格的弓箭手准备哎呀，
+
+speaker: Speaker_3
+datas: 1029670-1032920ms
+sentence: 预备蓝祺哥哥蓝祺哥，
+
+speaker: Speaker_8
+datas: 1033160-1038960ms
+sentence: 哎呀， 李公公李公公， 我皇阿玛和我额娘都好吗？
+
+speaker: Speaker_3
+datas: 1039140-1048995ms
+sentence: 好好啊， 皇上焉知啊， 天为所向， 顺治长地之亡啊， 无论何人不退既死啊，
+
+speaker: Speaker_3
+datas: 1052770-1117800ms
+sentence: 嗯求你别别走皇上爷三通鼓臂万箭齐发射死一切胆敢抗天， 全军开战， 剿灭孙达二软起来搬蛋啊，
+
+speaker: Speaker_1
+datas: 1117880-1120835ms
+sentence: 救救救命。
+
+speaker: Speaker_1
+datas: 1127340-1145000ms
+sentence: 没有啊， 我琪儿啊， 我在哪啊？
+
+speaker: Speaker_1
+datas: 1153510-1157310ms
+sentence: 嗯， 拜拜，
+
+speaker: Speaker_1
+datas: 1160160-1164520ms
+sentence: 进攻蓝雀，
+
+speaker: Speaker_3
+datas: 1165280-1169555ms
+sentence: 你给我回来勇士们，
+
+speaker: Speaker_1
+datas: 1170790-1171340ms
+sentence: 加油。
+
+speaker: Speaker_1
+datas: 1229860-1230410ms
+sentence: 对对对，
+
+speaker: Speaker_1
+datas: 1238190-1334815ms
+sentence: 同去是是拿起来蓝静儿额娘，
+
+speaker: Speaker_5
+datas: 1338040-1399745ms
+sentence: 我去嗯荣妃娘娘容妃娘娘容妃娘娘蓝琪格格， 皇上皇上请你们马上回大营去。
+
+speaker: Speaker_8
+datas: 1403060-1405875ms
+sentence: 玉皇帝， 你好吗？
+
+speaker: Speaker_5
+datas: 1407020-1413005ms
+sentence: 回兰姬哥哥的话， 在下好在下永世不忘， 蓝琪格格的恩情，
+
+speaker: Speaker_8
+datas: 1413910-1415755ms
+sentence: 你的官越当越大了。
+
+speaker: Speaker_5
+datas: 1417020-1422255ms
+sentence: 宦海沉浮生死两难， 在下至今不懂为官之道，
+
+speaker: Speaker_8
+datas: 1424100-1431805ms
+sentence: 你知道吗？ 华妈答应过， 爸， 我嫁给你， 因为我属兔， 你也属兔。
+
+speaker: Speaker_5
+datas: 1435220-1442805ms
+sentence: 蓝琪哥哥是天宫玉， 图在下是山林野兔在下配不上来琪哥格，
+
+speaker: Speaker_8
+datas: 1444210-1458755ms
+sentence: 你当然配不上我。 因为我父皇要把我嫁给仇人戈尔丹， 然后再杀了我的丈夫和我的儿子。
+
+speaker: Speaker_6
+datas: 1460070-1464395ms
+sentence: 曼琪儿， 你皇阿玛是爱你的呀，
+
+speaker: Speaker_8
+datas: 1464950-1472195ms
+sentence: 额娘， 你忘了在准前他要用半箭射死我， 你难道忘了吗？
+
+speaker: Speaker_8
+datas: 1474790-1477815ms
+sentence: 去的我男人呢，
+
+speaker: Speaker_1
+datas: 1479910-1494365ms
+sentence: 戈尔丹已经败退， 我去蓝雀安琪儿，
+
+speaker: Speaker_6
+datas: 1495320-1497465ms
+sentence: 你跟额娘一起回京城吧。
+
+speaker: Speaker_8
+datas: 1499040-1510875ms
+sentence: 额娘蓝琪儿的家在乌兰木通， 现在我的丈夫和儿子生死不明， 蓝静儿要去找他，
+
+speaker: Speaker_6
+datas: 1513810-1526115ms
+sentence: 你这一走额娘又不知什么时候才能见到你呀。 啊， 蓝倩不合点啊，
+
+speaker: Speaker_5
+datas: 1526850-1533750ms
+sentence: 蓝溪哥哥， 你看这满地的尸首， 这仇恨越治越深， 皇上发誓要灭掉戈尔丹， 你还是赶快离开他吧。
+
+speaker: Speaker_6
+datas: 1534230-1540985ms
+sentence: 蓝琪儿遵从皇上的恩旨吧， 跟额娘一起回去。
+
+speaker: Speaker_6
+datas: 1543500-1550085ms
+sentence: 你可知道你的花蛤蟆想你想的好苦啊。
+
+speaker: Speaker_8
+datas: 1551040-1577555ms
+sentence: 当年不就是一道恩旨把我送走的吗？ 如今又想以一道恩旨把我召回来， 休想皇阿玛管天管地管不了蓝妾儿的心告诉康熙， 我爱戈尔丹戈尔答应爱我哦。 烂琪儿生生死死， 是戈尔丹的女人， 是阿弥达的额娘。
+
+speaker: Speaker_8
+datas: 1580400-1589065ms
+sentence: 你告诉他暗气儿， 不需要恩质六要回家，
+
+speaker: Speaker_1
+datas: 1589770-1593080ms
+sentence: 我家人蓝姐，
+
+speaker: Speaker_3
+datas: 1594190-1600080ms
+sentence: 蓝七儿蓝琪儿额娘，
+
+speaker: Speaker_6
+datas: 1600180-1603315ms
+sentence: 知道额娘留不住你啊，
+
+speaker: Speaker_1
+datas: 1604650-1607670ms
+sentence: 快见啊。
+
+speaker: Speaker_8
+datas: 1607670-1616960ms
+sentence: 青儿禀皇上，
+
+speaker: Speaker_4
+datas: 1617020-1619595ms
+sentence: 格尔丹损伤惨重， 正在向乌兰木通败退。
+
+speaker: Speaker_2
+datas: 1620920-1622780ms
+sentence: 印氏呢大阿哥率两千，
+
+speaker: Speaker_4
+datas: 1622780-1627340ms
+sentence: 舰兵乘胜追击， 末将令他追至嘎子河为止， 不可过河追杀，
+
+speaker: Speaker_2
+datas: 1627600-1637530ms
+sentence: 天黑了速派兵接应这禀皇上。
+
+speaker: Speaker_3
+datas: 1638130-1643630ms
+sentence: 赫尔汉将军急报俄罗斯两万精兵已进入蒙古北境， 恐怕要驰援戈尔。
+
+speaker: Speaker_2
+datas: 1643630-1648585ms
+sentence: 代呢哼老毛子果然搅进来了， 还有什么事儿？
+
+speaker: Speaker_5
+datas: 1650140-1657485ms
+sentence: 禀皇上还有一件喜事， 患寒热病的将士们服用洋药金鸡大霜大部分已经痊愈了。
+
+speaker: Speaker_2
+datas: 1658540-1666385ms
+sentence: 好啊好， 哎， 将这两个洋人带回北京去好生照料， 朕要重用他们。
+
+speaker: Speaker_3
+datas: 1667060-1685100ms
+sentence: 皇上病重时曾下旨班师臣以为皇上龙体虽健吉祥， 但仍需回京细细调理。 再者， 戈尔丹已受重创， 一时难以为患。 大军可否趁此机会班师回京李光帝？
+
+speaker: Speaker_2
+datas: 1685280-1685925ms
+sentence: 你的意思？
+
+speaker: Speaker_5
+datas: 1686890-1699500ms
+sentence: 臣赞同明相所言， 臣还以为朝廷应尽快制止俄罗斯介入蒙古， 斩断他们与戈尔丹的联盟， 否则日后再平戈尔丹时， 俄罗斯还会出来找麻烦，
+
+speaker: Speaker_2
+datas: 1699840-1718935ms
+sentence: 朕也想早日返回京城啊。 现在朕担心的不是戈尔丹， 而是京城， 是朝廷。 朕生病的这些日子里， 有人竟以为朕是龙域归天了。
+
+speaker: Speaker_3
+datas: 1719930-1726625ms
+sentence: 哼皇上所虑， 即事却当早早返京传旨，
+
+speaker: Speaker_2
+datas: 1729290-1734540ms
+sentence: 各营收拢兵马。 待印士回营后进行班师，
+
+speaker: Speaker_6
+datas: 1734760-1759960ms
+sentence: 撤皇上臣妾有罪蓝琪儿。
+
+speaker: Speaker_2
+datas: 1759960-1760565ms
+sentence: 好吧，
+
+speaker: Speaker_1
+datas: 1761750-1762305ms
+sentence: 好，
+
+speaker: Speaker_2
+datas: 1765320-1767995ms
+sentence: 他是不是恨死朕了，
+
+speaker: Speaker_6
+datas: 1769510-1775530ms
+sentence: 以臣妾看他对他的父皇是又爱又恨。
+
+speaker: Speaker_2
+datas: 1776070-1779055ms
+sentence: 那你为何不劝他回来劝了，
+
+speaker: Speaker_6
+datas: 1782620-1795100ms
+sentence: 但是他说她丈夫在哪边， 儿子在那边他要回家放肆。
+
+speaker: Speaker_2
+datas: 1795840-1798980ms
+sentence: 他的父皇和额娘都在这儿， 这是他的家。
+
+speaker: Speaker_6
+datas: 1799500-1810905ms
+sentence: 可是当年也是他父皇和额娘把他送给哥尔丹的呀龙飞啊，
+
+speaker: Speaker_2
+datas: 1811760-1821475ms
+sentence: 今日之事， 如果不是应氏抢在弓箭手之前发起总攻的话， 你们母女二人早就死在乱箭之下了， 知道吗？
+
+speaker: Speaker_6
+datas: 1824330-1827225ms
+sentence: 臣妾知道你们死了，
+
+speaker: Speaker_2
+datas: 1829040-1854895ms
+sentence: 朕会难过， 会上心很久。 但是， 镇绝对不会因为骨肉之心而放弃天下， 大义坏了君王之道， 任何人都不能阻挡。 朕剿灭戈尔丹， 臣妾知道荣妃你听旨，
+
+speaker: Speaker_2
+datas: 1857470-1863215ms
+sentence: 今天你私自会见蓝琪哥哥有失皇贵妃的身份，
+
+speaker: Speaker_2
+datas: 1865240-1872590ms
+sentence: 临阵违法， 扰乱军心， 朕不可不办，
+
+speaker: Speaker_2
+datas: 1875970-1881425ms
+sentence: 从即日起降为妃，
+
+speaker: Speaker_2
+datas: 1885170-1888165ms
+sentence: 随朕施家听明白了没有？
+
+speaker: Speaker_6
+datas: 1893280-1911105ms
+sentence: 谢皇上韩飞回来没有，
+
+speaker: Speaker_3
+datas: 1911710-1943725ms
+sentence: 大海还没有回来。 哎呀， 是不是派人去找不用了， 他一定是被康熙扣住了， 这怎么成还是派人去找吧， 闭嘴个子， 你快杀了我， 你快杀了我。 律师， 我告诉你， 我现在杀了， 你比砍个瓜都容易。 但是我知道你们有条规矩， 只准战死， 绝不准被俘， 更何况你黄阿哥呢？ 哼，
+
+speaker: Speaker_3
+datas: 1947350-1975350ms
+sentence: 我现在还不想杀死你， 你设下陷阱， 引我中计， 你快杀了我吧。 别着急， 五年前， 你千里送亲， 把你妹妹蓝倩儿送到我的怀里这份情。 我还记着呢， 等到明天我还要用你来换回我的蓝钱儿， 你休想蓝谦儿不会再回来。 那好， 我就砍下你的头， 送给康熙禀皇上，
+
+speaker: Speaker_4
+datas: 1975850-1978585ms
+sentence: 大阿哥率兵追杀戈尔丹， 至今没有归隐。
+
+speaker: Speaker_3
+datas: 1980580-1983240ms
+sentence: 你怎么搞的？ 我不是让你截制他吗？
+
+speaker: Speaker_4
+datas: 1983820-1996280ms
+sentence: 戈尔丹败退时， 大阿哥已经杀红了眼， 执意要追杀末将曾令， 他追至嘎子河为止， 万不可过河。 现在看来， 大阿哥只怕是越过了嘎子河，
+
+speaker: Speaker_2
+datas: 1996680-1998200ms
+sentence: 你为什么不接应他？
+
+speaker: Speaker_4
+datas: 1998620-2027085ms
+sentence: 末将亲率兵马， 前去接应， 沿嘎子河上下几十里内都搜索遍了， 有何发现？ 嘎子河边有一片尸守， 似乎发生过激战。 墨家在河里找到了大阿哥的头盔火热， 大阿哥怕是阵亡了。
+
+speaker: Speaker_3
+datas: 2032510-2040020ms
+sentence: 福泉我权黄院长朕知道一时求生心切，
+
+speaker: Speaker_2
+datas: 2040600-2042380ms
+sentence: 朕让他当你的副将，
+
+speaker: Speaker_3
+datas: 2042780-2047395ms
+sentence: 就是因为你稳重， 你能驾驭住他， 可是你呀。
+
+speaker: Speaker_4
+datas: 2048260-2053540ms
+sentence: 梦想是指我将是之皇上大哥英勇善战，
+
+speaker: Speaker_3
+datas: 2053600-2055625ms
+sentence: 定能安然归来呀。 归什么？
+
+speaker: Speaker_2
+datas: 2057680-2058640ms
+sentence: 朕担心的是，
+
+speaker: Speaker_3
+datas: 2058920-2069220ms
+sentence: 他的尸首如果落在戈尔丹的手里， 戈尔丹反过来会要挟朕皇上。 眼下之策， 唯有多派兵马四处搜索， 寻找大阿哥墨家，
+
+speaker: Speaker_4
+datas: 2069220-2070100ms
+sentence: 再率军搜寻。
+
+speaker: Speaker_3
+datas: 2070200-2073305ms
+sentence: 快去生要见人死， 要见尸。
+
+speaker: Speaker_3
+datas: 2075410-2083170ms
+sentence: 皇上臣也愿亲自去啊去吧，
+
+speaker: Speaker_2
+datas: 2084500-2085295ms
+sentence: 都去吧。
+
+speaker: Speaker_2
+datas: 2089560-2103425ms
+sentence: 无论找得到人找不到人， 你们天亮之前必须必须回到大营来， 朕不愿意再出什么事儿了，
+
+speaker: Speaker_3
+datas: 2104170-2115980ms
+sentence: 惹啊呃啊，
+
+speaker: Speaker_1
+datas: 2117610-2117965ms
+sentence: 可以了。
+
+speaker: Speaker_8
+datas: 2120280-2120835ms
+sentence: 鹿晗，
+
+speaker: Speaker_8
+datas: 2123000-2124635ms
+sentence: 我额娘回来了，
+
+speaker: Speaker_3
+datas: 2125650-2131895ms
+sentence: 什么不可能， 你是在做梦就在门外。
+
+speaker: Speaker_1
+datas: 2138170-2138455ms
+sentence: 嗯，
+
+speaker: Speaker_8
+datas: 2150510-2180345ms
+sentence: 阿弥达额娘像不像额娘， 想狠软件儿，
+
+speaker: Speaker_3
+datas: 2183670-2184200ms
+sentence: 对不？
+
+speaker: Speaker_3
+datas: 2197090-2203575ms
+sentence: 我们一直在等你我， 还以为你背叛了我们再也不回来了。
+
+speaker: Speaker_8
+datas: 2205740-2210490ms
+sentence: 嗨， 我是你的女人， 是阿弥达的额娘呢，
+
+speaker: Speaker_3
+datas: 2210790-2213795ms
+sentence: 是吗？ 永远都是吗？
+
+speaker: Speaker_8
+datas: 2215700-2220575ms
+sentence: 是永远都是是吧？
+
+speaker: Speaker_3
+datas: 2221860-2234345ms
+sentence: 蓝气儿蓝气儿来来来来， 我们俩喝一杯来， 咱们来喝一杯。 来来来喝杯酒哥，
+
+speaker: Speaker_3
+datas: 2237880-2251515ms
+sentence: 哈哈哈哈哈哈哈哈哈哈哈， 康熙康熙， 你听到了吗？ 你听到了吗？ 康熙， 你这个老东西养了一个好女儿，
+
+speaker: Speaker_1
+datas: 2252440-2254760ms
+sentence: 哈哈哈哈啊，
+
+speaker: Speaker_8
+datas: 2255800-2268195ms
+sentence: 退兵吧， 不要再互相残杀了。 大海， 我在回来的路上看见到处都是死人我都不想活了。
+
+speaker: Speaker_1
+datas: 2270660-2271095ms
+sentence: 好，
+
+speaker: Speaker_3
+datas: 2272060-2279355ms
+sentence: 我答应你返回乌兰木通休者谢大汗。
+
+speaker: Speaker_3
+datas: 2281380-2289640ms
+sentence: 可是过不了多久， 我和康熙之间会有一场更大的决战出来。
+
+speaker: Speaker_1
+datas: 2290270-2290585ms
+sentence: 嗯，
+
+speaker: Speaker_1
+datas: 2296100-2301890ms
+sentence: 大哥 go 哦，
+
+speaker: Speaker_1
+datas: 2308800-2309285ms
+sentence: 没错，
+
+speaker: Speaker_1
+datas: 2312000-2314495ms
+sentence: 赵二哥大二哥。
+
+speaker: Speaker_1
+datas: 2317630-2350245ms
+sentence: 哎， 大阿哥大哥，
+
+speaker: Speaker_3
+datas: 2353790-2357770ms
+sentence: 蓝旗儿八个，
+
+speaker: Speaker_8
+datas: 2358960-2359880ms
+sentence: 你伤得住吗？
+
+speaker: Speaker_4
+datas: 2360300-2360845ms
+sentence: 冷姐，
+
+speaker: Speaker_3
+datas: 2362430-2381375ms
+sentence: 霸主刀杀了我皇子绝不能被俘啊， 求你了， 快快点拔出刀来， 你快点快点啊。
+
+speaker: Speaker_8
+datas: 2384350-2394470ms
+sentence:  duck 实话告诉我， 今天在挣钱， 想要乱箭射煞皇， 是不是皇阿玛的真心？
+
+speaker: Speaker_3
+datas: 2394890-2399220ms
+sentence: 皇阿玛爱你， 但爹格尔丹， 他恨之入骨，
+
+speaker: Speaker_8
+datas: 2399740-2407015ms
+sentence: 那一抢在万剑七宝剑筹码开战， 是不是为了想救我一命，
+
+speaker: Speaker_3
+datas: 2409080-2414545ms
+sentence: 请你帮阿哥一个忙拔出刀来杀了我快杀了我。 嗯，
+
+speaker: Speaker_3
+datas: 2431640-2437830ms
+sentence: 逼奶蓝气儿第大哥，
+
+speaker: Speaker_8
+datas: 2438170-2450290ms
+sentence: 快快跟我走大阿哥， 你快走吧， 替我求告皇阿玛， 退兵吧。 戈尔丹也要退兵， 求皇阿玛， 别打了蓝琪儿，
+
+speaker: Speaker_3
+datas: 2450290-2451270ms
+sentence: 你跟我一块走，
+
+speaker: Speaker_8
+datas: 2451830-2457770ms
+sentence: 不？ 我是戈尔丹的妻子， 阿米达的额娘， 我要回乌兰不通去， 你快走吧， 你快一块走，
+
+speaker: Speaker_1
+datas: 2458550-2468025ms
+sentence: 站住半球儿，
+
+speaker: Speaker_3
+datas: 2468930-2473145ms
+sentence: 你又要背叛我大汗。
+
+speaker: Speaker_8
+datas: 2473870-2482650ms
+sentence: 我说过我永远不会离开你， 但我求你帮我阿哥一条生路， 也算是给康熙一个和平的诚意。 我求你了，
+
+speaker: Speaker_3
+datas: 2483030-2493605ms
+sentence: 开丹， 我和你之间永远不会永和平， 你还是杀了我吧， 只是你今天放我走， 将来我还是要砍到你的头蓝球儿，
+
+speaker: Speaker_2
+datas: 2495560-2496400ms
+sentence: 你听到了吧？
+
+speaker: Speaker_3
+datas: 2496980-2498515ms
+sentence: 盖丹， 你住嘴，
+
+speaker: Speaker_8
+datas: 2500460-2512175ms
+sentence: 敢五年前是大哥把我送到准格尔代求， 你看在他千里送亲的份儿上， 大哥一条生路吧。
+
+speaker: Speaker_8
+datas: 2514780-2516825ms
+sentence: 富涵放了舅舅吧，
+
+speaker: Speaker_3
+datas: 2526170-2526785ms
+sentence: 你走吧，
+
+speaker: Speaker_8
+datas: 2527760-2532525ms
+sentence: 谢大海。 二哥， 你快走， 快走， 快走。
+
+speaker: Speaker_3
+datas: 2533740-2536665ms
+sentence: 仪式你回去告诉康熙，
+
+speaker: Speaker_3
+datas: 2539250-2543015ms
+sentence: 就说铁木真子孙是天下无敌的，
+
+speaker: Speaker_3
+datas: 2545250-2558725ms
+sentence: 今天的交战算他侥幸， 我戈尔丹早晚要打建北京城去的， 敢让你你快走走，
+
+speaker: Speaker_8
+datas: 2573910-2574975ms
+sentence: 谢谢你，
+
+speaker: Speaker_1
+datas: 2612820-2629700ms
+sentence: 不用不么你去好了。
+
+speaker: Speaker_3
+datas: 2630220-2632445ms
+sentence: 回去陛下， 你看啊，
+
+speaker: Speaker_3
+datas: 2643660-2653575ms
+sentence: 名相天衣吉祥啊， 宁下大哥，
+
+speaker: Speaker_3
+datas: 2657670-2668815ms
+sentence: 你等断后朕大哥怎么回事？ 我中了哥尔丹的埋伏， 那你被俘了， 如何脱险的蓝尖儿放了我，
+
+speaker: Speaker_1
+datas: 2674040-2684770ms
+sentence: 你是你有一定道几月已经奋过啊，
+
+speaker: Speaker_0
+datas: 2684770-2740905ms
+sentence: 乾坤留在我心中就已经注定。 我不曾经你心有一份生命， 世界一定风雨一飘落啊， 江山扛在我肩头， 就已经决定我难而奔着我再辛苦也你说放下自己， 把忧伤抚摸爱人。 五号献中， 一人与情长恨都藏在心窝，
+
+speaker: Speaker_0
+datas: 2743030-2767085ms
+sentence: 嫌他一路坎坷不好， 有再辛苦也无说。 躺下子忧伤， 抚摸心中依然执着。 与情常用都藏在心窝，
+
+speaker: Speaker_3
+datas: 2769180-2770935ms
+sentence: 见他一路看，
+
+speaker: Speaker_1
+datas: 2773660-2773900ms
+sentence: 嗯，
+
+speaker: Speaker_8
+datas: 2789470-2796295ms
+sentence: 皇上啊不是为了葛尔丹宝， 容梅就不能爱皇上吗？
+
+speaker: Speaker_3
+datas: 2797300-2802885ms
+sentence: 各位青年大臣入职尚书房， 把明珠也给架空了。 皇上，
+
+speaker: Speaker_6
+datas: 2805440-2810250ms
+sentence: 我去老祖宗， 吩咐过了寒热症， 即使痊愈也得细细调。
+
+--------------------------------------------------------------------------------

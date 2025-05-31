@@ -75,16 +75,9 @@ personal-cognitive-ai/
 - 认知模型的完善
 - 文档的补充和完善
 
-## 许可证 (License)
-
-MIT License
 
 ## 联系方式 (Contact)
 
-- 项目负责人：[Name]
-- 邮箱：[Email]
-- 项目主页：[Project URL]
+- 邮箱：[liu17861825763@126.com]
 
 ---
-
-💫 创造真实的AI个性，而不是完美的服务者 

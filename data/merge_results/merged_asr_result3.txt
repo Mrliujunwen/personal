@@ -1,0 +1,908 @@
+
+=== 文件: 03.4K.H265.AAC-YYDS ===
+
+speaker: Speaker_0
+datas: 14930-36110ms
+sentence: 这江山起起伏福去， 现在的风， 我爱的终原爱一点啊， 江南有时间风情歌，
+
+speaker: Speaker_0
+datas: 38810-62175ms
+sentence: 不知如此的我， 今昨日何惧艰险豪情不不一定做人有苦伤， 恶魂在两边都会梦中的心疼，
+
+speaker: Speaker_0
+datas: 65630-92985ms
+sentence: 种种不伤， 不争当空双间紧握住， 只有想转不着中五百年。
+
+speaker: Speaker_0
+datas: 105220-105460ms
+sentence: 嗯，
+
+speaker: Speaker_0
+datas: 111100-183615ms
+sentence: 做人何惧艰神豪情， 不不一定。 做人有苦有甜， 善恶开两边为梦中的， 明天冲紧握住路， 想转不在我五百年在五百年福林爱心绝龙，
+
+speaker: Speaker_1
+datas: 185660-189645ms
+sentence: 你出来子， 你有话要说，
+
+speaker: Speaker_2
+datas: 190660-191575ms
+sentence: 你不出宫，
+
+speaker: Speaker_1
+datas: 192240-194140ms
+sentence: 说你处死方休，
+
+speaker: Speaker_3
+datas: 194660-200285ms
+sentence: 你狐狸和米福利啦，
+
+speaker: Speaker_1
+datas: 201170-247575ms
+sentence: 你听见了吧？ 你是爱新觉罗的子孙呐， 大清开国之君呐， 你身系天下安危， 岂能让那和尚妖言惑众啊？ 夫人呐， 你你你流水登基呀， 少年勤政刀皮， 欲作千里秦征， 剿灭千名叛军光照列祖列宗啊。 如今你龙心虎威何在？ 英雄豪气何在呀？
+
+speaker: Speaker_6
+datas: 249530-316935ms
+sentence: 皇上皇上佛法不在口舌上， 不在言语中， 佛祖在您心头坐呀。 皇上皇上有心向佛， 万物皆佛， 一朝失足万劫不复啊。 皇上所你所言都是尘世， 功名都是水中月镜中花。 皇上他口口声声什么龙心虎威， 岂实他想把你一辈子绑在龙座上。 皇上他口口声声什么英雄豪气， 其实想通过您得到他们自己的功名利禄。 皇上苦海无边回头是岸呐。 皇上千古春秋， 不过是一粒朝露， 日出即逝， 万载帝夜， 终归于土更何如。 浮光一闪呢， 皇上， 你要是再往前走一步， 就又是一个穿着龙袍的囚徒啊。 嗯你在这重重进攻中足足关了二十四年呐， 还没关够吗？ 皇上啊，
+
+speaker: Speaker_6
+datas: 320110-332765ms
+sentence: 皇上福林哪皇上皇下，
+
+speaker: Speaker_1
+datas: 336400-343510ms
+sentence: 皇上呃， 你可出来了， 老臣想死你了。
+
+speaker: Speaker_8
+datas: 345930-347775ms
+sentence: 阿弥陀佛，
+
+speaker: Speaker_9
+datas: 350850-363765ms
+sentence: 各位的心意， 朕都明白了， 明臣日出之前， 朕一定会给你们一个了断的。 现在都请回去吧，
+
+speaker: Speaker_5
+datas: 368250-388020ms
+sentence: 皇上皇上叩请太后，
+
+speaker: Speaker_4
+datas: 388080-391740ms
+sentence: 圣安快起来，
+
+speaker: Speaker_10
+datas: 391820-414515ms
+sentence: 快起来。 这儿也不是朝廷起来说话， 看错谢太后这么晚了， 几位是不是要和我说皇上的事儿啊？
+
+speaker: Speaker_5
+datas: 416330-423945ms
+sentence: 太后明鉴， 臣等要求太后速速拯救大清帝业， 解除皇上心魔。
+
+speaker: Speaker_10
+datas: 426360-434135ms
+sentence: 你们下去吧， 是索尼啊， 你是不是说皇上还是寻死觅活的？
+
+speaker: Speaker_4
+datas: 434820-437020ms
+sentence: 呃， 真的不不敢敢这样，
+
+speaker: Speaker_5
+datas: 437120-451610ms
+sentence: 为什么不敢这样说， 太后啊依老臣看来比寻死逆活更可怕。 老臣猜想， 皇上要遁入空门， 当和尚去送你，
+
+speaker: Speaker_10
+datas: 453060-453845ms
+sentence: 你说什么？
+
+speaker: Speaker_5
+datas: 454650-471335ms
+sentence: 太后知道的皇上自幼笃信佛学， 羡慕青灯皇卷秦政之后， 也时常找曾师参禅论道。 自从鄂贵妃仙世皇上心神迷乱， 独锁深宫，
+
+speaker: Speaker_5
+datas: 473450-492085ms
+sentence: 皇上的日不理政， 夜不能寐， 而且拒见任何臣功打小道行僧趁虚而入， 为皇上讲禅说法名为超度， 亡陵， 实际上是劝渡皇上弃天下而入空门呐。
+
+speaker: Speaker_4
+datas: 492980-505985ms
+sentence: 太后行僧劝渡皇上已达八年之久， 在大病期间更是变本加厉， 索中堂之言， 绝非易断臣等万分焦虑啊。
+
+speaker: Speaker_10
+datas: 508850-514010ms
+sentence: 果不其然， 哪太后啊，
+
+speaker: Speaker_5
+datas: 514950-524625ms
+sentence: 皇上少有佛性， 尽遭大悲大痛， 又在行僧妖言鼓噪下， 一旦万念俱空，
+
+speaker: Speaker_1
+datas: 525430-534325ms
+sentence: 蓝宝不撒手而去， 酿成巨变呐。 这可是可是咱们的大清的基业呀。
+
+speaker: Speaker_10
+datas: 536880-546935ms
+sentence: 这可是咱们大清国亘古未有的嗯齐闻的真是嗯，
+
+speaker: Speaker_10
+datas: 553100-559065ms
+sentence: 难道还嫌去落世？ 大难临头了？
+
+speaker: Speaker_10
+datas: 563390-565045ms
+sentence: 详情还有谁知道？
+
+speaker: Speaker_2
+datas: 565760-568340ms
+sentence: 这只有臣等议论过，
+
+speaker: Speaker_6
+datas: 568800-570140ms
+sentence: 不敢声张啊。
+
+speaker: Speaker_10
+datas: 570600-572860ms
+sentence: 那么还有多少时辰？
+
+speaker: Speaker_2
+datas: 573440-574475ms
+sentence: 皇上说过，
+
+speaker: Speaker_5
+datas: 575250-581450ms
+sentence: 明晨日出之前给臣一个了断， 因而臣等料想， 无论是福是祸，
+
+speaker: Speaker_2
+datas: 581910-584055ms
+sentence: 都居于今夜呀。
+
+speaker: Speaker_10
+datas: 600290-607245ms
+sentence: 福林的性子怎么越来越如此的怪异？
+
+speaker: Speaker_10
+datas: 609350-616605ms
+sentence: 难道这又是天意不成啊？
+
+speaker: Speaker_10
+datas: 619630-619895ms
+sentence: 嗯，
+
+speaker: Speaker_10
+datas: 629960-641095ms
+sentence: 既然你们议论的如此透彻， 明说吧， 想要我做出什么样的决断？
+
+speaker: Speaker_5
+datas: 643530-649530ms
+sentence: 求太后以母后之尊， 教会皇上回心改意呀。
+
+speaker: Speaker_10
+datas: 649630-650485ms
+sentence: 其二呢，
+
+speaker: Speaker_5
+datas: 651580-658205ms
+sentence: 皇上如不醒悟， 求太后动用大清律条， 则皇上守之。
+
+speaker: Speaker_10
+datas: 659480-660485ms
+sentence: 其三呢，
+
+speaker: Speaker_5
+datas: 661950-678500ms
+sentence: 皇上还执迷不悟， 求太后启用祖宗家法， 将皇上拘禁锁入深宫， 绝不能让皇上坠入空门， 造成千古恨。 事啊说的对，
+
+speaker: Speaker_10
+datas: 678900-709155ms
+sentence: 说的好， 可是我能管住他的身子， 我能管住他的心吗？ 就算我拘他十天半个月的， 还能拘禁他一辈子吗？ 解铃还需系铃人呢， 皇上的心魔是那个行僧教唆的， 最好的办法是先治住那个行僧， 让他自个儿忏悔， 再劝说皇上回心转意。
+
+speaker: Speaker_5
+datas: 711120-720560ms
+sentence: 太后臣担心那妖僧以世外高人自居， 绝不会误导自己的过错。 他是不肯奉旨啊，
+
+speaker: Speaker_4
+datas: 721340-724045ms
+sentence: 就是杀了他也没用， 反而助他成名。
+
+speaker: Speaker_10
+datas: 727100-730515ms
+sentence: 我不杀人， 我杀他的心，
+
+speaker: Speaker_10
+datas: 734130-736075ms
+sentence: 那个行僧的师傅是何人呢？
+
+speaker: Speaker_3
+datas: 737350-752765ms
+sentence: 行僧属于佛教， 北宗是行字辈， 僧徒北宗， 方丈是大宗师御林秀比行僧高出两个辈分御林秀此人在何处， 听说正在通州讲道，
+
+speaker: Speaker_10
+datas: 754700-762140ms
+sentence: 索尼， 你拿上我的折子去请他， 我要在丑尸前务必见到他。
+
+speaker: Speaker_5
+datas: 762840-768020ms
+sentence: 领懿旨臣若请不动他绑， 也要把他绑来。
+
+speaker: Speaker_10
+datas: 768560-775545ms
+sentence: 我要让御林秀收服行僧救治皇上， 确保安宁。
+
+speaker: Speaker_4
+datas: 776430-783090ms
+sentence: 太后圣明鳌拜臣在鄂碧龙臣，
+
+speaker: Speaker_10
+datas: 783190-795745ms
+sentence: 在苏克沙哈臣在你们要听好， 不管出了什么事， 有什么危机， 朝廷不可乱天下， 不可乱。
+
+speaker: Speaker_0
+datas: 796720-799210ms
+sentence: 你们三个悄悄的封锁，
+
+speaker: Speaker_10
+datas: 799250-814195ms
+sentence: 宫禁， 加强九门守卫， 没有你们三个的怜悯手臂， 京城周遭三百里内禁止调动一兵一卒为者谋反处置。
+
+speaker: Speaker_10
+datas: 821000-829895ms
+sentence: 还有要外松内紧隐而不发，
+
+speaker: Speaker_10
+datas: 832310-847010ms
+sentence: 叫各部院的衙门们照常办公， 让老百姓们照常过日子， 一切都给我依然如旧， 保持太太平平的模样。
+
+speaker: Speaker_4
+datas: 847810-853885ms
+sentence: 太后圣明辛苦你们了。
+
+speaker: Speaker_10
+datas: 855170-859830ms
+sentence: 日后孝庄会重谢， 你们都起来吧，
+
+speaker: Speaker_4
+datas: 860570-870895ms
+sentence: 这卖我还有句话，
+
+speaker: Speaker_10
+datas: 872770-878100ms
+sentence: 行， 把他记住了， 再把他浸到骨子里去，
+
+speaker: Speaker_4
+datas: 878780-884345ms
+sentence: 这这要听清楚， 渗到五子里去，
+
+speaker: Speaker_10
+datas: 885420-889895ms
+sentence: 皇位总有更替， 大清永世长存，
+
+speaker: Speaker_10
+datas: 903390-904575ms
+sentence: 你都听见了。
+
+speaker: Speaker_11
+datas: 909530-911950ms
+sentence: 祖母皇阿玛得了恶疾，
+
+speaker: Speaker_2
+datas: 911950-912825ms
+sentence: 天花吗？
+
+speaker: Speaker_10
+datas: 914690-918435ms
+sentence: 比天花儿还厉害的不治之症。
+
+speaker: Speaker_11
+datas: 927200-929925ms
+sentence: 祖母啊， 那您赶快给他用药啊，
+
+speaker: Speaker_10
+datas: 935680-941325ms
+sentence: 是嗯在万不得已的时候，
+
+speaker: Speaker_10
+datas: 943980-945585ms
+sentence: 我只好给他用药。
+
+speaker: Speaker_10
+datas: 954450-954800ms
+sentence: 嗯嗯， 好，
+
+speaker: Speaker_13
+datas: 1010470-1010935ms
+sentence: 来来来，
+
+speaker: Speaker_13
+datas: 1019880-1036625ms
+sentence: 额娘母后要不了多少年，
+
+speaker: Speaker_10
+datas: 1037920-1059455ms
+sentence: 我的像就要挂上去了， 你的像早晚也会挂上去。 在这个店， 每座玉像灵牌都是爱新觉罗的血脉， 生死相依、 荣辱与宫。
+
+speaker: Speaker_10
+datas: 1062590-1063215ms
+sentence: 我问你，
+
+speaker: Speaker_10
+datas: 1065850-1070985ms
+sentence: 你为何执意如此， 我再问你，
+
+speaker: Speaker_10
+datas: 1074510-1078725ms
+sentence: 你要我将来怎么向后人交代？
+
+speaker: Speaker_10
+datas: 1081410-1082665ms
+sentence: 我还要问你，
+
+speaker: Speaker_10
+datas: 1084800-1090555ms
+sentence: 你真的想把这祖业就这样毁于一旦吗？
+
+speaker: Speaker_14
+datas: 1091300-1096705ms
+sentence: 母后儿臣儿臣就是来向祖督请罪的，
+
+speaker: Speaker_10
+datas: 1097800-1100790ms
+sentence: 你还有罪儿，
+
+speaker: Speaker_14
+datas: 1100790-1111495ms
+sentence: 臣不会做一个皇上儿， 臣想禅让帝位， 皈依佛门， 将来也不进奉贤殿了，
+
+speaker: Speaker_10
+datas: 1112140-1116925ms
+sentence: 荒唐不就是一个恶妃吗？
+
+speaker: Speaker_10
+datas: 1119690-1145270ms
+sentence: 他这一死， 你既然万念俱灰， 连皇位都不要了， 天下的女人多的是， 难道就是她花容月貌吗？ 难道他比大清的江山社稷还要重要？ 是吗？ 你回答我幕后，
+
+speaker: Speaker_14
+datas: 1146370-1165550ms
+sentence: 你是我的事， 女子如草安， 天下， 可是恶位， 只有一个母后， 这满朝文武宫于太监， 他们都把儿臣当做天子， 他们敬我怕我利用我儿臣， 表面上是万圣之尊，
+
+speaker: Speaker_2
+datas: 1166030-1166810ms
+sentence: 可实际上，
+
+speaker: Speaker_14
+datas: 1168040-1172575ms
+sentence: 实际上我却是个孤家寡人， 苦不堪言，
+
+speaker: Speaker_14
+datas: 1174780-1200825ms
+sentence: 只有恶妃。 他从不把我当皇帝， 他把我当做他的弟弟， 我们俩在一起， 什么话都一起说什么苦都一起咽。 这漫漫长夜， 我俩时常哭在一块儿， 也时常笑出一团。 这天底下还有比这更亲的人吗？
+
+speaker: Speaker_13
+datas: 1202800-1203295ms
+sentence: 母后，
+
+speaker: Speaker_14
+datas: 1204280-1208695ms
+sentence: 你不要怪厄妃， 他是富临天下最亲的人，
+
+speaker: Speaker_10
+datas: 1209780-1215175ms
+sentence: 那童妃不是你的亲人吗？ 阿哥们不是你的亲人吗？
+
+speaker: Speaker_10
+datas: 1217190-1225765ms
+sentence: 那我不是你的亲人吗？ 你个忘恩负义的东西。
+
+speaker: Speaker_14
+datas: 1227770-1255200ms
+sentence: 母后， 你可以骂我， 可我还是要说那童妃， 她只想当皇后。 至于阿哥们， 他们哪一个不是跟儿神一样的苦命， 哪个不是一生下来就叫奶娘太监。 抱走了儿臣刚刚睁开眼来到这个世界上， 就只知道奶娘， 不知道亲娘幕后，
+
+speaker: Speaker_14
+datas: 1257340-1258735ms
+sentence: 你从来没抱过儿。 一天，
+
+speaker: Speaker_14
+datas: 1260800-1286715ms
+sentence: 二爷从来没吃过娘的一口奶儿臣六岁登基， 天下风烟骤起， 宫中杀鸡伺伏母后。 你为了保全咱俩的身家性命， 不得不跟随权臣杜尔。 衮儿臣不再提这些了，
+
+speaker: Speaker_14
+datas: 1289900-1318795ms
+sentence: 可那是什么日子？ 咱们母子俩被全臣逼迫活得像牢犯一样， 一年里甚至见不着两次面目儿。 臣亲政以后做的第一件惊天动地的事， 就是把多尔艮从坟墓里扒出来， 将他鞭尸泄恨错骨扬灰。 可然后呢， 而臣还是要把他高高的供入奉仙殿。
+
+speaker: Speaker_10
+datas: 1320520-1325505ms
+sentence: 可是你要明白， 他毕竟做过你的皇父，
+
+speaker: Speaker_10
+datas: 1327720-1336555ms
+sentence: 无论如何， 这是一个事实。 没有他， 你当不了皇位呀，
+
+speaker: Speaker_8
+datas: 1337350-1345405ms
+sentence: 皇位皇位嗯， 母后，
+
+speaker: Speaker_14
+datas: 1346150-1349725ms
+sentence: 你不觉得这神圣的大殿里暗藏着荒唐吗？
+
+speaker: Speaker_10
+datas: 1350690-1353540ms
+sentence: 荒唐， 什么叫荒唐？
+
+speaker: Speaker_2
+datas: 1354140-1356840ms
+sentence: 如果他他是儿臣的皇父，
+
+speaker: Speaker_14
+datas: 1357420-1369135ms
+sentence: 那岂不等于说咱们母子两个既杀了所谓的皇父， 又杀了你所谓的亲夫吗？ 而且而且是杀了两次，
+
+speaker: Speaker_10
+datas: 1369980-1375525ms
+sentence: 可是这一切都是为了地位， 为了大清。
+
+speaker: Speaker_14
+datas: 1376490-1389855ms
+sentence: 儿臣知道咱们是不得已而为之， 但是就在多尔衮灵牌遗像入殿的那一天， 儿臣的心就彻底的死了。
+
+speaker: Speaker_14
+datas: 1392510-1409115ms
+sentence: 额娘这圣殿里暗藏着多少荒唐， 这地位上下聚集着多少冤孽， 这宫规国法如水火不容私情啊，
+
+speaker: Speaker_10
+datas: 1409900-1412660ms
+sentence: 皇上也得恪守天道儿。
+
+speaker: Speaker_14
+datas: 1412660-1414375ms
+sentence: 臣知道这些都是天道，
+
+speaker: Speaker_14
+datas: 1416800-1430295ms
+sentence: 顺之者畅， 励志者亡。 古今。 同理， 万事不宜儿， 臣本来准备好规规矩矩的做， 皇上一辈子就这么过下去。
+
+speaker: Speaker_14
+datas: 1432950-1455775ms
+sentence: 直到鄂妃入宫以后， 儿臣才突然又活过来了。 而臣又重新感觉自己是个活生生的人了， 可如今如今连他也弃我而去了。 母后啊， 芙丽不想做这个皇帝了， 我也做不了这个皇帝呀。
+
+speaker: Speaker_2
+datas: 1457450-1457890ms
+sentence: 好好，
+
+speaker: Speaker_8
+datas: 1471790-1476440ms
+sentence: 嗯嗯， 嗯主子，
+
+speaker: Speaker_12
+datas: 1476700-1477995ms
+sentence: 你怎么到这儿来了，
+
+speaker: Speaker_11
+datas: 1478730-1480190ms
+sentence: 你怎么到这儿来了？
+
+speaker: Speaker_12
+datas: 1480930-1483850ms
+sentence: 太后叫我守着， 不准放任何人进去。 嗯，
+
+speaker: Speaker_8
+datas: 1484710-1488260ms
+sentence: 哦我看看我看看就你说嘛，
+
+speaker: Speaker_2
+datas: 1488440-1490375ms
+sentence: 我看一看， 我看看，
+
+speaker: Speaker_8
+datas: 1491880-1499835ms
+sentence: 嗯嗯， 好好好是你走了，
+
+speaker: Speaker_10
+datas: 1500810-1501750ms
+sentence: 你输坦，
+
+speaker: Speaker_10
+datas: 1504180-1519105ms
+sentence: 你可以不把我放在心上。 可是这个国家呢、 朝廷呢、 祖业呢， 你把这些扔给我一个人， 你忍心吗？
+
+speaker: Speaker_10
+datas: 1523470-1527275ms
+sentence: 你自私你混沌，
+
+speaker: Speaker_10
+datas: 1530370-1539775ms
+sentence: 可你别忘了， 你是大清的烈火之君， 哪母后。
+
+speaker: Speaker_14
+datas: 1541290-1556070ms
+sentence: 而且这皇冠是你当初硬戴到额头上的儿臣， 出家以后还有六个阿哥， 你可以再找一个给他戴上皇冠。
+
+speaker: Speaker_8
+datas: 1556790-1563925ms
+sentence: 嗯， 我我嗯我懂了，
+
+speaker: Speaker_10
+datas: 1567500-1579105ms
+sentence: 看来这一切你都料理好了儿啊。
+
+speaker: Speaker_10
+datas: 1582210-1601745ms
+sentence: 额娘当着祖宗的面给你跪下了， 你再看额娘一眼吧， 额娘求你了别把我扔下， 别因为这个前功尽弃呀。
+
+speaker: Speaker_8
+datas: 1602990-1611915ms
+sentence: 嗯， 啊姑娘额娘儿臣已是心神寂命，
+
+speaker: Speaker_14
+datas: 1612820-1621445ms
+sentence: 只剩一副空皮囊。 今后即使活着也是行尸走肉，
+
+speaker: Speaker_13
+datas: 1623910-1626670ms
+sentence: 母后你要是不知而出，
+
+speaker: Speaker_14
+datas: 1626670-1638955ms
+sentence: 就你就杀了儿他用这一腔血活了二十四年的母子缘分啊。
+
+speaker: Speaker_8
+datas: 1644510-1644975ms
+sentence: 嗯嗯，
+
+speaker: Speaker_10
+datas: 1662820-1680235ms
+sentence: 福灵孝庄我这一辈子是那样的疼你宠， 明护了你。
+
+speaker: Speaker_10
+datas: 1682790-1689425ms
+sentence: 可是如今我是那样的恨你，
+
+speaker: Speaker_10
+datas: 1692940-1696655ms
+sentence: 后来不对，
+
+speaker: Speaker_10
+datas: 1705820-1715215ms
+sentence: 从今往后， 我不再是你的额娘， 你也不是我的情啊，
+
+speaker: Speaker_0
+datas: 1715790-1726370ms
+sentence: 我们自己难分大，
+
+speaker: Speaker_10
+datas: 1726370-1732275ms
+sentence: 后悔这西瓜也该上。
+
+speaker: Speaker_10
+datas: 1738570-1743035ms
+sentence: 我孝庄是你的亲娘，
+
+speaker: Speaker_10
+datas: 1745200-1751025ms
+sentence: 宁可你死也不怨你。 对不住祖宗，
+
+speaker: Speaker_10
+datas: 1753220-1785495ms
+sentence: 你喝了他吧， 明日额娘会昭告天下， 说顺治皇帝骤然恶极龙欲归天， 把你的相也挂在这个殿堂里， 让千秋万代的人把你作为开国之君， 供万世， 瞻仰遵旨。
+
+speaker: Speaker_2
+datas: 1801670-1807570ms
+sentence: 主子那是毒药。 呃， 什么毒药滑板，
+
+speaker: Speaker_15
+datas: 1815500-1826725ms
+sentence: 这个祖母让孙儿想你，
+
+speaker: Speaker_10
+datas: 1828330-1837205ms
+sentence: 你是不是不想叫你皇阿妈死？ 可是他还不如一死了之，
+
+speaker: Speaker_14
+datas: 1838250-1840935ms
+sentence: 玄烨， 你不该进来。
+
+speaker: Speaker_0
+datas: 1842410-1842875ms
+sentence: 嗯嗯，
+
+speaker: Speaker_5
+datas: 1843580-1862985ms
+sentence: 嗯喝掉了索尼不揣冒昧深夜拜访请大师见谅。
+
+speaker: Speaker_3
+datas: 1863880-1873090ms
+sentence: 刚才老僧还想今有贵客登门， 没想到却是朝廷栋梁所中堂， 不敢大师，
+
+speaker: Speaker_5
+datas: 1873230-1875130ms
+sentence: 还是称在下索尼吧。
+
+speaker: Speaker_3
+datas: 1875470-1883350ms
+sentence: 施主深夜到访， 想必有要事见叫内宫中突然生出一件疑难事，
+
+speaker: Speaker_5
+datas: 1883790-1907230ms
+sentence: 在下特来， 请大师前去排忧解难。 现在宫里每时每刻都如同水火， 翘首盼望大师驾临， 如若不去， 不论是官民百姓还是僧俗， 两界都将有乱呐。
+
+speaker: Speaker_3
+datas: 1907570-1926045ms
+sentence: 索尼你我是多年之遇， 凡是你交代的事， 我无不效力。 但是僧俗两界毕竟有别老朽何德何能敢贸然进攻借朝廷的难言之隐呢？ 大师啊，
+
+speaker: Speaker_5
+datas: 1926780-1931015ms
+sentence: 朝廷里已有佛门弟子霍乱恭维呀，
+
+speaker: Speaker_3
+datas: 1932110-1932690ms
+sentence: 是吗？
+
+speaker: Speaker_5
+datas: 1932790-1933530ms
+sentence: 是啊，
+
+speaker: Speaker_3
+datas: 1934010-1951075ms
+sentence: 我明白了， 既然此人已经为乱， 那他就不再是我佛门子弟中堂， 可以用王法惩治在下求大师了。 施主千万不要这样， 请起快， 请起大师啊，
+
+speaker: Speaker_5
+datas: 1952710-1963175ms
+sentence: 有位老人托在下奉上此信， 我迟迟不拿出来， 是不想让这位老人丧失尊严呐。 哦，
+
+speaker: Speaker_10
+datas: 1970510-1990575ms
+sentence: 大师啊， 我本该亲自来请你， 但我实在是走不开， 我这辈子没有求过什么人， 但这回不得不求您了。 波尔杰吉特莫尔代布尔吉吉特牧人，
+
+speaker: Speaker_5
+datas: 1991800-2035345ms
+sentence: 这岂不是这正是当朝太尊孝庄太后， 这是他的亲笔信大师啊。 孝庄太后为了请您竟然放弃太后之尊重新启用娘家时的姓名， 他这是为什么？ 他这是在大师面前将自己降为一介平民呐啊老僧就去大师祖母。
+
+speaker: Speaker_10
+datas: 2037300-2051980ms
+sentence: 哎呦， 你看我这孙儿啊， 也知道孝敬祖母了孙儿长大了啊， 好好到那儿去什么时辰了。
+
+speaker: Speaker_16
+datas: 2052340-2054900ms
+sentence: 子时刚过哦，
+
+speaker: Speaker_10
+datas: 2055100-2058250ms
+sentence: 事候我早了， 我还有事儿要办。
+
+speaker: Speaker_11
+datas: 2059190-2063010ms
+sentence: 祖母， 您歇着， 有什么事儿？ 孙儿给你办啊，
+
+speaker: Speaker_10
+datas: 2063730-2075280ms
+sentence: 我孙儿真有志气， 可是你还小啊， 有些事儿啊， 你还办不了皇上呢。
+
+speaker: Speaker_16
+datas: 2075720-2083645ms
+sentence: 嗨， 一直守在这儿， 哭得跟什么似的， 我呀怕他惹您生气， 我就叫他出去了。
+
+speaker: Speaker_10
+datas: 2084590-2085815ms
+sentence: 可曾说过什么呀？
+
+speaker: Speaker_16
+datas: 2088010-2105200ms
+sentence: 其实也没说什么， 只是祈祷您平安玄烨呀。
+
+speaker: Speaker_11
+datas: 2106020-2109590ms
+sentence: 孙儿在祖母问你，
+
+speaker: Speaker_10
+datas: 2110130-2112975ms
+sentence: 你在奉仙殿里都看见什么了？
+
+speaker: Speaker_2
+datas: 2114510-2117145ms
+sentence: 孙儿孙儿什么都没看见，
+
+speaker: Speaker_10
+datas: 2118250-2132445ms
+sentence: 说得对以后跟那些大臣们也都这么说， 不过皇祖母还想让你说一遍， 你在奉仙殿里都看见什么了？
+
+speaker: Speaker_11
+datas: 2134170-2139590ms
+sentence: 孙儿禀报祖母， 孙儿在奉贤殿里什么都看见了也什么都听到了。
+
+speaker: Speaker_10
+datas: 2140310-2147865ms
+sentence: 那你说是皇阿玛对呢， 还是皇祖母对呢？ 嗯，
+
+speaker: Speaker_16
+datas: 2150660-2155075ms
+sentence: 啊太后啊， 玄烨年纪还小， 你就别再逼他了，
+
+speaker: Speaker_10
+datas: 2156860-2158285ms
+sentence: 这怎么叫逼他呢？
+
+speaker: Speaker_10
+datas: 2160330-2184365ms
+sentence: 凤仙殿的事就像一把刀子扎在他的心里， 如果永远拔不出来会让他难受一辈子。 要是弄不清楚啊， 就永远是个谜， 就永远迈不过这个门槛儿啊。 皇祖母的问话， 你可以不回答，
+
+speaker: Speaker_15
+datas: 2186990-2195475ms
+sentence: 孙儿孙儿见花吗？ 但是但是孙儿觉得皇阿玛不该去当和尚，
+
+speaker: Speaker_10
+datas: 2196670-2197450ms
+sentence: 是啊，
+
+speaker: Speaker_10
+datas: 2199510-2206410ms
+sentence: 那碗药你看见了吧， 你觉得皇祖母真的想叫你皇阿玛死吗？
+
+speaker: Speaker_15
+datas: 2206830-2211130ms
+sentence: 不， 皇祖母是想救皇阿玛， 绝不会让皇阿玛死的。
+
+speaker: Speaker_10
+datas: 2211390-2234845ms
+sentence: 哎呦， 我的好孙儿哦， 好孙儿刘苏儿这句话， 而皇祖母的心里就踏实， 还什么索尼娜还没过来呢，
+
+speaker: Speaker_10
+datas: 2237360-2239225ms
+sentence: 大清危在旦夕，
+
+speaker: Speaker_10
+datas: 2243670-2254390ms
+sentence: 你皇祖母可要撑住我太后禀太后锁中堂求见，
+
+speaker: Speaker_12
+datas: 2254670-2257975ms
+sentence: 还有个老和尚大师啊，
+
+speaker: Speaker_10
+datas: 2259060-2271950ms
+sentence: 本人一向不太会说话， 言语里如果有冒犯， 请您当面斥责阿弥陀佛太后心胸气概，
+
+speaker: Speaker_3
+datas: 2272290-2274955ms
+sentence: 令老衲十分敬佩。
+
+speaker: Speaker_10
+datas: 2276760-2281420ms
+sentence: 桂门派里可有个僧人名叫行僧的，
+
+speaker: Speaker_3
+datas: 2282080-2286135ms
+sentence: 有是老衲的徒孙辈。
+
+speaker: Speaker_10
+datas: 2288770-2336135ms
+sentence: 哎， 这皇上多年宠幸的跟他一块儿参禅念佛， 这本是修得之好事， 但是您这行僧竟然要劝渡皇上遁入空门出家当和尚大师啊， 您说这是否不妥？ 再说这大千世界， 各有其命， 作为皇上， 他称为天下一国之君， 他弃天下百姓而去， 这岂不是一桩丑闻？
+
+speaker: Speaker_10
+datas: 2340380-2353510ms
+sentence: 再说对我爱新觉罗氏也算是大难的那是贫僧的痴心妄想。
+
+speaker: Speaker_3
+datas: 2354410-2357845ms
+sentence: 我想皇上断然不会答应的。
+
+speaker: Speaker_10
+datas: 2359520-2364960ms
+sentence: 不瞒您说， 皇上他已经迈入误区， 依他纵劝呢，
+
+speaker: Speaker_3
+datas: 2365380-2372085ms
+sentence: 那只是皇上个人的意思。 我想太后断然不会赞同的，
+
+speaker: Speaker_10
+datas: 2372910-2374535ms
+sentence: 我当然不会赞同。
+
+speaker: Speaker_10
+datas: 2376580-2387955ms
+sentence: 可是皇上他痛失爱妃， 万念俱灰呀， 为娘的我是劝也劝不动啊，
+
+speaker: Speaker_10
+datas: 2390080-2393695ms
+sentence: 哭着喊着闹着要出家当和尚，
+
+speaker: Speaker_10
+datas: 2396120-2405545ms
+sentence: 大师方才我跟你说过， 这一旦传出去， 天下岂不是大乱了吗？
+
+speaker: Speaker_10
+datas: 2408520-2445610ms
+sentence: 啊， 当然前人释迦牟尼达摩也有过， 此举使我敬佩。 可是我想皇上他同样可以利用自己的皇位， 利国利民， 积德行善吧。 是我我我意意思为何一定要出家当和尚呢？ 难道皇上出家当和尚， 他才算得上？ 是一桩幸事吗？
+
+speaker: Speaker_3
+datas: 2446490-2458429ms
+sentence: 禀太后老衲认为， 皇上出家， 对佛门来说， 非单不是幸事， 反而是一桩祸事。 哦，
+
+speaker: Speaker_10
+datas: 2458890-2462610ms
+sentence: 怎么讲， 请指教太后，
+
+speaker: Speaker_3
+datas: 2462630-2520785ms
+sentence: 请想， 如果皇上弃天下于不顾， 遁入空门， 满朝文武大臣会怎么想？ 能不恨佛门子弟， 引诱皇上吗？ 这样一来， 皇权与宗教岂不解下了不解之恨吗？ 太后啊行僧糊涂了， 老衲不糊涂， 也不敢糊涂。 此是利害关系， 老衲明白高论本人受益匪浅呐。 我等佛僧虽然普渡天下， 但僧俗两界毕竟有别。 官府与佛僧， 理应各守其道， 方能保， 人间之太平太后， 你有何意旨就请吩咐吧？
+
+speaker: Speaker_10
+datas: 2521600-2526915ms
+sentence: 大师啊， 您言之有理论之有道啊，
+
+speaker: Speaker_3
+datas: 2527860-2529385ms
+sentence: 不敢不敢，
+
+speaker: Speaker_10
+datas: 2532060-2551925ms
+sentence: 我呀， 总是先谢人后求人。 大师啊， 我看唯有您能够拯救皇上了， 我想请您动用佛门法规令责行僧， 打消皇上的出家之面做得到吗？
+
+speaker: Speaker_3
+datas: 2553030-2556025ms
+sentence: 阿弥陀佛老衲灵旨，
+
+speaker: Speaker_10
+datas: 2557530-2563155ms
+sentence: 此事如有善终大师， 您有什么要求吗？
+
+speaker: Speaker_3
+datas: 2566100-2566560ms
+sentence: 没有，
+
+speaker: Speaker_10
+datas: 2568750-2571705ms
+sentence: 你说没有我反倒不放心了。
+
+speaker: Speaker_3
+datas: 2573030-2578505ms
+sentence: 有便是无无， 便是有明白了，
+
+speaker: Speaker_10
+datas: 2579420-2598305ms
+sentence: 大师是想要我效庄替你说出来此事如能善终， 大师， 你可为救国救民之壮举， 功德无量啊。
+
+speaker: Speaker_10
+datas: 2600480-2623485ms
+sentence: 我孝庄皇太后一旨， 朝廷名示天下， 将您大师所主的门派再立为佛门正宗您所掌的寺庙永享皇家香火大师啊， 不瞒你说，
+
+speaker: Speaker_10
+datas: 2625880-2637965ms
+sentence: 本人当今皇太后， 皇上的亲娘， 我孝庄也是修复之人呐，
+
+speaker: Speaker_3
+datas: 2640360-2655165ms
+sentence: 我比善哉善哉， 老衲也向太后保证， 如果此事不能善终， 老衲将化为一头净土。
+
+speaker: Speaker_0
+datas: 2662160-2672880ms
+sentence: 你是你有一种大几月曾经奋驳我，
+
+speaker: Speaker_7
+datas: 2672880-2729025ms
+sentence: 亲问， 留在我心就已经注定。 我曾经也许有一份生命， 世界一定风里一飘落啊， 江山扛在我肩头， 一刻就已经决定而奔着我。 再辛苦也说话， 放下自己， 把忧伤抚摸五号献住， 一个记得我与情长恨都藏在心窝，
+
+speaker: Speaker_2
+datas: 2731130-2738130ms
+sentence: 嫌他一路看不好过。
+
+speaker: Speaker_7
+datas: 2738330-2744030ms
+sentence: 再辛苦也无说扛下自啊忧伤，
+
+speaker: Speaker_7
+datas: 2749180-2755205ms
+sentence: 心中依然执着与情长都藏在心窝。
+
+speaker: Speaker_2
+datas: 2757280-2758785ms
+sentence: 先他一路，
+
+speaker: Speaker_0
+datas: 2761420-2762040ms
+sentence: 嗯嗯，
+
+speaker: Speaker_9
+datas: 2762060-2784230ms
+sentence: 嗯没事儿， 你就把朕当成你的弟弟行痴，
+
+speaker: Speaker_14
+datas: 2784510-2786155ms
+sentence: 拜灵罚号。
+
+--------------------------------------------------------------------------------

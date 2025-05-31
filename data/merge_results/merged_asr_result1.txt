@@ -1,0 +1,940 @@
+
+=== 文件: 01.4K.H265.AAC-YYDS ===
+
+speaker: Speaker_0
+datas: 15040-78655ms
+sentence: 这江山起起伏不去， 现在的风， 我爱的终原爱一点啊， 江南学这油风情歌红尘如此的我， 今昨日何惧艰险豪情不不一定做人有苦山恶浑在两边都会梦中的心疼挣扎不说， 斗着当空房间紧握住， 只愿旋转，
+
+speaker: Speaker_0
+datas: 82120-93105ms
+sentence: 等着中的我五百年。
+
+speaker: Speaker_0
+datas: 105350-105590ms
+sentence: 嗯，
+
+speaker: Speaker_0
+datas: 111220-155205ms
+sentence: 做人何惧精神豪情不不一遍。 做人有苦， 有天善开， 两边为梦中的你的春紧握住一想， 转在我五百年，
+
+speaker: Speaker_0
+datas: 161190-247420ms
+sentence: 你在不不满你哦， 快 AB 去来慢点儿，
+
+speaker: Speaker_2
+datas: 247420-248145ms
+sentence: 慢点儿，
+
+speaker: Speaker_1
+datas: 251390-254165ms
+sentence: 快快你而快。
+
+speaker: Speaker_2
+datas: 256870-260345ms
+sentence: 啊啊啊啊啊， 快点快点快点儿啊，
+
+speaker: Speaker_2
+datas: 262810-266870ms
+sentence: 慢点慢三阿哥，
+
+speaker: Speaker_1
+datas: 267330-272590ms
+sentence: 咱们快点吧。 乘客时辰到了， 要是晚了， 我爹又会罚我的。
+
+speaker: Speaker_3
+datas: 273010-285950ms
+sentence: 哎， 我要是生一场大病就好了， 那时候魏师傅才会让我饱饱的， 睡上一觉啊啊萨哥呃，
+
+speaker: Speaker_2
+datas: 286230-306145ms
+sentence: 生生龙活虎鸿福齐天的， 我饿了阿哥， 咱们得先念书后进山， 这才能把学问消化喽。 啊， 您是皇子， 您不是老百姓的孩子啊， 那百姓孩子才惦记吃。 皇子要惦记着读书，
+
+speaker: Speaker_3
+datas: 307440-310060ms
+sentence: 百姓孩子能睡懒觉。 我不能，
+
+speaker: Speaker_2
+datas: 310680-313640ms
+sentence: 那百姓孩子要种地， 也睡不长，
+
+speaker: Speaker_3
+datas: 313940-315600ms
+sentence: 种地苦还是读书苦？
+
+speaker: Speaker_2
+datas: 315800-321635ms
+sentence: 呃呃呃， 种地人说种地苦， 读书人说读书苦，
+
+speaker: Speaker_3
+datas: 322840-332020ms
+sentence: 我要是当了皇上， 就让他们换一换， 叫种地的， 通通给我读书去叫读书的， 通通给我种地去看他们谁还敢叫苦。 哎，
+
+speaker: Speaker_2
+datas: 332320-334680ms
+sentence: 嗯， 那不天下大乱了吗？
+
+speaker: Speaker_1
+datas: 335220-342125ms
+sentence: 三阿哥， 咱们还是快点吧。 阿哥， 你要是误了臣客， 我爹又得罚我了。
+
+speaker: Speaker_3
+datas: 344480-350095ms
+sentence: 停， 我还没尿尿呢啊呃奴才开始啊停停停停停停嗯，
+
+speaker: Speaker_2
+datas: 354120-377705ms
+sentence: 来哎嗯哎哎呀三个真是生龙活虎啊。 大江东流啊，
+
+speaker: Speaker_1
+datas: 379270-416445ms
+sentence: 孩子脏蜡子给师傅请安嗯，
+
+speaker: Speaker_3
+datas: 418370-447920ms
+sentence: 孺子给父亲大人请安嗯就坐专业今儿个乘客，
+
+speaker: Speaker_4
+datas: 448280-452885ms
+sentence: 你等足足误了半刻钟， 跪下领罚。
+
+speaker: Speaker_4
+datas: 457510-457750ms
+sentence: 嗯，
+
+speaker: Speaker_4
+datas: 460500-463440ms
+sentence: 业精于勤毁于信， 形成于丝，
+
+speaker: Speaker_3
+datas: 463740-464500ms
+sentence: 毁于嘴，
+
+speaker: Speaker_2
+datas: 464800-466640ms
+sentence: 走身无路勤为敬，
+
+speaker: Speaker_4
+datas: 467360-476155ms
+sentence: 学海无涯苦作舟。 那你还晚来不晚来了， 看你还敢不敢了， 光知道师哥别打了，
+
+speaker: Speaker_4
+datas: 478160-482800ms
+sentence: 师傅从来不打， 只是发魏师傅，
+
+speaker: Speaker_5
+datas: 482840-487970ms
+sentence: 你也太很多。 你儿子人在庙堂，
+
+speaker: Speaker_4
+datas: 487970-490225ms
+sentence: 只有师圣， 没有父子。
+
+speaker: Speaker_2
+datas: 494930-500005ms
+sentence: 皇上口谕召三个玄月， 太子少保未成魔接旨，
+
+speaker: Speaker_2
+datas: 505040-522389ms
+sentence: 今儿个辰时三刻， 皇上在文华殿亲事， 众阿哥学业召各位阿哥的师傅同往不得迟误。 皇上还说哪位阿哥学问好文章好， 朕重赏。 哪位阿哥荒叔学业了， 和师傅一同领罚， 绝不堪。
+
+speaker: Speaker_4
+datas: 522389-531115ms
+sentence: 恕放杀德贵妃的病好些了吗？
+
+speaker: Speaker_1
+datas: 532100-535135ms
+sentence: 娘娘她高烧不退， 又是一夜未眠。
+
+speaker: Speaker_4
+datas: 543720-551205ms
+sentence: 皇上爱妃啊， 朕刚刚下朝就赶来看你， 朕瞧你这气色比昨日好多了。
+
+speaker: Speaker_6
+datas: 553800-561945ms
+sentence: 皇上的头发乱了让嫔妾为皇上叔叔拿梳子来，
+
+speaker: Speaker_6
+datas: 569680-577095ms
+sentence: 皇上嫔妾下辈子还想为皇上梳头。
+
+speaker: Speaker_4
+datas: 579270-582420ms
+sentence: 哎， 对呀， 朕和你一定会白头到老的。
+
+speaker: Speaker_6
+datas: 587030-590115ms
+sentence: 嫔妾知道自己的病是不可知。
+
+speaker: Speaker_6
+datas: 594660-600485ms
+sentence: 嫔妾朕想做皇上的一根头发丝， 永远的爱着皇上，
+
+speaker: Speaker_6
+datas: 602620-606245ms
+sentence: 可是无今怕是爱不上。
+
+speaker: Speaker_6
+datas: 610410-615735ms
+sentence: 嫔妾有个想到白妃呀，
+
+speaker: Speaker_4
+datas: 617530-621495ms
+sentence: 朕整个人都是你的， 你想要什么？ 只管跟朕说。
+
+speaker: Speaker_6
+datas: 623990-652155ms
+sentence: 嫔妾想要看嫔妾最大的憾事， 就是没给皇上生个皇子。 因儿嫔妾虽然受皇上锤， 可每日每夜每时每刻都像是偷灵的， 一不留神就会灰飞烟灭。
+
+speaker: Speaker_4
+datas: 656180-662425ms
+sentence: 太飞， 等你病好以后， 朕夜夜和你同宿， 一定会让你怀上龙种的。
+
+speaker: Speaker_6
+datas: 663470-676365ms
+sentence: 嫔妾现在就想要嫔妾， 夜里得梦恕嫔妾。 如有皇子为忌， 凭借这璧就会不药而愈。
+
+speaker: Speaker_4
+datas: 678230-679125ms
+sentence: 任子重鞋，
+
+speaker: Speaker_4
+datas: 681570-692120ms
+sentence: 这么着吧。 佟贵妃有两个皇子二阿和三阿哥待今儿文华殿停市之后， 朕就下令让三阿哥玄烨入祭， 称贤宫啊，
+
+speaker: Speaker_6
+datas: 692140-704915ms
+sentence: 谢皇上阿弥陀佛，
+
+speaker: Speaker_8
+datas: 705940-710085ms
+sentence: 皇上气色灿烂， 依然浮光飘逸呀。
+
+speaker: Speaker_4
+datas: 716300-726555ms
+sentence: 秦孙大师啊在朕今日为阿哥们平事， 朕请你来是要你同场观事暗中参读各位皇子的骨骼气象， 看看谁最具有聪慧、 福寿。
+
+speaker: Speaker_8
+datas: 727210-728190ms
+sentence: 皇上的用意是，
+
+speaker: Speaker_4
+datas: 728710-738075ms
+sentence: 这些年来朕对世外空门心驰神往， 而对于每日的朝政服务却感到精疲力竭呀。
+
+speaker: Speaker_4
+datas: 740130-744685ms
+sentence: 朕想预先遴选一位太子储君， 以为有朝一日国脉不止， 中断，
+
+speaker: Speaker_8
+datas: 745880-748220ms
+sentence: 皇上贫僧，
+
+speaker: Speaker_4
+datas: 749040-751485ms
+sentence: 佛学浅陋肉眼凡胎。
+
+speaker: Speaker_8
+datas: 752610-765925ms
+sentence: 阿哥们都是天之神器， 贫僧只怕眼力不及呀。 何况太子储君乃国之大事， 僧人更是不敢唐突啊，
+
+speaker: Speaker_4
+datas: 766790-779335ms
+sentence: 大师就不要谦虚了， 说穿了， 朕只是让你看一看， 看一看谁最具有聪慧。 福寿， 看看谁的命脉最硬， 谁的佛言最厚， 别的你就不用管了。
+
+speaker: Speaker_8
+datas: 779990-782835ms
+sentence: 好， 贫僧接旨，
+
+speaker: Speaker_4
+datas: 785540-792670ms
+sentence: 吾皇万岁万岁万万岁都平身吧。
+
+speaker: Speaker_2
+datas: 793390-798355ms
+sentence: 谢皇上阿哥们，
+
+speaker: Speaker_4
+datas: 799090-839105ms
+sentence: 朕好生羡慕你们呢。 朕像你们这么大的时候， 就不得不登上皇位。 从此以后啊， 表面上是管理天下， 可实际上呢是被天下管制。 不像你们可以两耳不闻窗外事， 一心只读圣贤书， 好读入席吧。 谢文皇阿哥是天上的星星地上的龙脉， 寻常百姓不好好读书， 只怪他一个皇阿哥， 不好好读书就坏了一方天下是不是啊？
+
+speaker: Speaker_4
+datas: 841370-862335ms
+sentence: 我觉得大清几代先王奋斗不息， 才有今天的海难一同。 而今咱们满人入关也几十年了， 但是钱名余孽仍在， 百姓人心不稳， 阿哥们要记着这取天下， 靠的是弓马骑射， 但是治天下却要靠文教科举。
+
+speaker: Speaker_4
+datas: 864630-896940ms
+sentence: 咱们满人的金戈铁马， 虽然能灭掉前明的水陆三军， 但是灭不掉汉人的千年文字灭不掉诗词曲赋灭不掉。 圣人之言， 世子之心哪怎么办呢？ 学咱们满人要向汉人学朕， 希望你们不光在读书写字上比汉人强， 在弓马骑射上也要比汉人们强。 你们都是汉人， 朕说的对吗？
+
+speaker: Speaker_5
+datas: 897660-898225ms
+sentence: 是，
+
+speaker: Speaker_4
+datas: 901080-921125ms
+sentence: 所以朕为你们聘得的师傅全是汉人， 也全是当今的保学名士。 今日谁考得好？ 师徒共赏谁？ 学业不精， 师生共同领罪学业， 你有什么话要说吗？
+
+speaker: Speaker_3
+datas: 922140-922700ms
+sentence: 儿臣，
+
+speaker: Speaker_4
+datas: 923700-926025ms
+sentence: 你现在只是儿还不是臣呢？
+
+speaker: Speaker_3
+datas: 927280-930825ms
+sentence: 皇儿对皇阿玛方才的话又不解，
+
+speaker: Speaker_4
+datas: 932140-934795ms
+sentence: 朕早就瞧出来了， 你放胆说吧。
+
+speaker: Speaker_3
+datas: 935770-951455ms
+sentence: 依皇阿玛的意思， 咱们满人是因为灭不掉汉人的诗词曲赋， 圣人之言才向他们学习。 环儿不解的是， 如果能够灭掉呢， 那还要不要向汉人学习呢？
+
+speaker: Speaker_4
+datas: 954260-954695ms
+sentence: 哦，
+
+speaker: Speaker_4
+datas: 956870-957655ms
+sentence: 那你说呢？
+
+speaker: Speaker_3
+datas: 958390-968325ms
+sentence: 儿臣认为， 咱们学习诗词曲赋圣人之言， 不是因为灭不掉他才学， 而是因为他也是天道。
+
+speaker: Speaker_4
+datas: 970530-1009695ms
+sentence: 这是谁教你的为臣所教来人啊， 在撤去进正， 朕罚你站着应试这罚。 魏成魔半年的俸禄， 微臣令罚， 但微臣不知何罪， 望皇上明示你师师俩可真是硬朗啊。 阵罚， 你们还要问个为什么？ 好， 等朕停尸完以后， 即告诉你们， 为什么玄烨若是学无所长， 朕必罚， 你误导之罪，
+
+speaker: Speaker_5
+datas: 1013020-1042025ms
+sentence: 是你呀。 别看这些花儿开的这么茂盛， 那也是盛极初衰呀。 哎呀， 这朵挺好看的。 来来来戴上， 戴上，
+
+speaker: Speaker_4
+datas: 1044190-1047500ms
+sentence: 好好看哦，
+
+speaker: Speaker_5
+datas: 1047760-1057550ms
+sentence: 丫头啊， 你看那盆花啊， 今儿好看明儿好， 今儿比明儿啊更好看， 一天比一天好。
+
+speaker: Speaker_2
+datas: 1057570-1064285ms
+sentence: 看来老祖宗见事不凡， 奴才佩服死了。
+
+speaker: Speaker_5
+datas: 1065180-1080780ms
+sentence: 你呀就是嘴甜啊， 来丫头啊， 给他浇浇水， 这水浇多了也不行， 但是有点焦， 你继续说呀， 皇上今天都做什么了？
+
+speaker: Speaker_2
+datas: 1081200-1088480ms
+sentence: 早朝时， 皇上夺了直隶总督的脖子， 赏了内大臣。 索尼三眼花翎驳什么折子，
+
+speaker: Speaker_5
+datas: 1088760-1091475ms
+sentence: 为什么要赏索尼呀？ 跟我说清楚。
+
+speaker: Speaker_2
+datas: 1092340-1097845ms
+sentence: 博了直隶总督参鳌拜圈地的折子赏了索尼， 是因为索尼六十大寿快到了，
+
+speaker: Speaker_5
+datas: 1101500-1103435ms
+sentence: 接着说啊，
+
+speaker: Speaker_2
+datas: 1104660-1112705ms
+sentence: 下朝后皇上进了一碗稻米粥， 几个糟糕几个呀， 两个对哎， 只进一个。
+
+speaker: Speaker_5
+datas: 1113640-1115465ms
+sentence: 为什么进这么少啊？
+
+speaker: Speaker_2
+datas: 1117370-1123645ms
+sentence: 皇上赶着去承乾宫瞧额， 娘娘奴才觉得娘娘怕是怕是怎么了，
+
+speaker: Speaker_5
+datas: 1124440-1125995ms
+sentence: 怕是活不久了吧。
+
+speaker: Speaker_2
+datas: 1126950-1134285ms
+sentence: 说呀奴才听说娘娘想认子充邪， 皇上安准了让三阿哥过继给承乾宫。
+
+speaker: Speaker_5
+datas: 1143390-1147900ms
+sentence: 这事儿我知道了， 不许跟别人说起。 去吧，
+
+speaker: Speaker_4
+datas: 1148510-1161995ms
+sentence: 这老师啊请为阿哥们参读古巷怎么样？
+
+speaker: Speaker_8
+datas: 1162590-1186535ms
+sentence: 阿弥陀佛以贫僧看来， 阿哥们都个个贵不可言， 尤其是三阿哥， 玄烨如何如月柱西天鹤立鸡群。 圣上请看他， 虽然站着应试， 却气定神闲， 朴素无华， 心似古井， 身如磐石。 啊，
+
+speaker: Speaker_0
+datas: 1207070-1210125ms
+sentence: 这继续职业啊，
+
+speaker: Speaker_4
+datas: 1210840-1214315ms
+sentence: 把试卷上的文章背下来， 一个字也不许错。
+
+speaker: Speaker_5
+datas: 1215250-1215525ms
+sentence: 嗯，
+
+speaker: Speaker_3
+datas: 1217220-1225840ms
+sentence: 古之学者必有师师者， 所以传道授业解惑也。 人非生而知之， 孰能无惑。
+
+speaker: Speaker_4
+datas: 1226500-1230140ms
+sentence: 好， 朕问你这试卷写完了吗？
+
+speaker: Speaker_3
+datas: 1230540-1233140ms
+sentence: 没完环儿还有半截没写呢？
+
+speaker: Speaker_4
+datas: 1233620-1238380ms
+sentence: 好， 把那一半再念出来， 也不准错。 一个字，
+
+speaker: Speaker_3
+datas: 1238920-1252495ms
+sentence: 孔子曰， 三人行必有我师， 是故弟子， 不必不如师师， 不必贤于弟子， 闻道有先后， 术业有专攻， 如是而已好，
+
+speaker: Speaker_4
+datas: 1254750-1272425ms
+sentence: 下笔。 之前已有成竹在胸， 请座， 这阿哥们你们都记着好文章， 不在笔墨上， 而在心坎上心上， 有笔下才有得人心， 便垂千古吗？
+
+speaker: Speaker_4
+datas: 1274910-1280005ms
+sentence: 学爷啊， 朕点你为廷氏的头名， 你要何赏赐啊，
+
+speaker: Speaker_3
+datas: 1281290-1284525ms
+sentence: 我要饱饱的睡一觉， 睡多久都别喊我。
+
+speaker: Speaker_4
+datas: 1285560-1293415ms
+sentence: 哈哈哈你累了哈， 来来来， 就在朕的龙椅上， 歇会儿吧。 去吧，
+
+speaker: Speaker_4
+datas: 1296880-1331200ms
+sentence: 传旨魏成魔进户部侍郎， 赏银五百两谢皇上娘娘娘娘臣妾给老祖宗请安哟，
+
+speaker: Speaker_5
+datas: 1331900-1333075ms
+sentence: 你这是怎么了？
+
+speaker: Speaker_7
+datas: 1333860-1339965ms
+sentence: 太后请你给我做主， 就让三阿哥玄烨回到臣妾宫里去抚养吧。
+
+speaker: Speaker_5
+datas: 1341090-1349925ms
+sentence: 哎呦， 玄烨身边有奶妈， 有太监， 还有师傅， 未成魔不挺好的吗？
+
+speaker: Speaker_7
+datas: 1352230-1379730ms
+sentence: 太后血液剩下来三天， 就将皇宫里的奶妈抱走了， 从此后一堵高墙， 如隔关山。 臣妾， 我就是一年半载也见不着儿子一面呢。 到如今到如今， 怕是连儿子都不是臣妾的了。
+
+speaker: Speaker_5
+datas: 1380270-1459620ms
+sentence: 童妃呀， 你是知道的这阿哥们呢有专人教养， 这是宫里的规矩， 不假， 这国法大于亲情。 可是你想想啊， 你升玄烨的时候还能在怀里抱她三天。 可是我呢我生顺治的时候， 还没到三个时辰， 就让奶娘给抱走了。 你说他没吃过我一口奶呀， 也没在我怀里睡过一个囫囵觉， 从六岁登基到十四岁亲政， 哎呦， 整整八年呐， 我们娘儿俩呀就没见过几次面， 我想着想着想的， 我心口直疼啊。 哎呀， 为了见一次面呢， 我这盼着节庆啊， 盼哪盼哪盼得我是心慌意乱的， 你知道吗？ 这才叫苦呢。 这世上的人呢只知道为娘啊养孩子， 那千辛万苦的。 可是谁知道像咱们这样的， 你说这生了孩子吧， 不让你养， 这才叫苦呢。
+
+speaker: Speaker_7
+datas: 1460280-1466745ms
+sentence: 可是可是太后皇上要把皇上要把玄念过继给鄂姐姐了。
+
+speaker: Speaker_5
+datas: 1467550-1471705ms
+sentence: 没听说呀， 那悬烨是你生的， 谁也躲不去呀。
+
+speaker: Speaker_7
+datas: 1473080-1500065ms
+sentence: 太后你是知道的。 自从皇后卑位以后， 皇上对鄂贵妃是是从头发丝儿捅到脚后跟儿， 隔三差五的敬畏封赏。 汉爷爷避宿海， 爷爷必速成乾宫。 其实其实对这些我是不嫉妒的， 我生气的是他鄂姐姐， 凭什么夺我的儿子呀？
+
+speaker: Speaker_5
+datas: 1501010-1504055ms
+sentence: 不会的， 该是谁的就是谁的。
+
+speaker: Speaker_7
+datas: 1505240-1523240ms
+sentence: 太后这鄂贵妃持璧撒娇， 夺人骨肉， 臣妾只是怕长此以往的话， 这皇上不仅荒废了朝政， 而且连太后您都会被疏远的。 臣妾貌似问一句， 但鄂姐姐究竟是皇上的妃子呢， 还是皇上的亲娘啊？
+
+speaker: Speaker_5
+datas: 1523580-1527575ms
+sentence: 闭嘴来，
+
+speaker: Speaker_7
+datas: 1528800-1530400ms
+sentence: 嗯， 哼嗯嗯，
+
+speaker: Speaker_5
+datas: 1531370-1539295ms
+sentence: 你别哭了， 你呀哼真是的， 别哭， 跟我走。
+
+speaker: Speaker_4
+datas: 1552970-1622170ms
+sentence: 来人呢在拿几杯来这来爱的就是玄烨， 不要监督他。 来人呢在把龙羽抬往承乾宫， 是皇上程乾宫， 可是额娘娘的寝宫啊， 朕知道来，
+
+speaker: Speaker_2
+datas: 1622390-1632905ms
+sentence: 你过去下来过来， 抬一个头来过来让我瞅瞅头发。 好嗯， 好， 再转过去，
+
+speaker: Speaker_2
+datas: 1634940-1646345ms
+sentence: 行， 转过去回来。 哎， 说你呢过来啊， 快过来， 那边走吧， 把头抬起来。 我靠，
+
+speaker: Speaker_1
+datas: 1658930-1677765ms
+sentence: 婆婆婆婆国不这辈子还从来没人叫过我婆婆呢。
+
+speaker: Speaker_5
+datas: 1679490-1688185ms
+sentence: 丫头啊， 来牵着婆婆的手， 到婆婆屋里去， 婆婆那儿啊， 有果子吃，
+
+speaker: Speaker_5
+datas: 1691030-1693735ms
+sentence: 你怎么到京里来了？
+
+speaker: Speaker_1
+datas: 1696710-1704350ms
+sentence: 我只记得小时候家里有庭院， 楼阁小桥流水，
+
+speaker: Speaker_5
+datas: 1705010-1706875ms
+sentence: 那一定读过书吧，
+
+speaker: Speaker_1
+datas: 1708060-1711655ms
+sentence: 读过家父， 从小就教我琴棋书画。
+
+speaker: Speaker_5
+datas: 1713990-1722270ms
+sentence: 那你给我读一段什么呢？ 唐诗宋词吧， 好啊， 题目是什么呢？
+
+speaker: Speaker_1
+datas: 1722510-1734135ms
+sentence: 梅花好， 墙角数枝梅凌寒独自开， 遥知不是雪为有暗香来。
+
+speaker: Speaker_5
+datas: 1735030-1740025ms
+sentence: 丫头啊， 你人真聪明，
+
+speaker: Speaker_5
+datas: 1743500-1744655ms
+sentence: 那你爹娘呢？
+
+speaker: Speaker_1
+datas: 1747290-1756405ms
+sentence: 村里头闹天花， 好多人都死了， 我弟弟和爹娘也都死了。
+
+speaker: Speaker_5
+datas: 1758960-1773795ms
+sentence: 哎呦， 来到婆婆这儿， 来来啊， 来来来牵着手啊， 走走走啊， 怎么了？
+
+speaker: Speaker_1
+datas: 1787520-1787995ms
+sentence: 太后，
+
+speaker: Speaker_5
+datas: 1788730-1791030ms
+sentence: 哎呀， 我有点累了，
+
+speaker: Speaker_7
+datas: 1791770-1798490ms
+sentence: 你慢着点儿哦， 来人呢在哎呀，
+
+speaker: Speaker_5
+datas: 1799440-1801365ms
+sentence: 来来来把这给我解开， 解开，
+
+speaker: Speaker_5
+datas: 1803970-1826865ms
+sentence: 传我一旨过来， 丫头文华殿停事之后， 叫三阿哥。 玄烨到我慈宁宫里来， 是来来来， 我我我自己来自己来啊，
+
+speaker: Speaker_5
+datas: 1829830-1831165ms
+sentence: 哎呀舒服。
+
+speaker: Speaker_5
+datas: 1833390-1837415ms
+sentence: 哎， 哎， 童飞呀。 来来来来来， 我跟你说点事来来，
+
+speaker: Speaker_5
+datas: 1841470-1884650ms
+sentence: 如果你把玄烨领到自个儿的宫里来养呢， 这不合祖宗的规矩。 那厄妃呢他要把玄烨要到自己的宫里去养， 那更不合祖宗的规矩， 那怎么办？ 要我说呀， 我就把这个玄烨呢带到我的慈宁宫里来养， 我来亲自掌管他的起居和客业多谢太后。 哼这下你放心了吧， 嗯我替你养的这个孩子， 等他十四岁以后啊， 我连一根头发丝儿都不少的还给你太后啊，
+
+speaker: Speaker_7
+datas: 1884950-1888370ms
+sentence: 这玄烨能跟着您， 这可是我们娘俩天大的福分。
+
+speaker: Speaker_5
+datas: 1888710-1936355ms
+sentence: 说的是啊哎太后嗯， 呵呵嗯是个聪明的丫头过来， 丫头上婆婆这儿来。 哎呦， 你看看这一打扮多好看呢， 婆婆呀也不问你从哪儿来， 也不问你从前叫过什么名字。 可是啊打今儿起， 婆婆就叫你苏麻拉姑，
+
+speaker: Speaker_1
+datas: 1937260-1940240ms
+sentence: 哎， 从今儿个起我就叫苏玛拉姑，
+
+speaker: Speaker_5
+datas: 1940720-1978960ms
+sentence: 好听吗？ 好听好听。 那你以后啊就住在婆婆这儿， 把这儿当成家成吗？ 成婆婆呀， 还要给你找个弟弟， 她的名字叫玄烨。 今年呢她只有八岁， 和你那弟弟呀一边大不过呢， 你要把他既当做弟弟， 又要当做主子， 懂吗？ 懂懂你呀？ 既要把他当弟弟那样的照料， 还要把他当主子那样的忠诚， 你做得到吗？
+
+speaker: Speaker_1
+datas: 1979280-1980760ms
+sentence: 苏麻拉姑做得到。
+
+speaker: Speaker_5
+datas: 1981120-1982300ms
+sentence: 哎呀， 真好，
+
+speaker: Speaker_7
+datas: 1983280-1984500ms
+sentence: 那你还快谢恩呢，
+
+speaker: Speaker_1
+datas: 1985160-1987300ms
+sentence: 苏麻拉姑谢恩哦，
+
+speaker: Speaker_5
+datas: 1987360-1993235ms
+sentence: 要这样把手放在这儿这样的。 嗯， 好，
+
+speaker: Speaker_5
+datas: 1995340-2011000ms
+sentence: 那你该不该给婆婆再重新说一遍， 就说打今儿起呀。 我既有了主子， 又有了弟弟， 我要像对待主子那样忠心耿耿的服侍她， 给婆婆再说一遍。
+
+speaker: Speaker_1
+datas: 2011540-2021040ms
+sentence: 从今儿个起， 我有了主子， 玄烨， 又有了弟弟玄烨， 我还有了婆婆， 我要好好伺候主子， 好好伺候。 婆婆，
+
+speaker: Speaker_5
+datas: 2021700-2027785ms
+sentence: 真好啊， 我这小丫头你可真好啊。 哎呦， 婆婆喜欢孙女喽，
+
+speaker: Speaker_8
+datas: 2028940-2046465ms
+sentence: 皇上据贫僧所知， 那张九龙榻乃乾明皇帝留下几百年来未曾移动， 皇上竟将他送给了三阿哥。 贫僧真是无限感佩呀，
+
+speaker: Speaker_4
+datas: 2048290-2050705ms
+sentence: 朕哪偏偏就不想坐那张龙椅，
+
+speaker: Speaker_5
+datas: 2063130-2063760ms
+sentence: 哎呀，
+
+speaker: Speaker_7
+datas: 2073920-2077775ms
+sentence: 这两个时辰都快过去了。 体事怎么还没结束啊？
+
+speaker: Speaker_5
+datas: 2080800-2087740ms
+sentence: 禀太后童娘娘童娘娘庭试结束了， 三阿哥玄烨考了头名，
+
+speaker: Speaker_7
+datas: 2088000-2097200ms
+sentence: 哎呀， 佛祖保佑， 佛祖保佑， 哎呦， 怪不得眼皮直跳呢。 老祖宗啊听见了吗？ 咱们玄烨考了头，
+
+speaker: Speaker_5
+datas: 2097200-2103750ms
+sentence: 一名呢他人呢禀太后正在皇上的九龙榻上歇着呢啊，
+
+speaker: Speaker_7
+datas: 2103930-2104710ms
+sentence: 你先下去吧，
+
+speaker: Speaker_1
+datas: 2104710-2117250ms
+sentence: 是禀太后佟娘娘， 皇上让把九龙榻抬往成天宫去了，
+
+speaker: Speaker_7
+datas: 2117710-2118910ms
+sentence: 为什么要抬到那边去？
+
+speaker: Speaker_1
+datas: 2119570-2121710ms
+sentence: 奴才不知道退下吧，
+
+speaker: Speaker_5
+datas: 2121950-2124650ms
+sentence: 是太后啊，
+
+speaker: Speaker_7
+datas: 2125110-2147305ms
+sentence: 这下您都瞧见了吧， 他们现在真的要把真的要把嫔妾的亲生骨肉让给娥姐姐了。 太后啊， 他们现在连您的意志都不顾了。 如果长此以往的话， 不但嫔妾的亲生骨肉要被夺走， 就连太后您的亲生骨肉， 皇上也会深陷臣乾宫的老祖宗啊，
+
+speaker: Speaker_7
+datas: 2150620-2151000ms
+sentence: 老祖宗，
+
+speaker: Speaker_5
+datas: 2151000-2152885ms
+sentence: 你去哪儿长乾宫，
+
+speaker: Speaker_5
+datas: 2155320-2159145ms
+sentence: 你不是要你的儿子吗？ 我得要我的孙子啊，
+
+speaker: Speaker_1
+datas: 2163100-2163685ms
+sentence: 不难呀，
+
+speaker: Speaker_5
+datas: 2169060-2176110ms
+sentence: 喝点点快叫太医来，
+
+speaker: Speaker_1
+datas: 2176210-2179275ms
+sentence: 是最后驾到，
+
+speaker: Speaker_6
+datas: 2183790-2188250ms
+sentence: 太后吉祥嫔妾正要请太后和童姐姐过来，
+
+speaker: Speaker_5
+datas: 2188350-2190445ms
+sentence: 甭请了， 不是自个儿来了吗？
+
+speaker: Speaker_5
+datas: 2194830-2198235ms
+sentence: 娘娘右，
+
+speaker: Speaker_7
+datas: 2199380-2211675ms
+sentence: 这这是怎么了？ 该不会也是有喜了吧。 鄂姐姐， 既然你有龙种在身了， 就不要再抢嫔妾的骨肉了成吗？
+
+speaker: Speaker_6
+datas: 2213660-2225370ms
+sentence: 童姐姐误会了三阿哥， 在文华殿上睡着了， 皇上让把他抬到城前宫里歇着， 待会儿皇上会来看望的。
+
+speaker: Speaker_7
+datas: 2225750-2230415ms
+sentence: 可是可是我是他的额娘啊， 应该才到我的宫里才对呀。
+
+speaker: Speaker_6
+datas: 2231450-2237680ms
+sentence: 爱承乾宫去文华殿进献哼文华殿，
+
+speaker: Speaker_7
+datas: 2238320-2259015ms
+sentence: 我看我看是离皇上近一些吧。 贺姐姐， 你仗着皇上对你恩宠有加， 就想把玄烨过继过来。 好日后当什么皇后？ 哎， 鄂姐姐我不和你争什么皇后之位， 只求你把玄烨还给我好吗？ 得都给我住口，
+
+speaker: Speaker_5
+datas: 2259940-2261105ms
+sentence: 快过来看看孩子，
+
+speaker: Speaker_5
+datas: 2263640-2297005ms
+sentence: 你看看这孩子是伤了神儿了得， 有个可心的人伺候他才是啊， 不能总由着那些师傅和太监们。 哎， 丫头在来来来来过来， 这就是我跟你说的。 三阿哥玄隐， 他既是你的主子， 又是你的弟弟， 你往后啊得好生地照料他， 是不是是主子啊？
+
+speaker: Speaker_1
+datas: 2300770-2302695ms
+sentence: 我天花，
+
+speaker: Speaker_6
+datas: 2305160-2305895ms
+sentence: 你说什么？
+
+speaker: Speaker_1
+datas: 2306490-2308665ms
+sentence: 婆婆主子得的是天花，
+
+speaker: Speaker_5
+datas: 2311130-2315750ms
+sentence: 宫中， 不会有恶疾。 丫头不可乱说啊，
+
+speaker: Speaker_1
+datas: 2316270-2330935ms
+sentence: 丫头不敢乱说， 我弟弟出天花的时候也是这模样， 村里的孩子出天花的时候都是这模样啊，
+
+speaker: Speaker_0
+datas: 2332320-2345970ms
+sentence: 卖嗯嗯鄂妃病了多久了？
+
+speaker: Speaker_1
+datas: 2346290-2350970ms
+sentence: 十多天了， 皇上不让说来，
+
+speaker: Speaker_5
+datas: 2350970-2366300ms
+sentence: 人在传我的懿旨， 宫中所有的阿哥和格格被了被子在日落之前速速回避避斗。
+
+speaker: Speaker_8
+datas: 2366340-2379440ms
+sentence: 离宫皇上是金轮王， 转世命里有大善根呢， 心中有大智慧天赋， 佛净不学而自明， 因而为天下至尊矣。
+
+speaker: Speaker_4
+datas: 2379980-2382795ms
+sentence: 这么说， 朕前世就是一个僧人呢。
+
+speaker: Speaker_8
+datas: 2383610-2389115ms
+sentence: 非但前世为僧， 今世， 早晚也会重归佛门。
+
+speaker: Speaker_4
+datas: 2391700-2396785ms
+sentence: 朕身为大清国君， 虽然有心向佛， 却无法超脱呀。
+
+speaker: Speaker_8
+datas: 2397590-2400535ms
+sentence: 那是因为皇上尘缘未断呢，
+
+speaker: Speaker_4
+datas: 2403260-2414835ms
+sentence: 哎这地位是一把黄金锁呀。 朕六岁登基名为君临天下， 实际上是被天下所住啊。
+
+speaker: Speaker_8
+datas: 2418430-2422395ms
+sentence: 皇上皇上已经不是将九龙塔送出去了吗？
+
+speaker: Speaker_4
+datas: 2425460-2431380ms
+sentence: 后勤怕是有祸事太后懿旨，
+
+speaker: Speaker_2
+datas: 2431840-2436545ms
+sentence: 所有这妹子日落之前全部密到里。
+
+speaker: Speaker_0
+datas: 2441450-2447780ms
+sentence: 说完了皇额娘吉祥花儿，
+
+speaker: Speaker_4
+datas: 2447780-2451355ms
+sentence: 听到好景急忙赶来试驾皇娘出什么事了，
+
+speaker: Speaker_5
+datas: 2451980-2455410ms
+sentence: 玄烨庇复了今儿文化殿停市的时候，
+
+speaker: Speaker_4
+datas: 2455770-2459035ms
+sentence: 玄烨还是好好的。 太医看过了吗？
+
+speaker: Speaker_5
+datas: 2460250-2462215ms
+sentence: 太一外束手无策，
+
+speaker: Speaker_4
+datas: 2465230-2465845ms
+sentence: 什么病啊？
+
+speaker: Speaker_7
+datas: 2467230-2469765ms
+sentence: 电话贴花儿，
+
+speaker: Speaker_4
+datas: 2470470-2473485ms
+sentence: 不许胡说宫里， 哪来的这等冤念？
+
+speaker: Speaker_5
+datas: 2478250-2480695ms
+sentence: 那你的厄妃得的是什么病？
+
+speaker: Speaker_4
+datas: 2482940-2486105ms
+sentence: 太医说是重症风疾， 一时难以痊愈。
+
+speaker: Speaker_5
+datas: 2486900-2492625ms
+sentence: 为什么玄烨的病症和他的一模一样？ 你给我说清楚，
+
+speaker: Speaker_4
+datas: 2494720-2497360ms
+sentence: 难道真的是天花啊？
+
+speaker: Speaker_7
+datas: 2497440-2512065ms
+sentence: 皇上就是这丫头， 这丫头刚刚召进宫来的， 她弟弟得的就是这个病不治而亡的， 所以所以他一眼就认出这地是天花。
+
+speaker: Speaker_7
+datas: 2515430-2521360ms
+sentence: 嗯嗯，
+
+speaker: Speaker_4
+datas: 2522080-2528375ms
+sentence: 我看我看就是你爸恶极召集宫来的来人， 为了扫除病患， 把他徒儿去给我翻来。
+
+speaker: Speaker_2
+datas: 2531140-2543895ms
+sentence: 这来人呐， 来来婆婆快走。
+
+speaker: Speaker_4
+datas: 2547860-2549815ms
+sentence: 哎， 鄂飞呢他怎么样？
+
+speaker: Speaker_4
+datas: 2552110-2552270ms
+sentence: 哎，
+
+speaker: Speaker_1
+datas: 2552270-2569135ms
+sentence: 嘿皇上皇上白飞爱妃你怎么了？
+
+speaker: Speaker_4
+datas: 2572230-2572870ms
+sentence: 快传太医，
+
+speaker: Speaker_2
+datas: 2572870-2576795ms
+sentence: 这传太医没有？
+
+speaker: Speaker_0
+datas: 2581510-2581750ms
+sentence: 嗯，
+
+speaker: Speaker_4
+datas: 2582640-2602785ms
+sentence: 大家快点儿哎呀哎呀怎么样啊啊，
+
+speaker: Speaker_5
+datas: 2604030-2622955ms
+sentence: 腾飞了。 哇， 你说对了， 他最疼爱的不是我这个母后也不是你的悬印， 更不是你主果， 他的命根子是哪个？ 黄花半老教父在嫁的厄妃，
+
+speaker: Speaker_5
+datas: 2627480-2638665ms
+sentence: 这不是咱们待的地方， 把玄烨抬走， 抬到我宫里去， 我要亲自照料他， 来人把沈也抬走，
+
+speaker: Speaker_0
+datas: 2661240-2664065ms
+sentence: 是有一种大，
+
+speaker: Speaker_0
+datas: 2666370-2702325ms
+sentence: 只有曾经奋波啊， 乾坤留在我心里， 就已经注定。 南京需有一份生命， 世界也不风飘落啊， 江山藏在我尽头， 就已经决定儿奔你走，
+
+speaker: Speaker_0
+datas: 2710770-2727815ms
+sentence: 我太辛苦。 说到放下自己路， 上午好心住一人， 关注我， 情长都藏在心窝，
+
+speaker: Speaker_0
+datas: 2729980-2754025ms
+sentence: 献他一一起工作， 放下自不生， 不奉献中力量， 只与情长都藏在心窝。
+
+speaker: Speaker_0
+datas: 2756120-2761015ms
+sentence: 嫌他一路看零零六，
+
+speaker: Speaker_2
+datas: 2775460-2779365ms
+sentence: 快点儿多浇点儿， 一会儿给他活埋喽。
+
+speaker: Speaker_4
+datas: 2780260-2783855ms
+sentence: 朕不想要， 天下只想和你白头到老，
+
+speaker: Speaker_8
+datas: 2784580-2788715ms
+sentence: 恶非先世， 皇上尘缘已断。
+
+--------------------------------------------------------------------------------

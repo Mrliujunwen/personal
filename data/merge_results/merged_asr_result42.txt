@@ -1,0 +1,1032 @@
+
+=== 文件: 42.4K.H265.AAC-YYDS ===
+
+speaker: Speaker_0
+datas: 15110-36275ms
+sentence: 这江山起起伏， 父柔的却现得的风， 把爱的终原爱不不过后， 江南都去匆匆情歌，
+
+speaker: Speaker_0
+datas: 39110-45245ms
+sentence: 梦着彼此的那金色的画面。
+
+speaker: Speaker_0
+datas: 49000-78735ms
+sentence: 昨日何惧艰险豪情， 不日能又一年。 做人有苦有甜， 善恶分在两边都会梦中的明天挣扎多少斗争， 当空房间紧握住， 只愿想转，
+
+speaker: Speaker_1
+datas: 80450-93145ms
+sentence: 不说不着中的我五百年。
+
+speaker: Speaker_1
+datas: 105550-105840ms
+sentence: 嗯，
+
+speaker: Speaker_1
+datas: 109830-112800ms
+sentence: 今天就是做日何惧艰险，
+
+speaker: Speaker_0
+datas: 113160-120580ms
+sentence: 豪情不变， 也无来的。 做人有苦， 右天善恶分开，
+
+speaker: Speaker_2
+datas: 120580-121055ms
+sentence: 两边，
+
+speaker: Speaker_0
+datas: 121680-126555ms
+sentence: 为梦中等。 明天风，
+
+speaker: Speaker_2
+datas: 131820-140270ms
+sentence: 我生双肩紧握住路，
+
+speaker: Speaker_0
+datas: 140270-155255ms
+sentence: 生撞不在了， 五百年，
+
+speaker: Speaker_1
+datas: 161230-164235ms
+sentence: 你在不五百年？
+
+speaker: Speaker_4
+datas: 179850-187460ms
+sentence: 孙儿责任大了， 既有为君之责， 又有为夫之责。 虽然哪天晚上不反省自查呀，
+
+speaker: Speaker_5
+datas: 187820-230625ms
+sentence: 嗯这就好玄烨呀。 在你把大清国治理成今天， 这样好了不起呀。 我觉得你比你的父皇、 顺治， 甚至贤帝爷皇太极都强死而不敢我呀太老了， 容易糊涂， 也容易伤心呢。 这几十年来打打杀杀， 我看够了也看腻了更可怕。
+
+speaker: Speaker_5
+datas: 232820-239175ms
+sentence: 要是有那么几天， 太平日子最好没有呢。
+
+speaker: Speaker_4
+datas: 240040-241720ms
+sentence: 孙儿， 对不起， 老祖宗啊，
+
+speaker: Speaker_5
+datas: 242320-248995ms
+sentence: 我猜呀把朝廷的事办完了， 你就该御驾亲征了吧。
+
+speaker: Speaker_4
+datas: 251710-270885ms
+sentence: 老祖宗真是见微知著啊。 孙儿这次来就是为了请旨的， 也许过去一天孙儿就要辞驾西征了， 这一次要消灭戈尔丹皇上，
+
+speaker: Speaker_5
+datas: 271580-273385ms
+sentence: 让臣妾随迎试驾吧。
+
+speaker: Speaker_6
+datas: 274110-275785ms
+sentence: 万一您若妃啊，
+
+speaker: Speaker_4
+datas: 276640-280905ms
+sentence: 你还是留在宫里伺候好老祖宗。 嗯，
+
+speaker: Speaker_5
+datas: 282050-314385ms
+sentence: 荣妃说得对呀， 万一有个头疼脑热的， 嗯， 有这么个女人在身边照应着， 不挺好的吗？ 再说你也这把年纪了， 是不是啊就是啊哎这宝日龙眉啊， 她就合适， 他年轻贤惠， 身子骨也不错。 再说他还是个蒙古人， 哎， 你呀一定让他把那个古证也带上好胜世家，
+
+speaker: Speaker_4
+datas: 317030-319280ms
+sentence: 这个就免了吧。
+
+speaker: Speaker_5
+datas: 319660-352505ms
+sentence: 我还没说完呢， 这宝日浓眉呀， 她是克尔克的公主， 他熟悉草原， 了解那儿的地理环境， 而且呢他还知道葛尔丹的用兵之术。 再说了， 他到了当地呀， 他还有感召力， 你说是不是啊？ 哎， 这养病千日用病一时啊， 他的作用可大着呢。 可是玄烨呀， 你待他不公啊，
+
+speaker: Speaker_5
+datas: 357980-394375ms
+sentence: 皇上把我们的蓝气儿啊、 玄野呀， 要是见到兰琪儿啊， 你告诉他啊， 我天天的想他想得我这心口都疼啊啊， 在我死前呢， 我正盼着再见他一面呢嗯启禀皇上明珠房产已全部查抄封存，
+
+speaker: Speaker_7
+datas: 395030-405810ms
+sentence: 但没见什么珠宝玉器， 现银也只查出二百两夜光帝臣在你那个时不可赦头一条，
+
+speaker: Speaker_4
+datas: 405810-407555ms
+sentence: 不就是贪赃受贿吗？
+
+speaker: Speaker_8
+datas: 408390-421610ms
+sentence: 禀皇上确实如此。 据陈公们举报， 并经刑部查实， 远的不说， 仅就近八年里， 明珠就收受会银两千万两， 桩桩有案可查，
+
+speaker: Speaker_4
+datas: 422270-425180ms
+sentence: 为何不见了禀皇上？
+
+speaker: Speaker_8
+datas: 425580-427095ms
+sentence: 这正是明珠精明之处。
+
+speaker: Speaker_8
+datas: 429130-453435ms
+sentence: 医者明珠虽爱银子， 却不存银子。 金银珠宝到手之后， 大部分赠送心腹甭挡， 以结齐心。 其次， 据臣查知此次封门言事， 一开始， 明珠就散尽家财， 连宫内的大小太监都得过他的好处。 直到现在， 还有不少人怀念他，
+
+speaker: Speaker_4
+datas: 454220-459405ms
+sentence: 可恨朕， 只知道他是万花筒， 没想到他还是只八角章鱼，
+
+speaker: Speaker_9
+datas: 460790-465345ms
+sentence: 启禀皇上。 他在牢里仍仍然忙于公务啊，
+
+speaker: Speaker_4
+datas: 466550-499060ms
+sentence: 什么公务哼多多怪事啊，
+
+speaker: Speaker_11
+datas: 500580-506620ms
+sentence: 廷玉啊啊不张大人明珠啊，
+
+speaker: Speaker_7
+datas: 507200-512160ms
+sentence: 你忙了大半辈子了， 该歇歇了。 好了，
+
+speaker: Speaker_7
+datas: 514400-514870ms
+sentence: 哎呀，
+
+speaker: Speaker_11
+datas: 517320-550055ms
+sentence: 张大人， 这是公布的五件差使。 呃， 你看这是制和银子的开支报表， 这是尚书房给严道的补充批复， 这是打回兵部的奏章节律。 张大人妃臣完全是凭记忆写的， 或有不去请张大人转成所向这未了的公务， 他可以接着往下办理明珠啊，
+
+speaker: Speaker_7
+datas: 550730-554155ms
+sentence: 你越是这样， 皇上越生气， 哎，
+
+speaker: Speaker_11
+datas: 555220-569635ms
+sentence: 我不完全是给圣上献媚呀， 我我是心里闷得慌闷得慌三十年来， 我天天都是万世缠身的人， 这乍一空下来， 你来试试。
+
+speaker: Speaker_1
+datas: 570880-571145ms
+sentence: 哎，
+
+speaker: Speaker_11
+datas: 572350-579440ms
+sentence: 说实话， 当了一辈子奴才， 突然叫你不当了， 这谁也受不了啊。
+
+speaker: Speaker_7
+datas: 580220-584920ms
+sentence: 明珠啊， 你有什么要求， 我可以代你奏明。
+
+speaker: Speaker_11
+datas: 585600-590475ms
+sentence: 呃， 张大人， 你能不能给一盏亮点的灯啊？
+
+speaker: Speaker_7
+datas: 591310-591890ms
+sentence: 我亮灯，
+
+speaker: Speaker_11
+datas: 592410-596655ms
+sentence: 这有了亮灯以后，
+
+speaker: Speaker_7
+datas: 597710-607625ms
+sentence: 你要好好写自己的罪过， 皇上可等着看你明珠有错的明珠无罪呀，
+
+speaker: Speaker_1
+datas: 614370-616610ms
+sentence: 对着走。 喂，
+
+speaker: Speaker_4
+datas: 636370-640240ms
+sentence: 选址这众臣，
+
+speaker: Speaker_12
+datas: 640400-641005ms
+sentence: 听旨。
+
+speaker: Speaker_12
+datas: 644210-674590ms
+sentence: 尚书房大臣领侍卫、 内大臣、 文华殿大学士、 太子太保、 明珠纠结大学士、 于国柱大学士、 乐德宏、 大学士、 李志芳、 户部尚书弗伦、 吏部、 尚书科尔坤公部、 尚书熊逸霄等蓬部尚奸欺君枉法， 贪赃受贿， 误国害民， 朕再三警醒尔等， 却终然不改。 据为罪， 无可赦酌， 尽数革职， 超没家产， 永不录用。
+
+speaker: Speaker_4
+datas: 674730-692545ms
+sentence: 亲此当朝大学士统共有五位， 朕不得不把四位六部尚书， 朕不得不罢免三位。 看看这七个人吧，
+
+speaker: Speaker_4
+datas: 694890-793285ms
+sentence: 哪个不是两鬓斑白， 哪个不是朝廷的栋梁， 哪个不是朕的儿女亲家， 他们烂了， 朕心要碎了祖宗， 把江山交到朕的手里， 却搞成了这个样子， 朕是痛心疾首， 朕有罪于国家， 愧对祖宗， 愧对天地， 朕恨不得自己罢免了自己。 还有你们虽然个个冠冕堂皇， 站在干岸上， 你们就那么干净吗？ 朕知道你们有的人比这七个人更腐败。 朕劝你们一句， 都把自己的心肺肠子翻出来晒一晒， 洗一洗拾道。 知道朕刚继位的时候， 因为朝廷最大的敌人是鳌拜灭老拜， 以为最大的敌人是吴三桂， 朕平了吴三桂， 台湾又成了大清的心头之患。 啊， 朕收了台湾戈尔山， 又成了大清的心头之患。 朕现在是越来越清楚了， 大清的心头之患不在外边， 而是在朝廷， 就是在这乾清宫，
+
+speaker: Speaker_4
+datas: 796390-832985ms
+sentence: 就在朕的骨肉皇子和大臣们当中， 咱们这儿烂一点， 大清清国就烂一片。 你们要是全烂了， 大清各地就会揭竿而起， 让咱们死无葬身之地呀。 想想吧， 崇祯皇帝朱由检吊死在眉山上才几年呐， 忘了那棵老歪脖子树还站在皇宫后面， 天天的盯着你们呢。
+
+speaker: Speaker_4
+datas: 845490-849295ms
+sentence: 朕已经三天三夜没有合眼了，
+
+speaker: Speaker_4
+datas: 851590-854105ms
+sentence: 老想着和大伙说些什么，
+
+speaker: Speaker_4
+datas: 856340-861905ms
+sentence: 可是话总得有个头啊。
+
+speaker: Speaker_4
+datas: 866030-870495ms
+sentence: 想来想去， 只有四个字，
+
+speaker: Speaker_4
+datas: 897200-916495ms
+sentence: 这四个字说说容易呀， 身体力行， 有何其呢？ 这四个字朕是从心里刨出来的， 从雪海里挖出来。
+
+speaker: Speaker_4
+datas: 919640-922955ms
+sentence: 记着从今日起，
+
+speaker: Speaker_4
+datas: 925220-930735ms
+sentence: 此店改为正大光明殿。
+
+speaker: Speaker_4
+datas: 935130-938685ms
+sentence: 哎， 好好看看，
+
+speaker: Speaker_2
+datas: 941380-945180ms
+sentence: 正当光明啊，
+
+speaker: Speaker_4
+datas: 945360-956625ms
+sentence: 你们都抬起头来好好看看， 想想自己给朕看半个时辰。
+
+speaker: Speaker_4
+datas: 987360-987600ms
+sentence: 哎，
+
+speaker: Speaker_4
+datas: 989630-1004835ms
+sentence: 顶住啊， 这事情就是这么巧， 上次西征坐在笼子里的是李光帝， 这次朕又西征带的是你，
+
+speaker: Speaker_4
+datas: 1008220-1013275ms
+sentence: 你应该比李光地聪明， 知道朕为什么要带着你吗？
+
+speaker: Speaker_11
+datas: 1016350-1021740ms
+sentence: 罪臣要是再待在牢里， 恐怕就要被宋娥图他们害死了。
+
+speaker: Speaker_4
+datas: 1022080-1026335ms
+sentence: 哼算你猜对了啊，
+
+speaker: Speaker_13
+datas: 1038760-1041960ms
+sentence: 拜见皇上是宝如龙眉吧，
+
+speaker: Speaker_4
+datas: 1042620-1046200ms
+sentence: 怎么像个男孩子禀皇上保龙眉进北京的时候，
+
+speaker: Speaker_13
+datas: 1046200-1051575ms
+sentence: 就是一身男儿装， 所以出北京的时候还要是一身男儿装。 哈哈哈。
+
+speaker: Speaker_4
+datas: 1052480-1054820ms
+sentence: 哎， 带古筝了没有啊，
+
+speaker: Speaker_13
+datas: 1054820-1058235ms
+sentence: 没有走的时候留给苏马姐姐了哦，
+
+speaker: Speaker_6
+datas: 1060380-1065235ms
+sentence: 三军集结完毕， 请皇上下旨出征吧。
+
+speaker: Speaker_1
+datas: 1097750-1122510ms
+sentence: 不是好的好的啊，
+
+speaker: Speaker_11
+datas: 1122510-1127280ms
+sentence: 被一个拔草过来。 快点， 是我那边你们两个回去歇着吧。
+
+speaker: Speaker_1
+datas: 1127560-1133730ms
+sentence: 嗯路上太呦了了。
+
+speaker: Speaker_11
+datas: 1133730-1134130ms
+sentence: 好， 嗯，
+
+speaker: Speaker_11
+datas: 1136180-1159945ms
+sentence: 渣渣你们两个去吧。 于师啊， 这鹿肉啊拿给将士们吃去， 哎呀， 嘴唇有个窝头就足够了。 听是舅舅， 哎， 我说应试啊， 你呀就是心太软。
+
+speaker: Speaker_1
+datas: 1160790-1161125ms
+sentence: 哎，
+
+speaker: Speaker_11
+datas: 1162350-1170510ms
+sentence: 快点快点。 记者， 成大事者， 请给心如铁石， 你得毒得狠啊。
+
+speaker: Speaker_6
+datas: 1171330-1175935ms
+sentence: 是舅舅啊，
+
+speaker: Speaker_11
+datas: 1177030-1187185ms
+sentence: 你放心， 舅舅好着呢， 舅舅这一辈子没这么清静过， 你瞧现在多清净啊啊，
+
+speaker: Speaker_11
+datas: 1189780-1200560ms
+sentence: 天高云淡， 风和日丽， 舅舅不会死的舅舅， 我呀还会延年益寿呢。
+
+speaker: Speaker_6
+datas: 1201300-1210645ms
+sentence: 舅舅， 你们要严加防范， 外甥弹劾了， 你我想背负的是告诉了皇阿玛， 说是您逼迫我隐瞒他。
+
+speaker: Speaker_11
+datas: 1211410-1225400ms
+sentence: 好啊， 快点快点你做的对啊， 凡事啊对你不利的事儿， 你都往舅舅身上推， 舅舅啊， 那是死猪不怕开水烫啊， 医石啊， 皇上有什么反应啊？
+
+speaker: Speaker_6
+datas: 1225820-1232435ms
+sentence: 夸妈掉泪了， 还扇了我一个耳光， 让我永远别提这件事。
+
+speaker: Speaker_11
+datas: 1233340-1254510ms
+sentence: 你是啊， 那是爱你替你遮羞啊啊， 你看这回又令你担任千军将军， 其用意就是给你一个扬名的机会呀。 隐士啊， 这回你如果剿灭了葛尔丹， 谁还记得住你被俘之耻啊，
+
+speaker: Speaker_6
+datas: 1254710-1260885ms
+sentence: 是九九， 您多保证我攻成之后想办法救你出来。
+
+speaker: Speaker_11
+datas: 1262310-1284520ms
+sentence: 嗯嗯， 好好好， 嗯嗯， 嗯舅舅啊有的是耐心啊， 皇后有什么不解之处来问舅舅啊， 记住啊， 舅舅不管是坐在尚书房还是坐在囚车里， 这明珠啊还是明珠。
+
+speaker: Speaker_11
+datas: 1293640-1293880ms
+sentence: 嗯，
+
+speaker: Speaker_4
+datas: 1316450-1321345ms
+sentence: 老日啊， 这个季节怎么这么多的雨水啊，
+
+speaker: Speaker_13
+datas: 1322080-1323900ms
+sentence: 皇上这是百年不遇的，
+
+speaker: Speaker_14
+datas: 1324360-1328740ms
+sentence: 皇上， 前面就是沼泽地了， 咱们这战车行进的很慢呢。
+
+speaker: Speaker_4
+datas: 1329240-1331360ms
+sentence: 路再难走， 也要消灭葛尔丹，
+
+speaker: Speaker_8
+datas: 1331560-1335295ms
+sentence: 皇上降令天气， 不利于我有利于敌等等开战为妥。
+
+speaker: Speaker_4
+datas: 1336230-1341485ms
+sentence: 老日啊是像这种天气， 戈尔丹一般都在做什么？
+
+speaker: Speaker_13
+datas: 1342580-1344720ms
+sentence: 坐在帐篷里喝酒吃肉，
+
+speaker: Speaker_4
+datas: 1345220-1365845ms
+sentence: 哼必败。 传旨左右路大军按计划开进， 过了这片泥泞地以后， 立刻开战， 是李光帝啊， 臣在看样子这战期得延误二十天， 这样准备好充足的粮草不得有误啊， 遵旨。
+
+speaker: Speaker_4
+datas: 1374330-1380185ms
+sentence: 张男人兵所向啊啊，
+
+speaker: Speaker_10
+datas: 1381620-1389640ms
+sentence: 对这哎呀上述房里都是皇上的忠臣， 有什么话就说说啊，
+
+speaker: Speaker_6
+datas: 1389860-1405860ms
+sentence: 锁相府家仆急报说， 太夫人的老病又犯了， 正在救治夫人请所相， 速速恢府。 好好好好啊啊， 你慢慢点啊，
+
+speaker: Speaker_10
+datas: 1405860-1409740ms
+sentence: 各位家母下有饭了， 老夫回去， 我敢啊，
+
+speaker: Speaker_7
+datas: 1410020-1418420ms
+sentence: 晚辈恭祝太夫人吉祥。 好好好人在哪儿啊，
+
+speaker: Speaker_6
+datas: 1418420-1423435ms
+sentence: 所相请呃奴才已将他拘禁在这儿。 呃， 后首向示下哦，
+
+speaker: Speaker_1
+datas: 1426210-1434520ms
+sentence: 这边结婚给左大人，
+
+speaker: Speaker_10
+datas: 1434520-1439250ms
+sentence: 请安你就是黄公寡那个折子， 你找着了吗？
+
+speaker: Speaker_15
+datas: 1439330-1452805ms
+sentence: 奴才找着了， 亲眼细看了一遍， 说什么今儿奴才当值用葛大人配的钥匙， 打开了皇上的密匣， 里面有好多密折呢。 奴才找着了那个匿名折子， 打眼一瞧， 吓死了。
+
+speaker: Speaker_10
+datas: 1453570-1455190ms
+sentence: 那折子上说的什么？
+
+speaker: Speaker_15
+datas: 1455630-1468420ms
+sentence: 折子上说， 康熙三十二年索大人， 还有葛大人按周恭结一个老和尚阴谋， 用红衣大炮炸死皇上。 那个老和尚其实是朱三太子假扮的姐姐，
+
+speaker: Speaker_11
+datas: 1468420-1473520ms
+sentence: 说说这那老和尚是南京栖峡寺庙的，
+
+speaker: Speaker_15
+datas: 1473600-1478520ms
+sentence: 叫什么印空大师红衣大炮就安在紫金山上， 准备在皇上祭灵时啊，
+
+speaker: Speaker_11
+datas: 1478520-1479115ms
+sentence: 行啊，
+
+speaker: Speaker_10
+datas: 1481040-1485690ms
+sentence: 上哎哎嗯嗯，
+
+speaker: Speaker_6
+datas: 1485710-1491785ms
+sentence: 忘掉此事， 永远忘掉， 明白吗？ 奴才明白明白走吧。
+
+speaker: Speaker_1
+datas: 1492520-1500320ms
+sentence: 这左侠，
+
+speaker: Speaker_6
+datas: 1501100-1504095ms
+sentence: 您估计这折子是谁上的呢？
+
+speaker: Speaker_10
+datas: 1507950-1512415ms
+sentence: 一名折子就是皇上也查不出来呀，
+
+speaker: Speaker_6
+datas: 1513650-1515195ms
+sentence: 那皇上会相信吗？
+
+speaker: Speaker_10
+datas: 1519440-1520355ms
+sentence: 皇室啊，
+
+speaker: Speaker_10
+datas: 1524030-1529275ms
+sentence: 皇上要是相信咱不早就进大牢了吗？
+
+speaker: Speaker_10
+datas: 1531340-1540930ms
+sentence: 皇上要是不信， 他干嘛把他放在密咒里头呢？ 我琢磨着皇上是将信将疑呀，
+
+speaker: Speaker_6
+datas: 1541530-1543185ms
+sentence: 那我们该怎么办呢？
+
+speaker: Speaker_10
+datas: 1547070-1548865ms
+sentence: 爸那个烟火啊，
+
+speaker: Speaker_6
+datas: 1549730-1552185ms
+sentence: 明白吗？ 奴才会干得干净利索，
+
+speaker: Speaker_10
+datas: 1553290-1590205ms
+sentence: 格莉亚咱们已经没有太平日子了， 伙食只是早晚而已。 我看你得到漠北大营去一趟啊， 奉旨押运粮草京城。 这里由我来安排这样啊啊，
+
+speaker: Speaker_6
+datas: 1591340-1594765ms
+sentence: 哎哈哈恭喜太子啊，
+
+speaker: Speaker_10
+datas: 1595580-1597495ms
+sentence: 红玉怀上龙孙了，
+
+speaker: Speaker_6
+datas: 1598400-1598640ms
+sentence: 哎，
+
+speaker: Speaker_7
+datas: 1599860-1609005ms
+sentence: 就跟做贼似的。 本想堂堂正正的取进府里来， 却碰到了封门言氏， 这场风波， 哪儿还敢跟皇阿玛说呀？
+
+speaker: Speaker_10
+datas: 1609620-1622485ms
+sentence: 太子啊， 皇上已经有所察觉了， 有一者弹劾太子的匿名密奏， 皇上留下了， 你知道吗？
+
+speaker: Speaker_9
+datas: 1624350-1625070ms
+sentence: 没听说呀，
+
+speaker: Speaker_10
+datas: 1625490-1641535ms
+sentence: 那密奏上说呀， 皇上漠被西征期间太子定下了皇冠龙袍， 而且还与一个养化女子行苟且之事， 并且在继位之后要立她为妃。
+
+speaker: Speaker_7
+datas: 1642620-1647540ms
+sentence: 哼准是明主党人干的血口喷人无限。
+
+speaker: Speaker_10
+datas: 1647740-1657325ms
+sentence: 哼血口倒是有一张诬陷， 倒并非全是诬陷。 洪玉不是身怀六甲了吗？ 嗯，
+
+speaker: Speaker_10
+datas: 1659340-1668325ms
+sentence: 哼密奏上说呀， 这个红玉是朱三太子朱慈炯的遗姑，
+
+speaker: Speaker_9
+datas: 1670660-1673065ms
+sentence: 那简直是胡说八道。
+
+speaker: Speaker_10
+datas: 1675310-1709125ms
+sentence: 康熙十八年秋， 据说朱慈炯临死的时候， 留下了一个三岁的宫女， 名叫丹丹， 恰好红玉进我府里的时候也是三岁， 恰恰也是康熙十八年的秋天， 真是他究竟是不是他， 老陈也不清楚， 但是我知道红玉的姿色风韵不比任何皇族女儿差，
+
+speaker: Speaker_10
+datas: 1711280-1713725ms
+sentence: 否则太子你也看不上他呀。
+
+speaker: Speaker_11
+datas: 1714540-1714855ms
+sentence: 嗯，
+
+speaker: Speaker_2
+datas: 1716250-1716925ms
+sentence: 索陀，
+
+speaker: Speaker_9
+datas: 1718110-1719745ms
+sentence: 你可害苦了我呀。
+
+speaker: Speaker_10
+datas: 1720620-1755270ms
+sentence: 哎呀， 当时我根本不知道他是谁呀， 只是看见他快乐死了， 就赏了他一碗粥喝。 他喝完粥以后呢， 就管我叫爷爷， 我心里一疼， 我就把他给收下了。 再说了， 无论他父母有什么罪， 孩子总是无辜的嘛。 这样儿。 当红玉长成如花似玉之后， 太子您一眼就看上她了， 这也是缘分哪这货还不能留着，
+
+speaker: Speaker_9
+datas: 1755270-1760850ms
+sentence: 他了得把他除掉好忍痛割爱，
+
+speaker: Speaker_10
+datas: 1761370-1772630ms
+sentence: 有气魄。 但是老臣想问一句， 日后皇上问起来， 你交不出此女来不就是杀人灭口吗？
+
+speaker: Speaker_6
+datas: 1773270-1773510ms
+sentence: 唉，
+
+speaker: Speaker_9
+datas: 1773950-1775215ms
+sentence: 其实我也舍不得他呀，
+
+speaker: Speaker_2
+datas: 1775860-1776735ms
+sentence: 可怎么办呢？
+
+speaker: Speaker_10
+datas: 1778180-1811695ms
+sentence: 从种种迹象看， 明主倒台以后就轮到我了。 我倒台以后就轮到太子您了。 大哥谋， 你这个太子的位置已经有七八年了， 这我知道如今大哥整日在皇上那里试驾， 一天比一天受宠， 而你呢一天比一天受冷落。 如果此次出征大哥在立下大功， 那你这太子宠运就更加岌岌可危了。
+
+speaker: Speaker_9
+datas: 1822730-1839000ms
+sentence: 国丈救救我， 千万不要让皇阿玛废了。 我自古以来， 皇太子一旦被废， 那就是死路一条啊。 即使皇阿玛不杀我， 后起之君也难容我这个前朝太子啊， 国丈太子别怕，
+
+speaker: Speaker_10
+datas: 1839480-1844735ms
+sentence: 我们还有时间国丈打算怎么办啊？ 老臣自有安排，
+
+speaker: Speaker_10
+datas: 1848040-1854755ms
+sentence: 目前之际未有破釜沉舟， 让你提前登机勿有去。
+
+speaker: Speaker_9
+datas: 1856140-1858910ms
+sentence: 你要害死我皇阿玛太子，
+
+speaker: Speaker_10
+datas: 1858910-1862020ms
+sentence: 最好不要问不成万万不能害。
+
+speaker: Speaker_9
+datas: 1862020-1866500ms
+sentence: 宋皇马宁可被废， 也绝不容人弑君。 哎呀，
+
+speaker: Speaker_10
+datas: 1866900-1877760ms
+sentence: 老夫三代忠臣岂能干这叛逆之事， 回去什么跪下， 我女儿是你亲娘， 我是你的国丈啊，
+
+speaker: Speaker_9
+datas: 1878060-1880175ms
+sentence: 我是太子你是神， 你给我跪下。
+
+speaker: Speaker_1
+datas: 1883220-1886910ms
+sentence: 嗯， 嘿啊，
+
+speaker: Speaker_9
+datas: 1888030-1893360ms
+sentence: 你给我朝天发誓， 绝不伤害我皇阿玛啊。
+
+speaker: Speaker_4
+datas: 1894530-1895185ms
+sentence: 好，
+
+speaker: Speaker_4
+datas: 1897190-1902520ms
+sentence: 老夫发誓所向，
+
+speaker: Speaker_6
+datas: 1902800-1905040ms
+sentence: 托在下拜问大师吉祥。
+
+speaker: Speaker_7
+datas: 1905680-1914555ms
+sentence: 谢了老僧， 即使走到天涯海角， 总是被人惦记着缘分嘛。
+
+speaker: Speaker_6
+datas: 1915660-1929830ms
+sentence: 多年前我们就听说朝乌默来了一位天音大法师， 深得戈尔丹敬重所向。 一猜就是您这回是来抓我呢，
+
+speaker: Speaker_7
+datas: 1929850-1931130ms
+sentence: 还是来求我呀？
+
+speaker: Speaker_6
+datas: 1931570-1940200ms
+sentence: 哎找世俗中人， 谁敢触犯大师啊？ 自然是裘大师来了，
+
+speaker: Speaker_7
+datas: 1940560-1946435ms
+sentence: 嗯， 看来所向也朝不保夕了。
+
+speaker: Speaker_6
+datas: 1947390-1953020ms
+sentence: 那大师复明的大业不也是遥遥无期吗？
+
+speaker: Speaker_7
+datas: 1953380-1958885ms
+sentence: 怎么我都不急所向， 倒替， 我着急了。
+
+speaker: Speaker_6
+datas: 1959690-1983165ms
+sentence: 大师恕罪， 所向， 拜上大师请大师助一臂之力所向。 知道大师此生最大的愿望就是亲眼看到康熙死去， 前两次大师都是功亏一篑， 这一回却有天赐良机呀。
+
+speaker: Speaker_7
+datas: 1985020-1995744ms
+sentence: 你是说戈尔丹要和康熙交战了吧？ 哈老朽上不得马拉不开弓啊。
+
+speaker: Speaker_6
+datas: 1997650-2010105ms
+sentence: 但大师史戈尔丹的智囊深得敬重所向， 想送大师一个完愿的机会， 让康熙永远回不了京城，
+
+speaker: Speaker_7
+datas: 2013020-2013655ms
+sentence: 说下去。
+
+speaker: Speaker_6
+datas: 2018400-2047930ms
+sentence: 朝廷的西征大军最薄弱之处就是粮草。 大营戈尔丹如能焚毁， 粮草， 则断了大军的后路。 康熙从内地征调粮草最快也得一个月， 而将士们仅随身携带三天干粮， 这样一来， 军心避乱， 戈尔丹乘虚而击， 定然大获全胜， 所向只有一个要求， 请格尔丹不要放走。
+
+speaker: Speaker_7
+datas: 2047930-2053280ms
+sentence: 康熙粮草大营如此重要， 岂能无妨？
+
+speaker: Speaker_6
+datas: 2054000-2055265ms
+sentence: 当然有罚，
+
+speaker: Speaker_6
+datas: 2059040-2067030ms
+sentence: 但是担任粮草大营， 总提调官的却是在下唉，
+
+speaker: Speaker_7
+datas: 2067530-2075365ms
+sentence: 康熙呀， 康熙你有所相， 这样的重臣岂能不亡？ 啊啊？
+
+speaker: Speaker_6
+datas: 2076420-2076660ms
+sentence: 哎，
+
+speaker: Speaker_6
+datas: 2079820-2082405ms
+sentence: 大师， 您认得这个吧，
+
+speaker: Speaker_9
+datas: 2091920-2094745ms
+sentence: 这是这是丹丹的项圈。
+
+speaker: Speaker_6
+datas: 2097160-2112800ms
+sentence: 哎， 他活得好好的索香， 待他像女儿一样恩养了十多年了， 现在他名叫红玉哦， 哎朱名为红皇宇为玉， 这个名儿不错吧啊，
+
+speaker: Speaker_9
+datas: 2113040-2116830ms
+sentence: 你们用丹丹做人质来威胁老孙， 哎，
+
+speaker: Speaker_6
+datas: 2117170-2130795ms
+sentence: 岂丐在下恭喜大师啊。 红玉现在已经是太子的爱妾身怀六甲了， 太子爱他如同心肝， 一旦继位， 将封红玉为皇妃呀。
+
+speaker: Speaker_6
+datas: 2134510-2140175ms
+sentence: 索陀海允诺事成之后封大师为明清王。
+
+speaker: Speaker_7
+datas: 2142410-2164540ms
+sentence: 老僧已经走进黄泉路了， 还当什么亲王啊， 老僧只有一个要求， 太子登基后， 如果红玉生下龙子， 则将其子立为皇太子。 这不失印人的体面吧。
+
+speaker: Speaker_6
+datas: 2165020-2174275ms
+sentence: 哎呀， 大清皇子与大明皇女的儿子， 真乃珠联璧合， 顺理成章啊。
+
+speaker: Speaker_14
+datas: 2176070-2180050ms
+sentence: 西北三百里内哨记都探查过了， 不见戈尔丹的踪迹，
+
+speaker: Speaker_4
+datas: 2180170-2181585ms
+sentence: 他钻地里去了，
+
+speaker: Speaker_6
+datas: 2182650-2189240ms
+sentence: 皇阿玛禀皇阿玛被到港急报， 昨天夜里格尔南偷袭粮草大营，
+
+speaker: Speaker_4
+datas: 2189500-2192095ms
+sentence: 粮草呢都被焚毁了，
+
+speaker: Speaker_4
+datas: 2194890-2198665ms
+sentence: 三十万担粮草全都被烧毁了，
+
+speaker: Speaker_6
+datas: 2199440-2207320ms
+sentence: 是粮草，
+
+speaker: Speaker_4
+datas: 2207320-2211285ms
+sentence: 大营有重兵把守， 为何让戈尔丹偷袭了呢？
+
+speaker: Speaker_6
+datas: 2211930-2218075ms
+sentence: 据报， 总提调官格里将大部分军士都派出去运粮草去了， 致使戈尔南偷袭时寡不敌众，
+
+speaker: Speaker_4
+datas: 2218890-2220495ms
+sentence: 格里呢生死不明，
+
+speaker: Speaker_14
+datas: 2221590-2224370ms
+sentence: 皇上隋军的粮草只可以吃，
+
+speaker: Speaker_8
+datas: 2224370-2232990ms
+sentence: 五日从京城运粮草需要十天左右， 算上从各地紧急征调的时间， 前后大约二十天。
+
+speaker: Speaker_4
+datas: 2232990-2240125ms
+sentence: 什么意思吧？ 是不是让朕马上回到京城去啊啊，
+
+speaker: Speaker_8
+datas: 2241110-2267185ms
+sentence: 臣以为不必班师， 但是否可以退军二百里至木兰围场附近带粮， 一者以策万全防备， 戈尔丹乘虚而战， 二者也缩短了运粮的路程。 待粮草军备补充以后， 再行征战不行，
+
+speaker: Speaker_4
+datas: 2267910-2299220ms
+sentence: 未战先退对士气影响太大， 即使天不灭， 戈尔丹， 朕也要灭他。 传旨从即日起上至镇， 下至马夫， 每人每日只准食用一个馒头， 坚守大营， 原地待粮。 知道烈光帝传旨进城， 让索额图和太子速速筹运粮草，
+
+speaker: Speaker_8
+datas: 2299860-2301155ms
+sentence: 臣马上拟旨。
+
+speaker: Speaker_8
+datas: 2324450-2331275ms
+sentence: 哎哎， 不哎呀， 是明大人呐， 啊哎呀，
+
+speaker: Speaker_8
+datas: 2334230-2335125ms
+sentence: 你在这干什么？
+
+speaker: Speaker_11
+datas: 2336190-2344420ms
+sentence: 不是嗯李大人你没看见吗？ 我在这儿有匹马有个车呃， 避避风。
+
+speaker: Speaker_8
+datas: 2345300-2350015ms
+sentence: 从即日起啊， 从皇上到马夫， 每人一个窝头啊，
+
+speaker: Speaker_11
+datas: 2351330-2358835ms
+sentence: 于大人是皇上交给的。
+
+speaker: Speaker_8
+datas: 2359880-2360400ms
+sentence: 是啊，
+
+speaker: Speaker_11
+datas: 2362770-2369825ms
+sentence: 皇上皇上谢皇上明大人你怎么受得了啊？
+
+speaker: Speaker_11
+datas: 2372650-2378835ms
+sentence: 李大人呢， 你不必怜悯老夫， 还是留神自个儿的前程吧。
+
+speaker: Speaker_8
+datas: 2380010-2385275ms
+sentence: 是啊， 我那三尺黄土正在西郊乱坟岗上搁着呢，
+
+speaker: Speaker_11
+datas: 2387050-2390105ms
+sentence: 告诉皇上有内奸，
+
+speaker: Speaker_8
+datas: 2394580-2397250ms
+sentence: 你说什么粮草，
+
+speaker: Speaker_11
+datas: 2397330-2401205ms
+sentence: 大营被焚， 必有内奸呐。
+
+speaker: Speaker_8
+datas: 2404030-2408655ms
+sentence: 倪大人， 你又想诬陷所向了吧。
+
+speaker: Speaker_1
+datas: 2409880-2410120ms
+sentence: 呃，
+
+speaker: Speaker_11
+datas: 2411060-2415315ms
+sentence: 李大人难道你不想弄倒索额图啊？
+
+speaker: Speaker_8
+datas: 2416580-2420270ms
+sentence: 想是想， 但我不愿意栽赃啊。
+
+speaker: Speaker_11
+datas: 2420470-2429925ms
+sentence: 哎呀， 李大人哪， 你就相信老夫的话， 这粮草大营被焚， 这绝不是偶然的， 肯定有内奸呐，
+
+speaker: Speaker_4
+datas: 2439170-2452405ms
+sentence: 好热啊。 这个朝廷赐给你继承科尔克汗位的监策， 带上万一部族头领不服的话， 可以给他们谢皇上。
+
+speaker: Speaker_13
+datas: 2453560-2456335ms
+sentence: 皇上放心， 保日容眉不负盛望，
+
+speaker: Speaker_1
+datas: 2459670-2462375ms
+sentence: 皇上你请多保重。
+
+speaker: Speaker_4
+datas: 2464100-2474015ms
+sentence: 还有如果你找不着旧布的话， 你马上回来， 朕不愿意看到你出事。
+
+speaker: Speaker_13
+datas: 2480440-2486285ms
+sentence: 皇上放心， 保儿龙眉想方设法弄些粮草来以解燃眉之急。
+
+speaker: Speaker_8
+datas: 2490340-2491385ms
+sentence: 宝公主要去哪儿啊？
+
+speaker: Speaker_6
+datas: 2492250-2504970ms
+sentence: 召集旧部， 打探戈尔丹大营还会回来吗？ 不知道朕这里，
+
+speaker: Speaker_4
+datas: 2505150-2510085ms
+sentence: 你尽管放心去吧，
+
+speaker: Speaker_13
+datas: 2510730-2514195ms
+sentence: 皇上告辞啊，
+
+speaker: Speaker_1
+datas: 2535040-2545150ms
+sentence: 就就光帝啊明珠怎么样了？
+
+speaker: Speaker_8
+datas: 2545150-2549235ms
+sentence: 在马棚内取暖呢还挺得住， 快挺不住了。
+
+speaker: Speaker_4
+datas: 2549940-2557450ms
+sentence: 哼， 到现在还不肯上奏悔罪明珠说粮草大应被焚，
+
+speaker: Speaker_8
+datas: 2557910-2560150ms
+sentence: 肯定有内奸策应华嘛。
+
+speaker: Speaker_6
+datas: 2560310-2570970ms
+sentence: 儿臣觉得奇怪， 粮草提调官， 格力怎么能将大部分军师派出去办差呢？ 出事以后又下落不明， 格力早先是锁像的门生， 这一次又是锁相派他来。
+
+speaker: Speaker_4
+datas: 2570970-2583635ms
+sentence: 事到如今， 他还忘不了诬陷别人光帝啊， 臣在朕肯这么朕， 别让明珠再当马夫了让他住进暖帐去给他烧碗热姜汤啊，
+
+speaker: Speaker_8
+datas: 2584410-2597295ms
+sentence: 这去吧这啊索相啊，
+
+speaker: Speaker_7
+datas: 2598520-2600195ms
+sentence: 漠北大营愚址哦，
+
+speaker: Speaker_10
+datas: 2603990-2618335ms
+sentence: 怎么让你任总提调官毒与粮草是十万担粮草限十五日应到。 哎呀， 这国库已经掏空了。
+
+speaker: Speaker_10
+datas: 2620460-2624080ms
+sentence: 哎， 等江南的征粮到京了， 再立刻押韵吧。
+
+speaker: Speaker_6
+datas: 2624720-2625115ms
+sentence: 啊，
+
+speaker: Speaker_14
+datas: 2625890-2629734ms
+sentence: 这是常规做法。 可江南的征粮何时能够到京呢？
+
+speaker: Speaker_10
+datas: 2630570-2631535ms
+sentence: 十天八天吧。
+
+speaker: Speaker_7
+datas: 2632430-2637460ms
+sentence: 那如何来得及听语言啊，
+
+speaker: Speaker_10
+datas: 2638590-2655405ms
+sentence: 这么大个国家， 十万火急的事儿天天都有啊， 等你熬成个老陈你就知道了。 哎， 听雨呀， 任何事儿归归可得一一件的办呢， 急不得谢速相教诲。
+
+speaker: Speaker_14
+datas: 2656110-2661810ms
+sentence: 我看呢江南征掉的粮草不必进京， 可以直接取到漠北所向。
+
+speaker: Speaker_10
+datas: 2661810-2669650ms
+sentence: 你看的啊哦可行啊、 可行啊。 嗯，
+
+speaker: Speaker_1
+datas: 2673690-2676650ms
+sentence: 是你又一当当，
+
+speaker: Speaker_1
+datas: 2678950-2684260ms
+sentence: 只有经奋波啊，
+
+speaker: Speaker_3
+datas: 2684260-2702150ms
+sentence: 乾坤留在我心就已经注定干净。 世界有一份生命世界的一遍，
+
+speaker: Speaker_1
+datas: 2702530-2705220ms
+sentence: 你风里飘落啊，
+
+speaker: Speaker_3
+datas: 2705220-2719400ms
+sentence: 江山扛在我肩头就已经决定。 而本着嗯嗯，
+
+speaker: Speaker_3
+datas: 2723350-2740435ms
+sentence: 我在辛苦说吧， 放下自己， 把忧伤抚摸你好， 险度， 依然执着， 情长， 都藏在心窝。
+
+speaker: Speaker_4
+datas: 2742550-2750380ms
+sentence: 嫌他一路看爱情，
+
+speaker: Speaker_3
+datas: 2750660-2766605ms
+sentence: 不灭， 工作， 放下自己， 把忧伤梦险中， 依然知与情长都藏在心窝。
+
+speaker: Speaker_4
+datas: 2768700-2773290ms
+sentence: 见他一路年，
+
+speaker: Speaker_13
+datas: 2773290-2799310ms
+sentence: 人人嗯嗯嗯嗯皇上我回来了啊，
+
+speaker: Speaker_5
+datas: 2800110-2807020ms
+sentence: 该做的我错了哎呀。
+
+--------------------------------------------------------------------------------
